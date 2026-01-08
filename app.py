@@ -1,135 +1,109 @@
 import streamlit as st
 import mysql.connector
+import pandas as pd
 import matplotlib.pyplot as plt
-from performances import measure_query_time
+from performances import execute_query
 
-# ==========================
-# CONFIGURATION BASE DE DONNÉES
-# ==========================
-DB_CONFIG = {
-    "host": "localhost",
-    "user": "admin_bd",      # changer si besoin
-    "password": "admin123",
-    "database": "e_commerce_db"
-}
+st.set_page_config(page_title="Gestion Hôpital", layout="wide")
 
-# ==========================
-# CONNEXION MYSQL
-# ==========================
+st.title("🏥 Gestion d’un hôpital – Projet Base de Données")
+
+# ======================
+# Connexion MySQL
+# ======================
 def get_connection():
-    return mysql.connector.connect(**DB_CONFIG)
+    return mysql.connector.connect(
+        host="localhost",
+        user="root",
+        password="",      # ⚠️ mets ton mot de passe MySQL
+        database="hopital_db"
+    )
 
-# ==========================
-# INTERFACE STREAMLIT
-# ==========================
-st.title("📊 Analyse des performances – Base de données E-commerce")
-
-st.write(
-    """
-    Cette application permet d'analyser le temps d'exécution des requêtes SQL
-    sur une base de données e-commerce MySQL.
-    """
+# ======================
+# Menu
+# ======================
+menu = st.sidebar.selectbox(
+    "Menu",
+    ["Patients", "Médecins", "Rendez-vous", "Tests de performances"]
 )
 
-# ==========================
-# CONNEXION
-# ==========================
-try:
-    conn = get_connection()
-    cursor = conn.cursor()
-    st.success("Connexion à la base de données réussie ✅")
-except Exception as e:
-    st.error(f"Erreur de connexion : {e}")
-    st.stop()
+# ======================
+# PATIENTS
+# ======================
+if menu == "Patients":
+    st.header("👤 Liste des patients")
 
-# ==========================
-# INFORMATIONS GÉNÉRALES
-# ==========================
-st.subheader("📦 Informations sur la base de données")
+    query = "SELECT * FROM patients"
+    df, t = execute_query(query)
 
-cursor.execute("SELECT COUNT(*) FROM produits")
-nb_produits = cursor.fetchone()[0]
+    st.dataframe(df)
+    st.success(f"Temps d'exécution : {t:.6f} secondes")
 
-cursor.execute("SELECT COUNT(*) FROM utilisateurs")
-nb_utilisateurs = cursor.fetchone()[0]
+# ======================
+# MEDECINS
+# ======================
+elif menu == "Médecins":
+    st.header("👨‍⚕️ Liste des médecins")
 
-st.write(f"Nombre de produits : **{nb_produits}**")
-st.write(f"Nombre d'utilisateurs : **{nb_utilisateurs}**")
+    query = "SELECT id_med, nom_med, prenom_med, specialite FROM medecins"
+    df, t = execute_query(query)
 
-# ==========================
-# TEST DE PERFORMANCE
-# ==========================
-st.subheader("⏱️ Test de performance des requêtes")
+    st.dataframe(df)
+    st.success(f"Temps d'exécution : {t:.6f} secondes")
 
-query = """
-SELECT * FROM produits
-WHERE nom_prod = 'Produit_500'
-"""
+# ======================
+# RENDEZ-VOUS
+# ======================
+elif menu == "Rendez-vous":
+    st.header("📅 Rendez-vous")
 
-st.code(query, language="sql")
-
-if st.button("Tester la requête"):
-    time_exec = measure_query_time(cursor, query)
-    st.write(f"Temps d'exécution : **{time_exec:.6f} secondes**")
-
-# ==========================
-# CRÉATION DE L'INDEX
-# ==========================
-st.subheader("⚡ Optimisation avec index")
-
-if st.button("Créer un index sur nom_prod"):
-    try:
-        cursor.execute("CREATE INDEX idx_nom_prod ON produits(nom_prod)")
-        conn.commit()
-        st.success("Index créé avec succès ✅")
-    except mysql.connector.Error as err:
-        st.warning(f"Index déjà existant ou erreur : {err}")
-
-# ==========================
-# ANALYSE AVANT / APRÈS INDEX
-# ==========================
-st.subheader("📈 Analyse avant / après index")
-
-sizes = [1000, 5000, 10000]
-times = []
-
-for size in sizes:
-    test_query = f"""
-    SELECT * FROM produits
-    WHERE id_prod <= {size}
+    query = """
+    SELECT r.id_rdv, p.nom_pat, p.prenom_pat,
+           m.nom_med, m.prenom_med, r.date_rdv
+    FROM rendez_vous r
+    JOIN patients p ON r.id_pat = p.id_pat
+    JOIN medecins m ON r.id_med = m.id_med
     """
-    exec_time = measure_query_time(cursor, test_query)
-    times.append(exec_time)
 
-# ==========================
-# COURBE DE PERFORMANCE
-# ==========================
-st.subheader("📊 Courbe de performance")
+    df, t = execute_query(query)
 
-fig, ax = plt.subplots()
-ax.plot(sizes, times, marker='o')
-ax.set_xlabel("Nombre de lignes")
-ax.set_ylabel("Temps d'exécution (secondes)")
-ax.set_title("Temps d'exécution en fonction du volume de données")
+    st.dataframe(df)
+    st.success(f"Temps d'exécution : {t:.6f} secondes")
 
-st.pyplot(fig)
+# ======================
+# PERFORMANCE
+# ======================
+elif menu == "Tests de performances":
+    st.header("📊 Analyse des performances SQL")
 
-# ==========================
-# CONCLUSION
-# ==========================
-st.subheader("📝 Conclusion")
+    queries = {
+        "Patients (sans condition)": "SELECT * FROM patients",
+        "Patients par nom": "SELECT * FROM patients WHERE nom_pat LIKE 'A%'",
+        "Rendez-vous par date": "SELECT * FROM rendez_vous WHERE date_rdv >= '2024-01-01'",
+        "Jointure RDV / Patients / Médecins": """
+            SELECT r.id_rdv, p.nom_pat, m.nom_med
+            FROM rendez_vous r
+            JOIN patients p ON r.id_pat = p.id_pat
+            JOIN medecins m ON r.id_med = m.id_med
+        """
+    }
 
-st.write(
-    """
-    L'analyse montre que le temps d'exécution des requêtes augmente avec
-    le nombre de lignes dans la table.  
-    L'utilisation d'index permet d'améliorer considérablement les performances
-    des requêtes de recherche dans une base de données e-commerce.
-    """
-)
+    results = []
 
-# ==========================
-# FERMETURE CONNEXION
-# ==========================
-cursor.close()
-conn.close()
+    for name, q in queries.items():
+        _, t = execute_query(q)
+        results.append({"Requête": name, "Temps (s)": t})
+
+    df_perf = pd.DataFrame(results)
+    st.dataframe(df_perf)
+
+    st.subheader("📈 Courbe des temps d'exécution")
+
+    fig, ax = plt.subplots()
+    ax.plot(df_perf["Requête"], df_perf["Temps (s)"], marker="o")
+    ax.set_ylabel("Temps (secondes)")
+    ax.set_xlabel("Requêtes")
+    ax.set_title("Performance des requêtes SQL")
+    plt.xticks(rotation=30)
+
+    st.pyplot(fig)
