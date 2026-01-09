@@ -1,3001 +1,3000 @@
-nom_med,prenom_med,specialite,id_user
-Fall,Cheikh,Pediatrie,3960
-Ba,Aminata,Chirurgie,4149
-Fall,Abdoulaye,Pediatrie,9091
-Diop,Oumar,Cardiologie,387
-Sow,Fatou,Medecine generale,6828
-Sow,Oumar,Chirurgie,9114
-Ndiaye,Mariama,Pediatrie,8019
-Diop,Cheikh,Pediatrie,7426
-Ba,Mamadou,Dermatologie,5847
-Sy,Cheikh,Pediatrie,444
-Diallo,Awa,Gynecologie,5662
-Sarr,Ousmane,Dermatologie,5925
-Diallo,Aminata,Cardiologie,7968
-Fall,Awa,Pediatrie,9126
-Sarr,Khady,Gynecologie,9246
-Diallo,Ibrahima,Pediatrie,8711
-Sarr,Aminata,Medecine generale,2202
-Sarr,Ousmane,Medecine generale,6029
-Faye,Oumar,Cardiologie,7999
-Sy,Ousmane,Cardiologie,180
-Ba,Abdoulaye,Medecine generale,2545
-Diop,Aminata,Chirurgie,5684
-Diallo,Khady,Dermatologie,8596
-Sy,Ibrahima,Pediatrie,1139
-Ba,Oumar,Cardiologie,7281
-Sow,Awa,Cardiologie,5577
-Gueye,Khady,Cardiologie,7773
-Gueye,Aminata,Pediatrie,6103
-Diop,Aminata,Dermatologie,3641
-Sarr,Abdoulaye,Gynecologie,1445
-Ndiaye,Moussa,Pediatrie,1506
-Sow,Khady,Chirurgie,4113
-Sarr,Khady,Medecine generale,4917
-Kane,Ousmane,Pediatrie,5011
-Faye,Khady,Medecine generale,5178
-Kane,Mariama,Chirurgie,1921
-Gueye,Cheikh,Dermatologie,8492
-Diallo,Mariama,Dermatologie,8996
-Sarr,Fatou,Cardiologie,2265
-Sow,Oumar,Pediatrie,785
-Kane,Ousmane,Dermatologie,9444
-Sow,Khady,Chirurgie,9845
-Sow,Ibrahima,Dermatologie,1879
-Diallo,Moussa,Pediatrie,6073
-Diallo,Aminata,Cardiologie,9364
-Diallo,Ousmane,Pediatrie,7371
-Kane,Oumar,Cardiologie,5224
-Ndiaye,Fatou,Cardiologie,767
-Diallo,Cheikh,Pediatrie,1659
-Faye,Ibrahima,Dermatologie,1271
-Ndiaye,Moussa,Medecine generale,4317
-Ba,Oumar,Pediatrie,6277
-Sy,Cheikh,Pediatrie,2718
-Sow,Ibrahima,Chirurgie,6676
-Sarr,Oumar,Chirurgie,6761
-Sy,Moussa,Chirurgie,9377
-Kane,Mamadou,Cardiologie,4620
-Faye,Mamadou,Gynecologie,6707
-Diop,Fatou,Gynecologie,3889
-Ndiaye,Ousmane,Dermatologie,7868
-Ndiaye,Awa,Cardiologie,4902
-Sarr,Awa,Chirurgie,8600
-Sow,Moussa,Cardiologie,2034
-Gueye,Khady,Medecine generale,6069
-Faye,Awa,Chirurgie,5879
-Ba,Khady,Chirurgie,4293
-Diallo,Mariama,Pediatrie,5511
-Sow,Oumar,Pediatrie,7329
-Diop,Moussa,Pediatrie,6533
-Faye,Fatou,Gynecologie,126
-Kane,Cheikh,Dermatologie,629
-Diop,Cheikh,Dermatologie,9577
-Ba,Oumar,Cardiologie,6450
-Ba,Mamadou,Pediatrie,8773
-Diop,Ousmane,Chirurgie,7177
-Sow,Oumar,Chirurgie,2970
-Sow,Abdoulaye,Medecine generale,4084
-Sy,Ousmane,Gynecologie,6331
-Diallo,Aminata,Dermatologie,2818
-Ndiaye,Abdoulaye,Dermatologie,2350
-Kane,Ibrahima,Pediatrie,7812
-Gueye,Fatou,Medecine generale,9250
-Fall,Abdoulaye,Gynecologie,7370
-Sy,Cheikh,Chirurgie,449
-Gueye,Khady,Gynecologie,9084
-Fall,Cheikh,Gynecologie,3304
-Ndiaye,Khady,Medecine generale,5191
-Ndiaye,Fatou,Gynecologie,1261
-Kane,Aminata,Dermatologie,7425
-Ndiaye,Ibrahima,Chirurgie,2131
-Faye,Ousmane,Medecine generale,4879
-Ba,Awa,Chirurgie,2180
-Sow,Abdoulaye,Cardiologie,7646
-Diop,Mamadou,Gynecologie,7652
-Fall,Oumar,Chirurgie,8735
-Gueye,Ibrahima,Medecine generale,704
-Sow,Khady,Gynecologie,682
-Diallo,Mamadou,Pediatrie,4625
-Ba,Abdoulaye,Gynecologie,2863
-Ndiaye,Mariama,Gynecologie,8436
-Fall,Ibrahima,Chirurgie,3568
-Ndiaye,Fatou,Medecine generale,6726
-Faye,Oumar,Gynecologie,5541
-Sy,Cheikh,Dermatologie,1736
-Kane,Khady,Gynecologie,7962
-Faye,Fatou,Pediatrie,6830
-Faye,Oumar,Chirurgie,314
-Sarr,Oumar,Dermatologie,736
-Diop,Awa,Dermatologie,3461
-Ba,Ibrahima,Gynecologie,8988
-Faye,Khady,Pediatrie,5135
-Ba,Ousmane,Medecine generale,6173
-Diallo,Fatou,Cardiologie,8696
-Sy,Moussa,Chirurgie,4163
-Sy,Moussa,Medecine generale,9259
-Faye,Moussa,Cardiologie,6099
-Sy,Awa,Cardiologie,897
-Gueye,Cheikh,Dermatologie,1557
-Ndiaye,Ousmane,Dermatologie,5979
-Diallo,Aminata,Cardiologie,9869
-Ba,Moussa,Dermatologie,7569
-Diop,Oumar,Dermatologie,1409
-Gueye,Awa,Pediatrie,5138
-Diallo,Awa,Chirurgie,3212
-Ba,Moussa,Dermatologie,3981
-Ndiaye,Fatou,Chirurgie,2749
-Ba,Awa,Dermatologie,2567
-Sow,Mariama,Cardiologie,3669
-Gueye,Moussa,Dermatologie,2801
-Kane,Moussa,Cardiologie,2685
-Sow,Awa,Gynecologie,1320
-Ba,Ousmane,Pediatrie,3508
-Ba,Khady,Medecine generale,9829
-Fall,Ousmane,Medecine generale,3110
-Sarr,Aminata,Gynecologie,744
-Sarr,Oumar,Dermatologie,5159
-Gueye,Aminata,Dermatologie,3013
-Sy,Awa,Pediatrie,3593
-Diallo,Oumar,Gynecologie,6571
-Diop,Ousmane,Dermatologie,3822
-Gueye,Ibrahima,Dermatologie,1361
-Fall,Ousmane,Pediatrie,3752
-Fall,Cheikh,Chirurgie,6454
-Ba,Aminata,Pediatrie,5546
-Kane,Oumar,Cardiologie,4423
-Sy,Moussa,Medecine generale,9309
-Kane,Ousmane,Pediatrie,5774
-Sarr,Fatou,Pediatrie,4127
-Ndiaye,Fatou,Medecine generale,1644
-Sarr,Fatou,Gynecologie,1386
-Diallo,Moussa,Dermatologie,3375
-Sy,Oumar,Cardiologie,8006
-Diallo,Mariama,Medecine generale,228
-Diallo,Oumar,Pediatrie,1159
-Diallo,Mamadou,Cardiologie,6107
-Ndiaye,Mamadou,Chirurgie,2924
-Diop,Mariama,Gynecologie,6760
-Fall,Awa,Cardiologie,3000
-Sy,Cheikh,Medecine generale,1769
-Gueye,Mariama,Gynecologie,653
-Kane,Ibrahima,Medecine generale,9048
-Diop,Mariama,Dermatologie,3128
-Gueye,Fatou,Gynecologie,3834
-Fall,Ibrahima,Chirurgie,6116
-Diop,Cheikh,Gynecologie,7161
-Sy,Ibrahima,Chirurgie,7010
-Sarr,Awa,Chirurgie,6992
-Diallo,Ousmane,Pediatrie,4744
-Ndiaye,Ibrahima,Chirurgie,2083
-Ba,Oumar,Pediatrie,6324
-Diallo,Khady,Dermatologie,6627
-Sarr,Oumar,Dermatologie,3328
-Gueye,Mamadou,Chirurgie,5687
-Kane,Mamadou,Medecine generale,7031
-Diallo,Ousmane,Chirurgie,7884
-Ndiaye,Oumar,Chirurgie,2731
-Gueye,Oumar,Cardiologie,9024
-Sow,Moussa,Medecine generale,9220
-Faye,Fatou,Pediatrie,2275
-Diop,Ousmane,Medecine generale,4584
-Faye,Awa,Medecine generale,4655
-Faye,Mamadou,Pediatrie,9391
-Ba,Ousmane,Pediatrie,5626
-Diop,Moussa,Gynecologie,4223
-Sow,Aminata,Dermatologie,7771
-Fall,Fatou,Pediatrie,8057
-Faye,Fatou,Cardiologie,4609
-Gueye,Aminata,Cardiologie,1967
-Ndiaye,Cheikh,Pediatrie,3979
-Kane,Fatou,Pediatrie,7428
-Fall,Khady,Dermatologie,437
-Fall,Mamadou,Pediatrie,6480
-Fall,Moussa,Gynecologie,4656
-Sy,Aminata,Medecine generale,2850
-Sarr,Mariama,Medecine generale,8378
-Kane,Ibrahima,Gynecologie,2728
-Gueye,Oumar,Chirurgie,1360
-Gueye,Mariama,Medecine generale,1201
-Kane,Ousmane,Pediatrie,5997
-Sarr,Ousmane,Cardiologie,490
-Ba,Mamadou,Pediatrie,5266
-Gueye,Ibrahima,Gynecologie,2502
-Diallo,Mamadou,Dermatologie,6948
-Diop,Khady,Chirurgie,5728
-Sy,Ibrahima,Chirurgie,4106
-Sy,Abdoulaye,Cardiologie,4028
-Diallo,Cheikh,Chirurgie,3572
-Diop,Abdoulaye,Gynecologie,1429
-Sow,Awa,Gynecologie,8985
-Ba,Aminata,Gynecologie,7290
-Sy,Abdoulaye,Cardiologie,7035
-Kane,Ousmane,Medecine generale,4653
-Ndiaye,Aminata,Medecine generale,7519
-Ba,Khady,Chirurgie,686
-Sow,Ousmane,Pediatrie,4256
-Diop,Khady,Medecine generale,5056
-Gueye,Cheikh,Medecine generale,1608
-Ba,Ousmane,Dermatologie,5527
-Kane,Ousmane,Chirurgie,4349
-Fall,Fatou,Medecine generale,2604
-Fall,Aminata,Pediatrie,6902
-Sow,Aminata,Pediatrie,3032
-Diallo,Oumar,Medecine generale,5953
-Diop,Khady,Chirurgie,8886
-Sarr,Oumar,Cardiologie,6206
-Sow,Oumar,Dermatologie,8353
-Diop,Ibrahima,Chirurgie,1385
-Sy,Ibrahima,Cardiologie,6183
-Diallo,Oumar,Pediatrie,2227
-Kane,Awa,Pediatrie,3051
-Sarr,Mamadou,Cardiologie,2247
-Sy,Awa,Dermatologie,6094
-Ba,Khady,Pediatrie,3617
-Kane,Oumar,Medecine generale,4040
-Kane,Cheikh,Cardiologie,9332
-Gueye,Fatou,Pediatrie,9304
-Kane,Awa,Chirurgie,40
-Diallo,Ousmane,Medecine generale,1254
-Diallo,Awa,Medecine generale,1473
-Fall,Cheikh,Pediatrie,3612
-Sy,Cheikh,Gynecologie,9379
-Fall,Fatou,Pediatrie,7857
-Ba,Moussa,Dermatologie,6668
-Ndiaye,Fatou,Chirurgie,2602
-Ndiaye,Mamadou,Cardiologie,9202
-Fall,Aminata,Cardiologie,8702
-Kane,Oumar,Dermatologie,7622
-Faye,Ibrahima,Cardiologie,6077
-Ba,Mamadou,Gynecologie,5787
-Sy,Khady,Gynecologie,3156
-Ba,Oumar,Cardiologie,5291
-Ba,Cheikh,Pediatrie,5825
-Diop,Ibrahima,Chirurgie,640
-Fall,Oumar,Dermatologie,9433
-Sow,Ibrahima,Pediatrie,2920
-Diallo,Abdoulaye,Medecine generale,4092
-Ba,Mariama,Dermatologie,2842
-Diallo,Oumar,Chirurgie,4662
-Gueye,Awa,Dermatologie,9016
-Sy,Mamadou,Chirurgie,1560
-Sow,Awa,Medecine generale,9967
-Sarr,Khady,Medecine generale,3122
-Fall,Fatou,Medecine generale,1485
-Diop,Mamadou,Gynecologie,7739
-Faye,Mamadou,Dermatologie,6043
-Fall,Fatou,Cardiologie,8966
-Fall,Mamadou,Medecine generale,3144
-Sy,Fatou,Medecine generale,4215
-Kane,Abdoulaye,Dermatologie,6058
-Fall,Abdoulaye,Gynecologie,3767
-Fall,Mariama,Gynecologie,6106
-Sow,Mariama,Cardiologie,4781
-Diallo,Aminata,Cardiologie,7225
-Ba,Ibrahima,Chirurgie,3898
-Ba,Ibrahima,Pediatrie,400
-Gueye,Oumar,Pediatrie,9547
-Sarr,Mamadou,Gynecologie,8823
-Sy,Ousmane,Chirurgie,1211
-Kane,Khady,Gynecologie,9449
-Diop,Awa,Dermatologie,5271
-Kane,Aminata,Chirurgie,1350
-Ndiaye,Ousmane,Dermatologie,5616
-Faye,Awa,Cardiologie,7115
-Fall,Ibrahima,Pediatrie,9411
-Sarr,Ibrahima,Dermatologie,9447
-Ba,Mariama,Cardiologie,1559
-Diallo,Abdoulaye,Pediatrie,7537
-Gueye,Awa,Pediatrie,9781
-Sarr,Ousmane,Medecine generale,3431
-Sow,Cheikh,Medecine generale,5675
-Gueye,Khady,Dermatologie,916
-Sy,Abdoulaye,Pediatrie,4984
-Sy,Fatou,Dermatologie,571
-Diallo,Moussa,Chirurgie,9096
-Fall,Khady,Gynecologie,6950
-Ba,Aminata,Dermatologie,8976
-Sarr,Aminata,Dermatologie,1083
-Sarr,Khady,Cardiologie,7936
-Faye,Awa,Gynecologie,1436
-Ba,Fatou,Dermatologie,2123
-Diop,Mariama,Medecine generale,2880
-Sarr,Ousmane,Dermatologie,3943
-Gueye,Awa,Medecine generale,7894
-Sarr,Mariama,Chirurgie,3891
-Sy,Fatou,Chirurgie,7390
-Sow,Mariama,Chirurgie,2981
-Fall,Ousmane,Cardiologie,4798
-Kane,Oumar,Medecine generale,7054
-Diallo,Oumar,Dermatologie,1463
-Sow,Mamadou,Dermatologie,2600
-Sy,Ousmane,Chirurgie,3129
-Kane,Ibrahima,Chirurgie,1853
-Diallo,Moussa,Medecine generale,338
-Gueye,Ousmane,Cardiologie,6900
-Ba,Mariama,Chirurgie,1709
-Diallo,Khady,Cardiologie,6149
-Ndiaye,Mamadou,Pediatrie,7204
-Sarr,Mariama,Cardiologie,6000
-Kane,Cheikh,Gynecologie,6826
-Diallo,Moussa,Pediatrie,4043
-Faye,Khady,Pediatrie,6970
-Sy,Mamadou,Pediatrie,5924
-Diallo,Mariama,Dermatologie,161
-Faye,Oumar,Cardiologie,743
-Faye,Aminata,Gynecologie,7506
-Sow,Ousmane,Pediatrie,9329
-Diop,Moussa,Medecine generale,7339
-Ba,Aminata,Cardiologie,9677
-Kane,Mamadou,Chirurgie,4204
-Ba,Moussa,Medecine generale,7238
-Diallo,Khady,Gynecologie,4022
-Kane,Abdoulaye,Medecine generale,8844
-Sy,Cheikh,Dermatologie,7322
-Diallo,Khady,Pediatrie,7769
-Gueye,Moussa,Pediatrie,6367
-Faye,Ousmane,Medecine generale,5602
-Sy,Ibrahima,Gynecologie,3775
-Sarr,Aminata,Gynecologie,3241
-Diallo,Mamadou,Medecine generale,9683
-Ndiaye,Aminata,Dermatologie,3198
-Diop,Aminata,Gynecologie,2635
-Sy,Mamadou,Gynecologie,9428
-Diallo,Cheikh,Chirurgie,7443
-Sarr,Abdoulaye,Gynecologie,1156
-Ndiaye,Moussa,Chirurgie,5243
-Ndiaye,Mamadou,Dermatologie,5631
-Sow,Cheikh,Gynecologie,421
-Diop,Aminata,Chirurgie,3368
-Gueye,Aminata,Dermatologie,9697
-Sow,Ibrahima,Gynecologie,2907
-Ba,Awa,Cardiologie,2228
-Sy,Awa,Pediatrie,6439
-Diallo,Khady,Medecine generale,9923
-Sow,Mamadou,Medecine generale,7780
-Ba,Moussa,Gynecologie,6852
-Sarr,Awa,Cardiologie,6622
-Diop,Ibrahima,Cardiologie,8276
-Fall,Mariama,Pediatrie,5177
-Diallo,Mamadou,Chirurgie,986
-Kane,Fatou,Dermatologie,2800
-Diop,Cheikh,Cardiologie,5500
-Sow,Ousmane,Medecine generale,4559
-Diallo,Abdoulaye,Cardiologie,8206
-Kane,Khady,Cardiologie,9497
-Faye,Mariama,Pediatrie,107
-Diop,Mamadou,Cardiologie,6601
-Ndiaye,Abdoulaye,Cardiologie,4727
-Kane,Ibrahima,Chirurgie,1834
-Diallo,Mamadou,Dermatologie,2973
-Kane,Khady,Cardiologie,6027
-Faye,Ousmane,Cardiologie,5275
-Sow,Cheikh,Gynecologie,1749
-Sy,Oumar,Chirurgie,3982
-Kane,Ousmane,Gynecologie,9237
-Kane,Mamadou,Medecine generale,6980
-Faye,Khady,Pediatrie,2892
-Sy,Cheikh,Pediatrie,9591
-Fall,Ibrahima,Pediatrie,7143
-Ndiaye,Fatou,Medecine generale,5157
-Ndiaye,Moussa,Dermatologie,8105
-Diop,Mamadou,Gynecologie,1245
-Diallo,Ibrahima,Medecine generale,5467
-Kane,Ousmane,Dermatologie,5131
-Sy,Fatou,Dermatologie,8881
-Ndiaye,Ousmane,Cardiologie,1257
-Faye,Khady,Chirurgie,2416
-Diop,Awa,Medecine generale,6316
-Sow,Abdoulaye,Medecine generale,5077
-Sow,Moussa,Cardiologie,1938
-Diallo,Khady,Cardiologie,6880
-Ba,Cheikh,Dermatologie,1093
-Kane,Cheikh,Pediatrie,7856
-Kane,Ousmane,Pediatrie,2433
-Faye,Fatou,Gynecologie,594
-Diallo,Cheikh,Gynecologie,5669
-Sarr,Mamadou,Medecine generale,4501
-Gueye,Cheikh,Chirurgie,1999
-Kane,Fatou,Dermatologie,7362
-Ndiaye,Cheikh,Medecine generale,1633
-Kane,Oumar,Gynecologie,8092
-Fall,Oumar,Pediatrie,9278
-Ndiaye,Oumar,Dermatologie,2593
-Fall,Moussa,Pediatrie,892
-Diallo,Oumar,Pediatrie,4076
-Faye,Khady,Gynecologie,3749
-Sarr,Cheikh,Chirurgie,7967
-Faye,Awa,Medecine generale,947
-Faye,Khady,Medecine generale,4055
-Ndiaye,Cheikh,Chirurgie,1371
-Sow,Abdoulaye,Gynecologie,5174
-Sarr,Mariama,Dermatologie,7042
-Diop,Khady,Gynecologie,827
-Ba,Khady,Medecine generale,49
-Diallo,Ousmane,Dermatologie,6772
-Fall,Ibrahima,Medecine generale,1808
-Sy,Awa,Pediatrie,8808
-Sarr,Ibrahima,Cardiologie,1957
-Ndiaye,Abdoulaye,Cardiologie,7047
-Ndiaye,Mamadou,Chirurgie,2439
-Sarr,Khady,Pediatrie,7214
-Sarr,Mamadou,Medecine generale,4059
-Faye,Oumar,Gynecologie,1714
-Sy,Ousmane,Cardiologie,5273
-Gueye,Oumar,Chirurgie,4056
-Diop,Fatou,Medecine generale,9430
-Ba,Cheikh,Cardiologie,4068
-Sy,Mamadou,Medecine generale,815
-Fall,Awa,Pediatrie,926
-Fall,Cheikh,Gynecologie,3850
-Diop,Awa,Cardiologie,9130
-Diop,Mamadou,Dermatologie,5954
-Gueye,Moussa,Gynecologie,5603
-Ndiaye,Mamadou,Dermatologie,615
-Fall,Cheikh,Chirurgie,3800
-Sow,Fatou,Pediatrie,9113
-Faye,Mariama,Cardiologie,8446
-Sy,Oumar,Chirurgie,8180
-Kane,Mamadou,Medecine generale,2405
-Ndiaye,Khady,Medecine generale,4717
-Sy,Cheikh,Cardiologie,9726
-Diallo,Awa,Medecine generale,981
-Gueye,Mariama,Medecine generale,8438
-Gueye,Oumar,Medecine generale,8770
-Ndiaye,Abdoulaye,Dermatologie,2023
-Diallo,Awa,Chirurgie,1260
-Diallo,Cheikh,Chirurgie,2975
-Ndiaye,Aminata,Medecine generale,2077
-Ba,Khady,Cardiologie,4203
-Kane,Khady,Pediatrie,1865
-Ba,Moussa,Gynecologie,4475
-Sy,Abdoulaye,Pediatrie,9567
-Sow,Moussa,Chirurgie,5998
-Fall,Ousmane,Cardiologie,9495
-Sy,Oumar,Gynecologie,9599
-Kane,Mariama,Cardiologie,8181
-Sow,Mariama,Medecine generale,2491
-Diallo,Moussa,Dermatologie,5356
-Sarr,Mariama,Gynecologie,7414
-Fall,Cheikh,Gynecologie,4891
-Faye,Aminata,Chirurgie,2715
-Sarr,Mamadou,Dermatologie,3498
-Sy,Aminata,Pediatrie,6347
-Ndiaye,Moussa,Cardiologie,1397
-Fall,Moussa,Medecine generale,7478
-Sarr,Mamadou,Cardiologie,9346
-Sy,Cheikh,Medecine generale,9358
-Sarr,Mamadou,Dermatologie,6536
-Ndiaye,Ousmane,Cardiologie,9951
-Fall,Ousmane,Medecine generale,1978
-Kane,Ibrahima,Pediatrie,9506
-Ba,Aminata,Medecine generale,5565
-Sy,Awa,Chirurgie,6614
-Faye,Abdoulaye,Medecine generale,5766
-Ba,Mariama,Pediatrie,5512
-Kane,Oumar,Dermatologie,6559
-Kane,Ibrahima,Dermatologie,5677
-Faye,Aminata,Dermatologie,4874
-Kane,Fatou,Gynecologie,4869
-Diallo,Cheikh,Medecine generale,1686
-Gueye,Ousmane,Pediatrie,1785
-Fall,Mariama,Pediatrie,993
-Ba,Cheikh,Cardiologie,4839
-Sow,Ibrahima,Chirurgie,2387
-Gueye,Aminata,Pediatrie,8948
-Sow,Aminata,Cardiologie,4324
-Faye,Khady,Pediatrie,6130
-Sow,Cheikh,Medecine generale,4694
-Ndiaye,Ousmane,Medecine generale,7747
-Diallo,Oumar,Gynecologie,8963
-Sy,Aminata,Gynecologie,7320
-Sarr,Fatou,Pediatrie,7541
-Ndiaye,Moussa,Chirurgie,7882
-Sy,Ousmane,Chirurgie,8281
-Ndiaye,Khady,Medecine generale,6384
-Diallo,Fatou,Cardiologie,5726
-Faye,Ibrahima,Dermatologie,6162
-Diop,Oumar,Cardiologie,175
-Faye,Ibrahima,Chirurgie,8192
-Sarr,Mariama,Gynecologie,4641
-Kane,Abdoulaye,Gynecologie,1604
-Diallo,Mariama,Dermatologie,8333
-Ba,Awa,Chirurgie,8460
-Sy,Awa,Pediatrie,3092
-Gueye,Moussa,Chirurgie,6957
-Diallo,Mamadou,Chirurgie,2940
-Kane,Oumar,Dermatologie,6604
-Fall,Aminata,Chirurgie,2411
-Sarr,Mariama,Dermatologie,2168
-Ndiaye,Fatou,Medecine generale,9241
-Fall,Mamadou,Cardiologie,1534
-Faye,Mamadou,Pediatrie,3382
-Faye,Abdoulaye,Gynecologie,2115
-Fall,Khady,Gynecologie,816
-Sy,Abdoulaye,Pediatrie,4826
-Diop,Awa,Pediatrie,7866
-Sy,Ousmane,Dermatologie,9761
-Ndiaye,Mariama,Cardiologie,237
-Sow,Mamadou,Dermatologie,149
-Faye,Awa,Medecine generale,1660
-Sow,Khady,Gynecologie,9482
-Diallo,Moussa,Dermatologie,6884
-Ndiaye,Aminata,Medecine generale,6188
-Sow,Mamadou,Cardiologie,3201
-Sy,Fatou,Medecine generale,4811
-Sow,Awa,Cardiologie,9662
-Ba,Awa,Gynecologie,1680
-Gueye,Oumar,Chirurgie,6468
-Sy,Mariama,Dermatologie,9597
-Diallo,Ibrahima,Gynecologie,2929
-Fall,Aminata,Dermatologie,4567
-Fall,Khady,Medecine generale,2687
-Sy,Fatou,Medecine generale,698
-Diallo,Mamadou,Chirurgie,8775
-Kane,Oumar,Cardiologie,4093
-Diallo,Fatou,Chirurgie,7354
-Diop,Ousmane,Gynecologie,5976
-Sarr,Aminata,Medecine generale,1020
-Sy,Moussa,Gynecologie,6548
-Ndiaye,Fatou,Cardiologie,8826
-Sow,Ibrahima,Medecine generale,560
-Diallo,Oumar,Gynecologie,4679
-Diallo,Ousmane,Medecine generale,9825
-Diop,Oumar,Chirurgie,2653
-Diop,Mamadou,Pediatrie,2756
-Fall,Mariama,Gynecologie,6837
-Diop,Abdoulaye,Gynecologie,2705
-Sy,Khady,Chirurgie,8357
-Sy,Mamadou,Chirurgie,2000
-Gueye,Moussa,Dermatologie,876
-Sarr,Abdoulaye,Pediatrie,5058
-Sarr,Oumar,Chirurgie,2946
-Fall,Aminata,Cardiologie,4187
-Diop,Awa,Cardiologie,7593
-Sow,Fatou,Chirurgie,6359
-Fall,Oumar,Medecine generale,1219
-Ndiaye,Oumar,Medecine generale,1797
-Ba,Cheikh,Pediatrie,7087
-Ba,Mariama,Gynecologie,6233
-Ndiaye,Aminata,Cardiologie,68
-Kane,Ibrahima,Pediatrie,3464
-Ba,Oumar,Dermatologie,1636
-Diallo,Abdoulaye,Pediatrie,5881
-Diallo,Abdoulaye,Dermatologie,8531
-Fall,Mamadou,Medecine generale,4952
-Kane,Ousmane,Medecine generale,4957
-Kane,Moussa,Pediatrie,4887
-Ndiaye,Mariama,Gynecologie,3691
+Sy,Oumar,Gynecologie,1
+Sy,Mamadou,Medecine generale,2
+Sy,Abdoulaye,Medecine generale,3
+Fall,Mamadou,Dermatologie,4
+Kane,Cheikh,Pediatrie,5
+Diallo,Khady,Gynecologie,6
+Faye,Mariama,Gynecologie,7
+Fall,Ousmane,Pediatrie,8
+Sarr,Ousmane,Chirurgie,9
+Diop,Abdoulaye,Cardiologie,10
+Diop,Ousmane,Pediatrie,11
+Fall,Khady,Cardiologie,12
+Faye,Cheikh,Medecine generale,13
+Gueye,Oumar,Gynecologie,14
+Diallo,Fatou,Cardiologie,15
+Ba,Khady,Dermatologie,16
+Ba,Oumar,Chirurgie,17
+Gueye,Khady,Dermatologie,18
+Fall,Fatou,Medecine generale,19
+Ba,Moussa,Pediatrie,20
+Sarr,Awa,Pediatrie,21
+Diallo,Aminata,Gynecologie,22
+Ba,Khady,Gynecologie,23
+Diop,Moussa,Dermatologie,24
+Diop,Moussa,Chirurgie,25
+Diop,Ousmane,Cardiologie,26
+Ndiaye,Awa,Medecine generale,27
+Fall,Ousmane,Cardiologie,28
+Ndiaye,Fatou,Cardiologie,29
+Diop,Moussa,Gynecologie,30
+Fall,Ibrahima,Chirurgie,31
+Sy,Aminata,Dermatologie,32
+Diallo,Mariama,Chirurgie,33
+Ba,Khady,Medecine generale,34
+Gueye,Khady,Cardiologie,35
+Diallo,Khady,Gynecologie,36
+Diallo,Fatou,Chirurgie,37
+Faye,Ousmane,Chirurgie,38
+Ba,Mariama,Pediatrie,39
+Fall,Oumar,Gynecologie,40
+Ba,Oumar,Cardiologie,41
+Sarr,Awa,Chirurgie,42
+Diop,Awa,Medecine generale,43
+Ndiaye,Fatou,Gynecologie,44
+Ndiaye,Mamadou,Dermatologie,45
+Fall,Awa,Cardiologie,46
+Sarr,Fatou,Gynecologie,47
+Sow,Fatou,Chirurgie,48
+Sow,Abdoulaye,Medecine generale,49
+Kane,Ibrahima,Cardiologie,50
+Gueye,Abdoulaye,Pediatrie,51
+Ndiaye,Moussa,Chirurgie,52
+Fall,Khady,Cardiologie,53
+Ndiaye,Moussa,Cardiologie,54
+Kane,Mariama,Pediatrie,55
+Ba,Khady,Chirurgie,56
+Diallo,Cheikh,Pediatrie,57
+Diop,Cheikh,Chirurgie,58
+Ndiaye,Abdoulaye,Gynecologie,59
+Sarr,Mariama,Pediatrie,60
+Ba,Mamadou,Medecine generale,61
+Ba,Khady,Medecine generale,62
+Gueye,Abdoulaye,Pediatrie,63
+Sow,Ousmane,Chirurgie,64
+Sarr,Mamadou,Chirurgie,65
+Diallo,Ousmane,Medecine generale,66
+Sow,Fatou,Pediatrie,67
+Ba,Cheikh,Pediatrie,68
+Diallo,Ousmane,Medecine generale,69
+Sy,Mariama,Cardiologie,70
+Ba,Khady,Chirurgie,71
+Sow,Oumar,Cardiologie,72
+Ndiaye,Mariama,Cardiologie,73
+Sy,Oumar,Gynecologie,74
+Fall,Aminata,Medecine generale,75
+Sy,Awa,Medecine generale,76
+Sarr,Ibrahima,Chirurgie,77
+Diop,Mariama,Gynecologie,78
+Fall,Aminata,Pediatrie,79
+Kane,Oumar,Chirurgie,80
+Faye,Aminata,Cardiologie,81
+Diop,Khady,Pediatrie,82
+Sy,Ibrahima,Pediatrie,83
+Diallo,Cheikh,Cardiologie,84
+Kane,Oumar,Medecine generale,85
+Gueye,Mariama,Dermatologie,86
+Ndiaye,Ousmane,Chirurgie,87
+Sow,Fatou,Dermatologie,88
+Faye,Cheikh,Dermatologie,89
+Ba,Mariama,Medecine generale,90
+Faye,Ousmane,Medecine generale,91
+Ba,Mamadou,Medecine generale,92
+Sarr,Ibrahima,Cardiologie,93
+Ba,Mamadou,Medecine generale,94
+Sy,Khady,Pediatrie,95
+Sow,Mariama,Pediatrie,96
+Sy,Khady,Medecine generale,97
+Sy,Aminata,Chirurgie,98
+Ndiaye,Khady,Chirurgie,99
+Sarr,Fatou,Pediatrie,100
+Fall,Abdoulaye,Medecine generale,101
+Faye,Aminata,Dermatologie,102
+Sarr,Cheikh,Chirurgie,103
+Kane,Aminata,Medecine generale,104
+Ndiaye,Mariama,Cardiologie,105
+Fall,Mamadou,Medecine generale,106
+Ndiaye,Oumar,Pediatrie,107
+Diallo,Khady,Medecine generale,108
+Diallo,Mariama,Cardiologie,109
+Ndiaye,Aminata,Chirurgie,110
+Fall,Awa,Medecine generale,111
+Fall,Awa,Pediatrie,112
+Diop,Ibrahima,Chirurgie,113
+Ba,Khady,Pediatrie,114
+Sarr,Cheikh,Gynecologie,115
+Kane,Awa,Pediatrie,116
+Fall,Khady,Chirurgie,117
+Faye,Abdoulaye,Pediatrie,118
+Sy,Awa,Medecine generale,119
+Ndiaye,Cheikh,Cardiologie,120
+Sow,Cheikh,Medecine generale,121
+Fall,Aminata,Cardiologie,122
+Diop,Mariama,Chirurgie,123
+Sarr,Fatou,Pediatrie,124
+Faye,Fatou,Dermatologie,125
+Sy,Fatou,Gynecologie,126
+Ndiaye,Oumar,Chirurgie,127
+Sarr,Fatou,Dermatologie,128
+Gueye,Khady,Gynecologie,129
+Faye,Oumar,Dermatologie,130
+Kane,Ousmane,Cardiologie,131
+Diallo,Khady,Gynecologie,132
+Fall,Ousmane,Chirurgie,133
+Kane,Fatou,Chirurgie,134
+Kane,Awa,Chirurgie,135
+Sow,Fatou,Medecine generale,136
+Sy,Ibrahima,Medecine generale,137
+Fall,Mariama,Cardiologie,138
+Diallo,Mamadou,Chirurgie,139
+Faye,Oumar,Dermatologie,140
+Diallo,Moussa,Medecine generale,141
+Sy,Fatou,Chirurgie,142
+Diop,Awa,Gynecologie,143
+Diop,Oumar,Chirurgie,144
+Ba,Ibrahima,Gynecologie,145
+Kane,Cheikh,Gynecologie,146
+Sow,Awa,Dermatologie,147
+Sarr,Aminata,Cardiologie,148
+Fall,Abdoulaye,Cardiologie,149
+Ndiaye,Cheikh,Medecine generale,150
+Sow,Mamadou,Medecine generale,151
+Diallo,Abdoulaye,Cardiologie,152
+Ba,Moussa,Cardiologie,153
+Diallo,Moussa,Cardiologie,154
+Sow,Cheikh,Gynecologie,155
+Sow,Awa,Medecine generale,156
+Diallo,Abdoulaye,Chirurgie,157
+Gueye,Abdoulaye,Pediatrie,158
+Sow,Oumar,Cardiologie,159
+Diallo,Awa,Medecine generale,160
+Fall,Khady,Dermatologie,161
+Sy,Oumar,Gynecologie,162
+Kane,Awa,Medecine generale,163
+Sow,Ousmane,Medecine generale,164
+Sy,Abdoulaye,Medecine generale,165
+Gueye,Aminata,Chirurgie,166
+Faye,Mamadou,Medecine generale,167
+Diallo,Moussa,Pediatrie,168
+Ba,Abdoulaye,Cardiologie,169
+Ba,Fatou,Chirurgie,170
+Diallo,Fatou,Gynecologie,171
+Diop,Cheikh,Chirurgie,172
+Sow,Mariama,Medecine generale,173
+Sy,Moussa,Dermatologie,174
+Sy,Ibrahima,Cardiologie,175
+Sarr,Cheikh,Pediatrie,176
+Gueye,Mariama,Cardiologie,177
+Diallo,Ousmane,Dermatologie,178
+Diallo,Aminata,Medecine generale,179
+Gueye,Aminata,Cardiologie,180
+Ndiaye,Fatou,Dermatologie,181
+Fall,Aminata,Cardiologie,182
+Sy,Oumar,Chirurgie,183
+Diallo,Abdoulaye,Chirurgie,184
+Faye,Khady,Gynecologie,185
+Gueye,Aminata,Pediatrie,186
+Gueye,Fatou,Pediatrie,187
+Sy,Ousmane,Gynecologie,188
+Sarr,Awa,Chirurgie,189
+Kane,Oumar,Gynecologie,190
+Faye,Khady,Gynecologie,191
+Sow,Awa,Gynecologie,192
+Gueye,Awa,Pediatrie,193
+Sarr,Ousmane,Medecine generale,194
+Sy,Aminata,Cardiologie,195
+Gueye,Fatou,Gynecologie,196
+Sow,Aminata,Chirurgie,197
+Sarr,Moussa,Gynecologie,198
+Faye,Mariama,Cardiologie,199
+Gueye,Mariama,Cardiologie,200
+Sarr,Fatou,Dermatologie,201
+Ba,Fatou,Dermatologie,202
+Gueye,Oumar,Gynecologie,203
+Gueye,Fatou,Medecine generale,204
+Sarr,Mamadou,Chirurgie,205
+Diallo,Abdoulaye,Cardiologie,206
+Ndiaye,Ibrahima,Pediatrie,207
+Ba,Cheikh,Medecine generale,208
+Kane,Cheikh,Gynecologie,209
+Diallo,Mamadou,Gynecologie,210
+Ndiaye,Fatou,Pediatrie,211
+Gueye,Mamadou,Chirurgie,212
+Kane,Fatou,Pediatrie,213
+Ndiaye,Awa,Gynecologie,214
+Sarr,Awa,Pediatrie,215
+Sarr,Ibrahima,Medecine generale,216
+Kane,Ibrahima,Chirurgie,217
+Gueye,Cheikh,Pediatrie,218
+Faye,Mariama,Medecine generale,219
+Sy,Fatou,Chirurgie,220
+Gueye,Khady,Cardiologie,221
+Fall,Abdoulaye,Gynecologie,222
+Faye,Mariama,Pediatrie,223
+Ba,Khady,Pediatrie,224
+Diop,Khady,Cardiologie,225
+Diallo,Mariama,Dermatologie,226
+Faye,Khady,Pediatrie,227
+Diop,Mamadou,Chirurgie,228
+Diallo,Awa,Gynecologie,229
+Diop,Fatou,Dermatologie,230
+Ndiaye,Abdoulaye,Medecine generale,231
+Faye,Awa,Medecine generale,232
+Kane,Mariama,Chirurgie,233
+Fall,Khady,Pediatrie,234
+Sy,Khady,Gynecologie,235
+Diallo,Khady,Medecine generale,236
+Diallo,Cheikh,Pediatrie,237
+Sow,Moussa,Gynecologie,238
+Kane,Awa,Cardiologie,239
+Diallo,Khady,Chirurgie,240
+Ba,Oumar,Chirurgie,241
+Ba,Khady,Chirurgie,242
+Fall,Fatou,Cardiologie,243
+Ndiaye,Ibrahima,Pediatrie,244
+Diop,Khady,Gynecologie,245
+Ba,Moussa,Chirurgie,246
+Sow,Moussa,Pediatrie,247
+Sy,Awa,Dermatologie,248
+Kane,Aminata,Dermatologie,249
+Fall,Ibrahima,Pediatrie,250
+Kane,Mamadou,Chirurgie,251
+Gueye,Mariama,Chirurgie,252
+Sow,Moussa,Pediatrie,253
+Diop,Mariama,Pediatrie,254
+Kane,Fatou,Chirurgie,255
+Fall,Abdoulaye,Dermatologie,256
+Sy,Moussa,Gynecologie,257
+Kane,Mariama,Pediatrie,258
+Kane,Mariama,Pediatrie,259
+Ba,Ibrahima,Chirurgie,260
+Fall,Ousmane,Gynecologie,261
+Kane,Oumar,Medecine generale,262
+Kane,Fatou,Pediatrie,263
+Sow,Moussa,Cardiologie,264
+Sarr,Ousmane,Medecine generale,265
+Diallo,Fatou,Chirurgie,266
+Fall,Aminata,Medecine generale,267
+Diop,Oumar,Pediatrie,268
+Ba,Fatou,Gynecologie,269
+Diallo,Awa,Cardiologie,270
+Sy,Khady,Cardiologie,271
+Ndiaye,Oumar,Cardiologie,272
+Ndiaye,Moussa,Dermatologie,273
+Diallo,Moussa,Gynecologie,274
+Sow,Awa,Chirurgie,275
+Ba,Moussa,Chirurgie,276
+Diop,Khady,Dermatologie,277
+Ndiaye,Fatou,Cardiologie,278
+Faye,Khady,Chirurgie,279
+Kane,Aminata,Chirurgie,280
+Diop,Ousmane,Medecine generale,281
+Diop,Awa,Dermatologie,282
+Sy,Fatou,Dermatologie,283
+Ba,Fatou,Cardiologie,284
+Sow,Mariama,Chirurgie,285
+Fall,Aminata,Cardiologie,286
+Sarr,Oumar,Chirurgie,287
+Fall,Ibrahima,Medecine generale,288
+Kane,Aminata,Chirurgie,289
+Sow,Moussa,Dermatologie,290
+Kane,Ibrahima,Cardiologie,291
+Faye,Abdoulaye,Gynecologie,292
+Faye,Mariama,Dermatologie,293
+Sarr,Fatou,Chirurgie,294
+Fall,Awa,Gynecologie,295
+Sarr,Oumar,Gynecologie,296
+Sy,Cheikh,Gynecologie,297
+Faye,Aminata,Gynecologie,298
+Gueye,Fatou,Gynecologie,299
+Sarr,Fatou,Pediatrie,300
+Gueye,Abdoulaye,Dermatologie,301
+Faye,Cheikh,Chirurgie,302
+Ndiaye,Mariama,Chirurgie,303
+Gueye,Moussa,Pediatrie,304
+Ba,Ibrahima,Pediatrie,305
+Diallo,Awa,Gynecologie,306
+Diallo,Aminata,Cardiologie,307
+Ba,Mariama,Dermatologie,308
+Sy,Ousmane,Gynecologie,309
+Sy,Moussa,Medecine generale,310
+Gueye,Awa,Pediatrie,311
+Ba,Abdoulaye,Dermatologie,312
+Gueye,Ousmane,Chirurgie,313
+Sarr,Oumar,Pediatrie,314
+Diallo,Khady,Medecine generale,315
+Sy,Moussa,Gynecologie,316
+Diop,Abdoulaye,Chirurgie,317
+Diallo,Mariama,Chirurgie,318
+Kane,Abdoulaye,Medecine generale,319
+Faye,Fatou,Dermatologie,320
+Fall,Abdoulaye,Chirurgie,321
+Diop,Aminata,Cardiologie,322
+Diop,Mariama,Gynecologie,323
+Sow,Oumar,Cardiologie,324
+Kane,Moussa,Chirurgie,325
+Ndiaye,Abdoulaye,Medecine generale,326
+Sarr,Ibrahima,Dermatologie,327
+Fall,Oumar,Gynecologie,328
+Sarr,Mariama,Dermatologie,329
+Gueye,Aminata,Chirurgie,330
+Fall,Awa,Gynecologie,331
+Sy,Mariama,Medecine generale,332
+Sow,Mamadou,Gynecologie,333
+Ba,Ibrahima,Pediatrie,334
+Fall,Mamadou,Gynecologie,335
+Ba,Mariama,Dermatologie,336
+Sow,Ousmane,Pediatrie,337
+Sow,Abdoulaye,Cardiologie,338
+Kane,Oumar,Cardiologie,339
+Sarr,Fatou,Gynecologie,340
+Kane,Abdoulaye,Gynecologie,341
+Sarr,Fatou,Pediatrie,342
+Diallo,Khady,Chirurgie,343
+Fall,Abdoulaye,Pediatrie,344
+Sy,Fatou,Dermatologie,345
+Fall,Fatou,Cardiologie,346
+Diop,Abdoulaye,Cardiologie,347
+Sow,Fatou,Dermatologie,348
+Sarr,Aminata,Gynecologie,349
+Diallo,Cheikh,Pediatrie,350
+Sarr,Mariama,Pediatrie,351
+Ndiaye,Mamadou,Dermatologie,352
+Sarr,Ibrahima,Cardiologie,353
+Sy,Mamadou,Cardiologie,354
+Sy,Ousmane,Chirurgie,355
+Sy,Ousmane,Cardiologie,356
+Gueye,Oumar,Medecine generale,357
+Diop,Abdoulaye,Dermatologie,358
+Ba,Ousmane,Pediatrie,359
+Sy,Moussa,Cardiologie,360
+Sy,Fatou,Dermatologie,361
+Sow,Mamadou,Cardiologie,362
+Sow,Oumar,Pediatrie,363
+Faye,Ibrahima,Cardiologie,364
+Fall,Mamadou,Dermatologie,365
+Faye,Ibrahima,Cardiologie,366
+Sow,Aminata,Cardiologie,367
+Gueye,Ibrahima,Medecine generale,368
+Fall,Khady,Cardiologie,369
+Gueye,Moussa,Chirurgie,370
+Sy,Mariama,Cardiologie,371
+Sy,Ibrahima,Dermatologie,372
+Gueye,Ousmane,Cardiologie,373
+Gueye,Fatou,Gynecologie,374
+Sow,Aminata,Chirurgie,375
+Sarr,Ibrahima,Medecine generale,376
+Faye,Mariama,Gynecologie,377
+Sarr,Mariama,Pediatrie,378
+Diop,Cheikh,Pediatrie,379
+Sow,Khady,Medecine generale,380
+Faye,Fatou,Chirurgie,381
+Diop,Mamadou,Cardiologie,382
+Ba,Khady,Cardiologie,383
+Sy,Oumar,Medecine generale,384
+Sy,Ibrahima,Pediatrie,385
+Ba,Mamadou,Gynecologie,386
+Fall,Fatou,Cardiologie,387
+Kane,Ousmane,Pediatrie,388
+Faye,Moussa,Gynecologie,389
+Fall,Mamadou,Cardiologie,390
+Kane,Moussa,Medecine generale,391
+Sy,Moussa,Gynecologie,392
+Gueye,Abdoulaye,Cardiologie,393
+Fall,Mamadou,Dermatologie,394
+Sarr,Ibrahima,Gynecologie,395
+Ndiaye,Abdoulaye,Medecine generale,396
+Sarr,Fatou,Chirurgie,397
+Kane,Mariama,Cardiologie,398
+Ndiaye,Ousmane,Pediatrie,399
+Faye,Awa,Cardiologie,400
+Kane,Awa,Cardiologie,401
+Kane,Ibrahima,Chirurgie,402
+Sy,Oumar,Medecine generale,403
+Ba,Ousmane,Gynecologie,404
+Sow,Mariama,Chirurgie,405
+Diallo,Aminata,Medecine generale,406
+Diop,Cheikh,Dermatologie,407
+Ndiaye,Moussa,Gynecologie,408
+Diop,Mariama,Chirurgie,409
+Sarr,Moussa,Dermatologie,410
+Ndiaye,Mamadou,Pediatrie,411
+Sy,Ibrahima,Cardiologie,412
+Faye,Abdoulaye,Cardiologie,413
+Ndiaye,Moussa,Gynecologie,414
+Fall,Khady,Chirurgie,415
+Diallo,Awa,Medecine generale,416
+Kane,Fatou,Pediatrie,417
+Ba,Oumar,Gynecologie,418
+Sy,Moussa,Medecine generale,419
+Faye,Moussa,Pediatrie,420
+Ndiaye,Ibrahima,Cardiologie,421
+Faye,Aminata,Pediatrie,422
+Faye,Abdoulaye,Pediatrie,423
+Gueye,Khady,Gynecologie,424
+Sy,Ousmane,Pediatrie,425
+Diallo,Moussa,Pediatrie,426
+Gueye,Ibrahima,Chirurgie,427
+Ba,Mariama,Medecine generale,428
+Ndiaye,Mamadou,Medecine generale,429
+Gueye,Moussa,Chirurgie,430
+Gueye,Cheikh,Cardiologie,431
+Sy,Ousmane,Pediatrie,432
+Sarr,Aminata,Gynecologie,433
+Fall,Khady,Medecine generale,434
+Sarr,Fatou,Cardiologie,435
+Kane,Cheikh,Chirurgie,436
+Sow,Ibrahima,Chirurgie,437
+Ndiaye,Ousmane,Chirurgie,438
+Sow,Ibrahima,Cardiologie,439
+Sow,Ousmane,Chirurgie,440
+Kane,Aminata,Gynecologie,441
+Gueye,Mamadou,Medecine generale,442
+Diop,Abdoulaye,Dermatologie,443
+Ndiaye,Mariama,Pediatrie,444
+Sarr,Aminata,Gynecologie,445
+Sy,Abdoulaye,Cardiologie,446
+Sy,Khady,Dermatologie,447
+Faye,Fatou,Chirurgie,448
+Kane,Aminata,Gynecologie,449
+Faye,Mamadou,Medecine generale,450
+Ba,Aminata,Cardiologie,451
+Sy,Fatou,Cardiologie,452
+Gueye,Ousmane,Dermatologie,453
+Ba,Moussa,Dermatologie,454
+Sow,Fatou,Pediatrie,455
+Sow,Ibrahima,Chirurgie,456
+Sow,Ibrahima,Pediatrie,457
+Sow,Mamadou,Chirurgie,458
+Ndiaye,Awa,Chirurgie,459
+Sy,Khady,Dermatologie,460
+Gueye,Moussa,Gynecologie,461
+Gueye,Oumar,Pediatrie,462
+Sy,Awa,Medecine generale,463
+Ndiaye,Moussa,Gynecologie,464
+Diop,Awa,Medecine generale,465
+Sy,Mamadou,Chirurgie,466
+Ndiaye,Fatou,Chirurgie,467
+Sarr,Fatou,Cardiologie,468
+Sarr,Abdoulaye,Cardiologie,469
+Sow,Mariama,Cardiologie,470
+Gueye,Ibrahima,Cardiologie,471
+Sarr,Fatou,Cardiologie,472
+Sow,Mamadou,Cardiologie,473
+Sarr,Ibrahima,Chirurgie,474
+Sow,Moussa,Dermatologie,475
+Sarr,Fatou,Chirurgie,476
+Sarr,Aminata,Chirurgie,477
+Diop,Fatou,Gynecologie,478
+Kane,Fatou,Cardiologie,479
+Faye,Khady,Medecine generale,480
+Diop,Ibrahima,Gynecologie,481
+Diop,Ousmane,Medecine generale,482
+Sow,Ibrahima,Medecine generale,483
+Kane,Cheikh,Gynecologie,484
+Sow,Mamadou,Cardiologie,485
+Ba,Ousmane,Medecine generale,486
+Sarr,Mamadou,Medecine generale,487
+Kane,Awa,Dermatologie,488
+Gueye,Aminata,Cardiologie,489
+Sarr,Abdoulaye,Dermatologie,490
+Kane,Oumar,Pediatrie,491
+Ba,Fatou,Chirurgie,492
+Sarr,Aminata,Dermatologie,493
+Kane,Cheikh,Medecine generale,494
+Faye,Abdoulaye,Dermatologie,495
+Gueye,Fatou,Dermatologie,496
+Kane,Khady,Cardiologie,497
+Sy,Ousmane,Medecine generale,498
+Sy,Khady,Chirurgie,499
+Ba,Moussa,Pediatrie,500
+Gueye,Moussa,Chirurgie,501
+Fall,Aminata,Gynecologie,502
+Sow,Oumar,Medecine generale,503
+Ba,Fatou,Chirurgie,504
+Ba,Oumar,Gynecologie,505
+Fall,Khady,Medecine generale,506
+Kane,Khady,Chirurgie,507
+Gueye,Abdoulaye,Chirurgie,508
+Diallo,Khady,Medecine generale,509
+Sarr,Moussa,Medecine generale,510
+Ndiaye,Ousmane,Gynecologie,511
+Sarr,Khady,Cardiologie,512
+Fall,Ousmane,Dermatologie,513
+Ba,Ousmane,Gynecologie,514
+Diop,Aminata,Cardiologie,515
+Faye,Khady,Medecine generale,516
+Sy,Oumar,Dermatologie,517
+Ndiaye,Cheikh,Medecine generale,518
+Ba,Ousmane,Cardiologie,519
+Faye,Oumar,Medecine generale,520
+Ba,Khady,Medecine generale,521
+Sarr,Khady,Pediatrie,522
+Sarr,Mariama,Chirurgie,523
+Sy,Ibrahima,Pediatrie,524
+Sy,Aminata,Cardiologie,525
+Gueye,Ousmane,Gynecologie,526
+Sarr,Khady,Dermatologie,527
+Diop,Mamadou,Dermatologie,528
+Fall,Awa,Dermatologie,529
+Sy,Cheikh,Dermatologie,530
+Sy,Khady,Gynecologie,531
+Fall,Fatou,Dermatologie,532
+Ndiaye,Fatou,Cardiologie,533
+Diallo,Khady,Gynecologie,534
+Sy,Ousmane,Cardiologie,535
+Faye,Oumar,Gynecologie,536
+Diallo,Moussa,Chirurgie,537
+Fall,Ibrahima,Medecine generale,538
+Sy,Abdoulaye,Gynecologie,539
+Fall,Mariama,Pediatrie,540
+Sy,Abdoulaye,Medecine generale,541
+Faye,Oumar,Dermatologie,542
+Sow,Awa,Medecine generale,543
+Sow,Ibrahima,Gynecologie,544
+Fall,Khady,Pediatrie,545
+Gueye,Oumar,Dermatologie,546
+Fall,Ibrahima,Medecine generale,547
+Sarr,Aminata,Medecine generale,548
+Sarr,Khady,Medecine generale,549
+Sow,Moussa,Chirurgie,550
+Sarr,Moussa,Pediatrie,551
+Diallo,Cheikh,Chirurgie,552
+Ndiaye,Ibrahima,Cardiologie,553
+Diop,Khady,Medecine generale,554
+Sy,Khady,Medecine generale,555
+Sarr,Moussa,Gynecologie,556
+Fall,Abdoulaye,Gynecologie,557
+Fall,Fatou,Medecine generale,558
+Gueye,Abdoulaye,Dermatologie,559
+Fall,Abdoulaye,Pediatrie,560
+Kane,Awa,Chirurgie,561
+Gueye,Oumar,Gynecologie,562
+Ndiaye,Ibrahima,Cardiologie,563
+Ndiaye,Khady,Chirurgie,564
+Faye,Moussa,Pediatrie,565
+Kane,Mariama,Gynecologie,566
+Diop,Aminata,Chirurgie,567
+Diallo,Mamadou,Chirurgie,568
+Gueye,Mamadou,Pediatrie,569
+Ndiaye,Abdoulaye,Dermatologie,570
+Sy,Cheikh,Gynecologie,571
+Sow,Mariama,Pediatrie,572
+Sow,Oumar,Medecine generale,573
+Fall,Moussa,Dermatologie,574
+Sy,Abdoulaye,Pediatrie,575
+Fall,Awa,Dermatologie,576
+Diallo,Awa,Medecine generale,577
+Ba,Fatou,Pediatrie,578
+Sow,Cheikh,Chirurgie,579
+Faye,Aminata,Gynecologie,580
+Sow,Aminata,Chirurgie,581
+Diop,Ibrahima,Gynecologie,582
+Sy,Ibrahima,Gynecologie,583
+Sy,Khady,Pediatrie,584
+Gueye,Moussa,Dermatologie,585
+Faye,Ibrahima,Cardiologie,586
+Ndiaye,Ibrahima,Dermatologie,587
+Ndiaye,Cheikh,Medecine generale,588
+Diallo,Fatou,Pediatrie,589
+Ndiaye,Awa,Chirurgie,590
+Sy,Khady,Cardiologie,591
+Fall,Moussa,Chirurgie,592
+Sow,Cheikh,Dermatologie,593
+Fall,Ibrahima,Medecine generale,594
+Gueye,Cheikh,Chirurgie,595
+Sarr,Cheikh,Dermatologie,596
+Sarr,Cheikh,Chirurgie,597
+Fall,Aminata,Gynecologie,598
+Diop,Moussa,Gynecologie,599
+Ba,Khady,Cardiologie,600
+Ndiaye,Awa,Chirurgie,601
+Fall,Cheikh,Pediatrie,602
+Fall,Khady,Pediatrie,603
+Faye,Moussa,Dermatologie,604
+Sy,Aminata,Pediatrie,605
+Kane,Ousmane,Chirurgie,606
+Diop,Oumar,Cardiologie,607
+Sy,Fatou,Chirurgie,608
+Diop,Moussa,Medecine generale,609
+Ba,Cheikh,Pediatrie,610
+Fall,Awa,Pediatrie,611
+Ba,Oumar,Pediatrie,612
+Diallo,Abdoulaye,Medecine generale,613
+Sarr,Awa,Medecine generale,614
+Faye,Mariama,Dermatologie,615
+Kane,Ousmane,Medecine generale,616
+Diop,Mamadou,Cardiologie,617
+Gueye,Ousmane,Pediatrie,618
+Fall,Cheikh,Cardiologie,619
+Sow,Oumar,Dermatologie,620
+Faye,Cheikh,Pediatrie,621
+Gueye,Mamadou,Medecine generale,622
+Diop,Mamadou,Chirurgie,623
+Sy,Oumar,Gynecologie,624
+Gueye,Moussa,Gynecologie,625
+Diallo,Ibrahima,Gynecologie,626
+Diop,Cheikh,Gynecologie,627
+Diallo,Moussa,Gynecologie,628
+Kane,Ibrahima,Cardiologie,629
+Diallo,Ousmane,Pediatrie,630
+Fall,Khady,Chirurgie,631
+Sow,Fatou,Chirurgie,632
+Faye,Abdoulaye,Pediatrie,633
+Ndiaye,Mariama,Dermatologie,634
+Sarr,Cheikh,Chirurgie,635
+Fall,Cheikh,Medecine generale,636
+Gueye,Abdoulaye,Chirurgie,637
+Sarr,Ousmane,Medecine generale,638
+Sy,Cheikh,Pediatrie,639
+Ba,Ousmane,Chirurgie,640
+Sarr,Awa,Gynecologie,641
+Diallo,Khady,Dermatologie,642
+Ndiaye,Awa,Medecine generale,643
+Diop,Khady,Cardiologie,644
+Diop,Ibrahima,Gynecologie,645
+Diop,Fatou,Chirurgie,646
+Kane,Mariama,Pediatrie,647
+Fall,Ibrahima,Cardiologie,648
+Kane,Khady,Medecine generale,649
+Faye,Awa,Pediatrie,650
+Diop,Fatou,Medecine generale,651
+Gueye,Aminata,Dermatologie,652
+Diop,Awa,Cardiologie,653
+Sy,Cheikh,Chirurgie,654
+Fall,Oumar,Medecine generale,655
+Sarr,Mariama,Cardiologie,656
+Gueye,Ousmane,Medecine generale,657
+Fall,Ibrahima,Dermatologie,658
+Ba,Abdoulaye,Medecine generale,659
+Ba,Cheikh,Chirurgie,660
+Sow,Fatou,Medecine generale,661
+Fall,Fatou,Medecine generale,662
+Sow,Cheikh,Pediatrie,663
+Diop,Oumar,Cardiologie,664
+Ba,Moussa,Dermatologie,665
+Sy,Moussa,Cardiologie,666
+Ba,Aminata,Cardiologie,667
+Diop,Cheikh,Gynecologie,668
+Fall,Fatou,Gynecologie,669
+Gueye,Ibrahima,Dermatologie,670
+Faye,Mariama,Dermatologie,671
+Faye,Awa,Medecine generale,672
+Sow,Moussa,Dermatologie,673
+Kane,Ousmane,Dermatologie,674
+Fall,Ibrahima,Chirurgie,675
+Kane,Aminata,Pediatrie,676
+Ba,Moussa,Gynecologie,677
+Faye,Abdoulaye,Chirurgie,678
+Ba,Fatou,Pediatrie,679
+Sow,Mariama,Chirurgie,680
+Ba,Aminata,Chirurgie,681
+Ba,Mamadou,Medecine generale,682
+Sy,Cheikh,Dermatologie,683
+Faye,Oumar,Gynecologie,684
+Kane,Moussa,Gynecologie,685
+Sarr,Moussa,Dermatologie,686
+Gueye,Oumar,Gynecologie,687
+Diop,Ibrahima,Chirurgie,688
+Ba,Ibrahima,Medecine generale,689
+Sow,Aminata,Cardiologie,690
+Faye,Aminata,Gynecologie,691
+Sow,Khady,Cardiologie,692
+Faye,Abdoulaye,Cardiologie,693
+Sy,Awa,Gynecologie,694
+Diallo,Moussa,Pediatrie,695
+Gueye,Awa,Medecine generale,696
+Sy,Oumar,Dermatologie,697
+Gueye,Aminata,Chirurgie,698
+Ba,Moussa,Pediatrie,699
+Fall,Moussa,Pediatrie,700
+Sow,Aminata,Chirurgie,701
+Sy,Khady,Gynecologie,702
+Fall,Fatou,Chirurgie,703
+Diallo,Oumar,Dermatologie,704
+Sy,Oumar,Cardiologie,705
+Diop,Fatou,Medecine generale,706
+Ndiaye,Ousmane,Medecine generale,707
+Sy,Moussa,Pediatrie,708
+Kane,Ibrahima,Chirurgie,709
+Faye,Khady,Dermatologie,710
+Diop,Mariama,Gynecologie,711
+Sy,Fatou,Medecine generale,712
+Diallo,Ibrahima,Gynecologie,713
+Diop,Ibrahima,Gynecologie,714
+Diop,Mamadou,Gynecologie,715
+Kane,Ousmane,Chirurgie,716
+Sow,Cheikh,Cardiologie,717
+Sarr,Abdoulaye,Medecine generale,718
+Ba,Awa,Pediatrie,719
+Gueye,Ousmane,Cardiologie,720
+Sow,Fatou,Pediatrie,721
+Kane,Ibrahima,Cardiologie,722
+Fall,Mamadou,Dermatologie,723
+Faye,Mamadou,Gynecologie,724
+Ndiaye,Fatou,Medecine generale,725
+Diallo,Fatou,Dermatologie,726
+Fall,Mamadou,Medecine generale,727
+Fall,Abdoulaye,Cardiologie,728
+Ba,Ousmane,Chirurgie,729
+Sy,Cheikh,Medecine generale,730
+Faye,Ousmane,Dermatologie,731
+Faye,Mamadou,Medecine generale,732
+Gueye,Aminata,Medecine generale,733
+Sow,Ibrahima,Cardiologie,734
+Diallo,Khady,Pediatrie,735
+Faye,Fatou,Chirurgie,736
+Diallo,Abdoulaye,Pediatrie,737
+Sow,Fatou,Chirurgie,738
+Sarr,Fatou,Pediatrie,739
+Ndiaye,Ousmane,Cardiologie,740
+Diallo,Moussa,Dermatologie,741
+Kane,Fatou,Gynecologie,742
+Kane,Abdoulaye,Pediatrie,743
+Ndiaye,Ousmane,Pediatrie,744
+Ba,Moussa,Cardiologie,745
+Gueye,Moussa,Dermatologie,746
+Diop,Mamadou,Dermatologie,747
+Kane,Fatou,Cardiologie,748
+Sarr,Abdoulaye,Cardiologie,749
+Diop,Ibrahima,Dermatologie,750
+Kane,Aminata,Chirurgie,751
+Diallo,Ousmane,Chirurgie,752
+Diop,Moussa,Cardiologie,753
+Faye,Moussa,Dermatologie,754
+Sy,Mamadou,Gynecologie,755
+Sarr,Ousmane,Cardiologie,756
+Sy,Fatou,Pediatrie,757
+Gueye,Abdoulaye,Dermatologie,758
+Sy,Mamadou,Cardiologie,759
+Sarr,Moussa,Cardiologie,760
+Sy,Khady,Gynecologie,761
+Diop,Aminata,Chirurgie,762
+Diop,Cheikh,Medecine generale,763
+Sy,Moussa,Medecine generale,764
+Diop,Ousmane,Pediatrie,765
+Ba,Moussa,Gynecologie,766
+Fall,Cheikh,Dermatologie,767
+Ba,Khady,Pediatrie,768
+Sarr,Fatou,Gynecologie,769
+Ndiaye,Mamadou,Medecine generale,770
+Ba,Aminata,Medecine generale,771
+Diop,Cheikh,Medecine generale,772
+Fall,Fatou,Gynecologie,773
+Diallo,Oumar,Chirurgie,774
+Gueye,Moussa,Medecine generale,775
+Faye,Ousmane,Medecine generale,776
+Gueye,Fatou,Pediatrie,777
+Fall,Aminata,Gynecologie,778
+Faye,Ousmane,Gynecologie,779
+Sarr,Cheikh,Cardiologie,780
+Fall,Oumar,Medecine generale,781
+Faye,Awa,Gynecologie,782
+Sy,Cheikh,Dermatologie,783
+Ba,Oumar,Pediatrie,784
+Sarr,Abdoulaye,Pediatrie,785
+Faye,Cheikh,Medecine generale,786
+Ndiaye,Ousmane,Medecine generale,787
+Diop,Abdoulaye,Dermatologie,788
+Gueye,Ousmane,Gynecologie,789
+Sarr,Mariama,Pediatrie,790
+Diallo,Fatou,Gynecologie,791
+Sow,Cheikh,Dermatologie,792
+Gueye,Cheikh,Chirurgie,793
+Ba,Cheikh,Cardiologie,794
+Diop,Ibrahima,Pediatrie,795
+Ba,Mariama,Cardiologie,796
+Faye,Abdoulaye,Gynecologie,797
+Gueye,Khady,Gynecologie,798
+Diallo,Ousmane,Dermatologie,799
+Faye,Awa,Cardiologie,800
+Ndiaye,Mariama,Pediatrie,801
+Diallo,Oumar,Pediatrie,802
+Diop,Aminata,Cardiologie,803
+Ndiaye,Mariama,Gynecologie,804
+Diallo,Fatou,Gynecologie,805
+Kane,Cheikh,Pediatrie,806
+Diallo,Ousmane,Dermatologie,807
+Sy,Awa,Chirurgie,808
+Ba,Aminata,Dermatologie,809
+Sy,Khady,Chirurgie,810
+Ba,Fatou,Dermatologie,811
+Gueye,Mariama,Medecine generale,812
+Faye,Moussa,Medecine generale,813
+Kane,Abdoulaye,Chirurgie,814
+Gueye,Ibrahima,Pediatrie,815
+Diop,Aminata,Medecine generale,816
+Faye,Mamadou,Medecine generale,817
+Kane,Awa,Chirurgie,818
+Kane,Ousmane,Pediatrie,819
+Ndiaye,Cheikh,Pediatrie,820
+Sow,Oumar,Cardiologie,821
+Sow,Awa,Chirurgie,822
+Sow,Awa,Cardiologie,823
+Ndiaye,Khady,Chirurgie,824
+Diallo,Abdoulaye,Dermatologie,825
+Diallo,Cheikh,Dermatologie,826
+Sarr,Fatou,Dermatologie,827
+Diop,Moussa,Dermatologie,828
+Diop,Mamadou,Chirurgie,829
+Fall,Cheikh,Dermatologie,830
+Gueye,Awa,Pediatrie,831
+Sow,Ibrahima,Medecine generale,832
+Diop,Khady,Pediatrie,833
+Kane,Cheikh,Medecine generale,834
+Diop,Awa,Pediatrie,835
+Diallo,Mamadou,Cardiologie,836
+Sow,Khady,Pediatrie,837
+Diallo,Moussa,Dermatologie,838
+Ba,Mamadou,Pediatrie,839
+Sarr,Cheikh,Dermatologie,840
+Faye,Mamadou,Medecine generale,841
+Sarr,Ousmane,Pediatrie,842
+Ba,Ibrahima,Pediatrie,843
+Ndiaye,Abdoulaye,Dermatologie,844
+Kane,Aminata,Dermatologie,845
+Ndiaye,Abdoulaye,Pediatrie,846
+Sarr,Oumar,Pediatrie,847
+Ndiaye,Khady,Pediatrie,848
+Diallo,Abdoulaye,Dermatologie,849
+Gueye,Aminata,Dermatologie,850
+Sow,Ibrahima,Chirurgie,851
+Gueye,Mariama,Pediatrie,852
+Gueye,Ousmane,Dermatologie,853
+Gueye,Ousmane,Medecine generale,854
+Diop,Abdoulaye,Dermatologie,855
+Fall,Abdoulaye,Dermatologie,856
+Gueye,Abdoulaye,Cardiologie,857
+Fall,Moussa,Gynecologie,858
+Ba,Awa,Dermatologie,859
+Fall,Mamadou,Pediatrie,860
+Faye,Awa,Chirurgie,861
+Ndiaye,Ousmane,Gynecologie,862
+Ba,Mamadou,Medecine generale,863
+Gueye,Mariama,Cardiologie,864
+Sow,Aminata,Cardiologie,865
+Sy,Mariama,Medecine generale,866
+Diop,Mariama,Cardiologie,867
+Faye,Oumar,Gynecologie,868
+Sy,Ousmane,Dermatologie,869
+Sarr,Awa,Chirurgie,870
+Diop,Oumar,Medecine generale,871
+Fall,Khady,Pediatrie,872
+Ndiaye,Moussa,Pediatrie,873
+Faye,Ousmane,Chirurgie,874
+Ndiaye,Mamadou,Pediatrie,875
+Diop,Oumar,Medecine generale,876
+Kane,Moussa,Gynecologie,877
+Kane,Ibrahima,Medecine generale,878
+Ba,Oumar,Cardiologie,879
+Sy,Abdoulaye,Pediatrie,880
+Ndiaye,Ousmane,Gynecologie,881
+Ba,Mariama,Pediatrie,882
+Gueye,Fatou,Gynecologie,883
+Ba,Ousmane,Dermatologie,884
+Sy,Ibrahima,Pediatrie,885
+Gueye,Moussa,Gynecologie,886
+Fall,Cheikh,Pediatrie,887
+Sow,Cheikh,Medecine generale,888
+Fall,Moussa,Chirurgie,889
+Faye,Ibrahima,Cardiologie,890
+Gueye,Awa,Chirurgie,891
+Sy,Awa,Chirurgie,892
+Ndiaye,Mamadou,Dermatologie,893
+Sow,Abdoulaye,Medecine generale,894
+Ndiaye,Mamadou,Pediatrie,895
+Sow,Moussa,Dermatologie,896
+Sy,Cheikh,Medecine generale,897
+Gueye,Awa,Cardiologie,898
+Gueye,Moussa,Chirurgie,899
+Sy,Abdoulaye,Dermatologie,900
+Kane,Aminata,Chirurgie,901
+Fall,Mariama,Dermatologie,902
+Diop,Abdoulaye,Dermatologie,903
+Kane,Mamadou,Chirurgie,904
+Sarr,Abdoulaye,Pediatrie,905
+Sow,Aminata,Dermatologie,906
+Ndiaye,Oumar,Medecine generale,907
+Kane,Mariama,Chirurgie,908
+Diallo,Awa,Cardiologie,909
+Sow,Fatou,Medecine generale,910
+Sarr,Awa,Chirurgie,911
+Ndiaye,Cheikh,Chirurgie,912
+Ndiaye,Abdoulaye,Gynecologie,913
+Diallo,Aminata,Chirurgie,914
+Ndiaye,Cheikh,Pediatrie,915
+Ba,Ibrahima,Gynecologie,916
+Gueye,Aminata,Chirurgie,917
+Kane,Mariama,Cardiologie,918
+Gueye,Mariama,Medecine generale,919
+Ba,Abdoulaye,Dermatologie,920
+Sy,Ousmane,Medecine generale,921
+Faye,Fatou,Medecine generale,922
+Fall,Mariama,Gynecologie,923
+Diallo,Oumar,Cardiologie,924
+Diallo,Mariama,Chirurgie,925
+Faye,Aminata,Medecine generale,926
+Sow,Oumar,Chirurgie,927
+Kane,Abdoulaye,Gynecologie,928
+Diallo,Moussa,Medecine generale,929
+Kane,Aminata,Chirurgie,930
+Diallo,Fatou,Gynecologie,931
+Diallo,Mariama,Chirurgie,932
+Gueye,Moussa,Medecine generale,933
+Gueye,Khady,Chirurgie,934
+Sow,Mamadou,Medecine generale,935
+Kane,Mamadou,Chirurgie,936
+Diop,Abdoulaye,Dermatologie,937
+Diallo,Abdoulaye,Gynecologie,938
+Diop,Mariama,Gynecologie,939
+Kane,Moussa,Medecine generale,940
+Ndiaye,Khady,Chirurgie,941
+Gueye,Ousmane,Gynecologie,942
+Ba,Cheikh,Chirurgie,943
+Sow,Oumar,Chirurgie,944
+Sow,Cheikh,Medecine generale,945
+Sow,Moussa,Gynecologie,946
+Faye,Awa,Gynecologie,947
+Sow,Moussa,Chirurgie,948
+Kane,Fatou,Medecine generale,949
+Faye,Mamadou,Cardiologie,950
+Diop,Mamadou,Chirurgie,951
+Sarr,Oumar,Pediatrie,952
+Diallo,Fatou,Chirurgie,953
+Fall,Khady,Dermatologie,954
+Gueye,Cheikh,Dermatologie,955
+Diallo,Khady,Medecine generale,956
+Gueye,Ibrahima,Pediatrie,957
+Kane,Ousmane,Dermatologie,958
+Fall,Abdoulaye,Medecine generale,959
+Ndiaye,Awa,Medecine generale,960
+Sow,Mariama,Dermatologie,961
+Ndiaye,Cheikh,Pediatrie,962
+Ba,Ousmane,Pediatrie,963
+Diallo,Abdoulaye,Gynecologie,964
+Kane,Oumar,Chirurgie,965
+Faye,Cheikh,Gynecologie,966
+Faye,Moussa,Chirurgie,967
+Fall,Aminata,Cardiologie,968
+Ba,Aminata,Medecine generale,969
+Diop,Ibrahima,Medecine generale,970
+Fall,Cheikh,Pediatrie,971
+Fall,Cheikh,Pediatrie,972
+Kane,Mamadou,Cardiologie,973
+Kane,Cheikh,Dermatologie,974
+Sy,Fatou,Dermatologie,975
+Faye,Mamadou,Gynecologie,976
+Gueye,Fatou,Dermatologie,977
+Ndiaye,Cheikh,Pediatrie,978
+Fall,Ousmane,Dermatologie,979
+Faye,Mariama,Dermatologie,980
+Kane,Moussa,Dermatologie,981
+Ndiaye,Mamadou,Pediatrie,982
+Fall,Moussa,Gynecologie,983
+Diallo,Khady,Gynecologie,984
+Sy,Moussa,Cardiologie,985
+Faye,Ousmane,Chirurgie,986
+Gueye,Mariama,Gynecologie,987
+Gueye,Mariama,Medecine generale,988
+Fall,Oumar,Gynecologie,989
+Sarr,Ibrahima,Pediatrie,990
+Sy,Cheikh,Medecine generale,991
+Faye,Mamadou,Chirurgie,992
+Gueye,Khady,Dermatologie,993
+Fall,Khady,Medecine generale,994
+Ndiaye,Khady,Dermatologie,995
+Ba,Oumar,Medecine generale,996
+Sow,Aminata,Gynecologie,997
+Faye,Khady,Pediatrie,998
+Diop,Moussa,Dermatologie,999
+Ba,Ousmane,Dermatologie,1000
+Sarr,Awa,Medecine generale,1001
+Gueye,Mariama,Gynecologie,1002
+Kane,Cheikh,Cardiologie,1003
+Fall,Khady,Dermatologie,1004
+Sow,Ibrahima,Pediatrie,1005
+Ndiaye,Khady,Medecine generale,1006
+Sarr,Ibrahima,Dermatologie,1007
+Fall,Moussa,Cardiologie,1008
+Fall,Mariama,Pediatrie,1009
+Ba,Fatou,Chirurgie,1010
+Ndiaye,Abdoulaye,Chirurgie,1011
+Ba,Aminata,Gynecologie,1012
+Sarr,Aminata,Gynecologie,1013
+Ndiaye,Ousmane,Gynecologie,1014
+Diallo,Awa,Dermatologie,1015
+Ndiaye,Fatou,Chirurgie,1016
+Diop,Awa,Cardiologie,1017
+Gueye,Oumar,Medecine generale,1018
+Fall,Abdoulaye,Gynecologie,1019
+Ndiaye,Mariama,Gynecologie,1020
+Ba,Awa,Dermatologie,1021
+Sarr,Fatou,Cardiologie,1022
+Sarr,Awa,Pediatrie,1023
+Ndiaye,Oumar,Cardiologie,1024
+Faye,Aminata,Pediatrie,1025
+Faye,Cheikh,Dermatologie,1026
+Gueye,Fatou,Dermatologie,1027
+Sarr,Mamadou,Cardiologie,1028
+Sy,Mamadou,Gynecologie,1029
+Ba,Ibrahima,Dermatologie,1030
+Gueye,Cheikh,Dermatologie,1031
+Sarr,Fatou,Chirurgie,1032
+Sarr,Aminata,Chirurgie,1033
+Kane,Awa,Chirurgie,1034
+Faye,Oumar,Chirurgie,1035
+Sow,Moussa,Dermatologie,1036
+Faye,Mariama,Dermatologie,1037
+Faye,Khady,Gynecologie,1038
+Ba,Mamadou,Pediatrie,1039
+Diallo,Ousmane,Chirurgie,1040
+Diallo,Awa,Gynecologie,1041
+Fall,Awa,Chirurgie,1042
+Sow,Khady,Dermatologie,1043
+Diallo,Oumar,Gynecologie,1044
+Sy,Mariama,Medecine generale,1045
+Diop,Cheikh,Dermatologie,1046
+Ba,Aminata,Medecine generale,1047
+Kane,Fatou,Chirurgie,1048
+Sy,Fatou,Dermatologie,1049
+Fall,Ibrahima,Cardiologie,1050
+Gueye,Oumar,Pediatrie,1051
+Fall,Awa,Cardiologie,1052
+Diop,Oumar,Chirurgie,1053
+Diop,Ibrahima,Medecine generale,1054
+Sow,Moussa,Cardiologie,1055
+Sy,Ibrahima,Dermatologie,1056
+Sarr,Ibrahima,Medecine generale,1057
+Sarr,Oumar,Medecine generale,1058
+Ndiaye,Mariama,Cardiologie,1059
+Sy,Khady,Dermatologie,1060
+Faye,Aminata,Medecine generale,1061
+Gueye,Mamadou,Cardiologie,1062
+Sarr,Moussa,Gynecologie,1063
+Diop,Ibrahima,Chirurgie,1064
+Diop,Oumar,Dermatologie,1065
+Diop,Aminata,Medecine generale,1066
+Diallo,Oumar,Cardiologie,1067
+Faye,Ousmane,Gynecologie,1068
+Ndiaye,Awa,Medecine generale,1069
+Ba,Oumar,Chirurgie,1070
+Faye,Abdoulaye,Cardiologie,1071
+Faye,Fatou,Dermatologie,1072
+Sarr,Ousmane,Dermatologie,1073
+Ba,Moussa,Pediatrie,1074
+Faye,Ibrahima,Chirurgie,1075
+Sy,Aminata,Cardiologie,1076
+Kane,Mamadou,Gynecologie,1077
+Kane,Moussa,Medecine generale,1078
+Sarr,Fatou,Gynecologie,1079
+Gueye,Khady,Gynecologie,1080
+Diop,Mamadou,Medecine generale,1081
+Fall,Ibrahima,Dermatologie,1082
+Ndiaye,Fatou,Chirurgie,1083
+Fall,Mariama,Pediatrie,1084
+Diop,Oumar,Pediatrie,1085
+Sow,Aminata,Dermatologie,1086
+Ba,Mariama,Medecine generale,1087
+Ba,Ibrahima,Pediatrie,1088
+Sy,Khady,Medecine generale,1089
+Gueye,Aminata,Gynecologie,1090
+Sow,Mamadou,Pediatrie,1091
+Ba,Fatou,Chirurgie,1092
+Diallo,Awa,Gynecologie,1093
+Ndiaye,Oumar,Chirurgie,1094
+Ndiaye,Fatou,Gynecologie,1095
+Ndiaye,Aminata,Dermatologie,1096
+Gueye,Moussa,Dermatologie,1097
+Ba,Abdoulaye,Cardiologie,1098
+Diallo,Khady,Pediatrie,1099
+Kane,Abdoulaye,Chirurgie,1100
+Faye,Oumar,Pediatrie,1101
+Diop,Awa,Gynecologie,1102
+Sarr,Cheikh,Medecine generale,1103
+Sarr,Oumar,Gynecologie,1104
+Diop,Abdoulaye,Pediatrie,1105
+Diop,Mamadou,Dermatologie,1106
+Ndiaye,Ousmane,Dermatologie,1107
+Ndiaye,Mamadou,Cardiologie,1108
+Ba,Aminata,Chirurgie,1109
+Ndiaye,Fatou,Pediatrie,1110
+Sy,Oumar,Gynecologie,1111
+Gueye,Oumar,Chirurgie,1112
+Gueye,Awa,Dermatologie,1113
+Ndiaye,Ousmane,Cardiologie,1114
+Sarr,Moussa,Medecine generale,1115
+Kane,Moussa,Chirurgie,1116
+Sow,Mariama,Medecine generale,1117
+Sarr,Abdoulaye,Chirurgie,1118
+Sow,Awa,Pediatrie,1119
+Ndiaye,Cheikh,Gynecologie,1120
+Sow,Khady,Dermatologie,1121
+Sow,Mariama,Cardiologie,1122
+Sy,Moussa,Medecine generale,1123
+Sarr,Moussa,Chirurgie,1124
+Sarr,Awa,Chirurgie,1125
+Diallo,Mamadou,Pediatrie,1126
+Sarr,Cheikh,Cardiologie,1127
+Ndiaye,Ibrahima,Gynecologie,1128
 Gueye,Fatou,Chirurgie,1129
-Ndiaye,Ousmane,Gynecologie,2198
-Diop,Cheikh,Medecine generale,2682
-Fall,Mariama,Chirurgie,2296
-Kane,Khady,Pediatrie,8119
-Fall,Aminata,Cardiologie,6230
-Diop,Ousmane,Medecine generale,6448
-Diop,Cheikh,Gynecologie,5409
-Gueye,Moussa,Dermatologie,4994
-Ndiaye,Moussa,Dermatologie,2266
-Gueye,Ibrahima,Cardiologie,2828
-Ba,Mariama,Medecine generale,7908
-Diop,Khady,Pediatrie,1288
-Ndiaye,Cheikh,Chirurgie,7676
-Diallo,Cheikh,Cardiologie,459
-Diop,Moussa,Cardiologie,4709
-Gueye,Mamadou,Cardiologie,4489
-Diop,Ibrahima,Cardiologie,4283
-Fall,Mariama,Cardiologie,2339
-Kane,Cheikh,Chirurgie,4419
-Ba,Cheikh,Medecine generale,2372
-Faye,Mariama,Cardiologie,2982
-Faye,Mamadou,Gynecologie,3784
-Gueye,Ousmane,Cardiologie,8151
-Sow,Fatou,Cardiologie,8552
-Sarr,Aminata,Pediatrie,5672
-Sarr,Mariama,Medecine generale,1589
-Ndiaye,Fatou,Chirurgie,932
-Faye,Ousmane,Dermatologie,9786
-Sow,Mariama,Cardiologie,7570
-Sy,Khady,Dermatologie,4180
-Sow,Khady,Medecine generale,4037
-Diallo,Mamadou,Gynecologie,47
-Gueye,Oumar,Gynecologie,3179
-Fall,Mariama,Dermatologie,2109
-Ndiaye,Abdoulaye,Medecine generale,2876
-Faye,Ousmane,Dermatologie,5454
-Ndiaye,Ibrahima,Gynecologie,1478
-Fall,Fatou,Medecine generale,7578
-Faye,Ousmane,Medecine generale,3342
-Gueye,Oumar,Dermatologie,6596
-Fall,Ibrahima,Chirurgie,7740
-Faye,Khady,Gynecologie,3049
-Sy,Aminata,Medecine generale,2314
-Diallo,Ibrahima,Dermatologie,2614
-Sow,Oumar,Medecine generale,3839
-Sow,Fatou,Gynecologie,5718
-Diallo,Abdoulaye,Chirurgie,259
-Sarr,Aminata,Cardiologie,1213
-Gueye,Abdoulaye,Gynecologie,6794
-Ndiaye,Ibrahima,Chirurgie,7625
-Sarr,Mamadou,Dermatologie,6769
-Ndiaye,Mariama,Chirurgie,251
-Sow,Aminata,Medecine generale,4540
-Ndiaye,Moussa,Pediatrie,1580
-Sy,Moussa,Gynecologie,5330
-Sarr,Mamadou,Pediatrie,2234
-Kane,Cheikh,Medecine generale,9245
-Sow,Aminata,Gynecologie,5036
-Sy,Moussa,Cardiologie,7067
-Faye,Ibrahima,Chirurgie,1535
-Ba,Cheikh,Pediatrie,7659
-Sy,Mamadou,Pediatrie,1175
-Diallo,Ousmane,Pediatrie,2632
-Ba,Ousmane,Dermatologie,8940
-Kane,Fatou,Medecine generale,9818
-Diop,Fatou,Dermatologie,295
-Diallo,Oumar,Dermatologie,3683
-Diop,Cheikh,Dermatologie,1708
-Kane,Oumar,Chirurgie,1908
-Diallo,Awa,Gynecologie,1331
-Sy,Ibrahima,Dermatologie,464
-Sarr,Moussa,Chirurgie,8866
-Ba,Ousmane,Gynecologie,7190
-Sow,Oumar,Medecine generale,5514
-Ndiaye,Ibrahima,Medecine generale,2022
-Ndiaye,Khady,Pediatrie,4751
-Sarr,Mamadou,Cardiologie,5279
-Gueye,Cheikh,Cardiologie,9366
-Sow,Aminata,Dermatologie,3057
-Sy,Mamadou,Dermatologie,6995
-Diallo,Oumar,Pediatrie,2128
-Ndiaye,Abdoulaye,Gynecologie,7626
-Kane,Ibrahima,Cardiologie,1794
-Gueye,Awa,Chirurgie,118
-Faye,Cheikh,Dermatologie,8293
-Faye,Oumar,Cardiologie,4026
-Kane,Moussa,Dermatologie,2449
-Ndiaye,Moussa,Medecine generale,998
-Faye,Mamadou,Cardiologie,1974
-Sarr,Ousmane,Chirurgie,4427
-Sy,Ibrahima,Gynecologie,6945
-Diop,Abdoulaye,Dermatologie,1487
-Sow,Aminata,Dermatologie,6710
-Gueye,Mariama,Cardiologie,3830
-Sarr,Fatou,Gynecologie,643
-Ba,Moussa,Medecine generale,4397
-Sy,Abdoulaye,Gynecologie,779
-Sy,Fatou,Medecine generale,573
-Kane,Ibrahima,Chirurgie,1707
-Sow,Ibrahima,Pediatrie,2938
-Sy,Mamadou,Chirurgie,2612
-Gueye,Mamadou,Cardiologie,3680
-Gueye,Moussa,Medecine generale,8515
-Gueye,Mamadou,Cardiologie,6626
-Diallo,Moussa,Pediatrie,2943
-Ndiaye,Awa,Chirurgie,6621
-Diallo,Fatou,Pediatrie,9200
-Fall,Mariama,Gynecologie,1192
-Ba,Cheikh,Medecine generale,1614
-Faye,Khady,Gynecologie,5532
-Gueye,Moussa,Medecine generale,4682
-Sarr,Moussa,Cardiologie,4260
-Gueye,Abdoulaye,Dermatologie,7003
-Sow,Aminata,Dermatologie,7486
-Kane,Mamadou,Chirurgie,7949
-Sarr,Oumar,Gynecologie,627
-Fall,Fatou,Cardiologie,4637
-Faye,Mariama,Gynecologie,8210
-Fall,Oumar,Gynecologie,4360
-Ba,Awa,Chirurgie,3210
-Gueye,Mariama,Chirurgie,2961
-Fall,Aminata,Chirurgie,9404
-Diop,Moussa,Dermatologie,8120
-Kane,Awa,Medecine generale,9934
-Kane,Awa,Gynecologie,8305
-Ba,Mariama,Medecine generale,4739
-Sarr,Oumar,Dermatologie,3926
-Kane,Ibrahima,Pediatrie,1177
-Ba,Abdoulaye,Pediatrie,112
-Kane,Moussa,Gynecologie,3420
-Ba,Ousmane,Pediatrie,2786
-Faye,Khady,Cardiologie,9540
-Fall,Cheikh,Gynecologie,7167
-Diallo,Abdoulaye,Gynecologie,7815
-Sy,Cheikh,Pediatrie,1082
-Gueye,Awa,Cardiologie,8858
-Faye,Khady,Dermatologie,8386
-Sow,Ibrahima,Gynecologie,3035
-Ba,Moussa,Cardiologie,5099
-Sow,Mariama,Medecine generale,6023
-Fall,Khady,Cardiologie,2192
-Sarr,Fatou,Medecine generale,1622
-Ba,Ousmane,Dermatologie,2126
-Faye,Khady,Chirurgie,846
-Faye,Mamadou,Cardiologie,810
-Fall,Ousmane,Chirurgie,2990
-Gueye,Fatou,Cardiologie,7407
-Diallo,Ousmane,Pediatrie,3054
-Ndiaye,Mariama,Gynecologie,7805
-Sarr,Mariama,Gynecologie,6045
-Ndiaye,Cheikh,Medecine generale,1760
-Kane,Khady,Dermatologie,7602
-Sow,Mariama,Gynecologie,4892
-Kane,Abdoulaye,Dermatologie,1702
-Kane,Aminata,Pediatrie,2837
-Kane,Aminata,Gynecologie,6563
-Fall,Aminata,Chirurgie,4912
-Ndiaye,Moussa,Medecine generale,4446
-Sarr,Cheikh,Cardiologie,6529
-Ndiaye,Awa,Cardiologie,5170
-Ba,Abdoulaye,Medecine generale,4586
-Faye,Oumar,Cardiologie,6266
-Sy,Awa,Dermatologie,8572
-Kane,Ousmane,Chirurgie,8777
-Gueye,Ibrahima,Gynecologie,3003
-Diallo,Ousmane,Cardiologie,1783
-Diallo,Ousmane,Pediatrie,7182
-Sow,Ibrahima,Gynecologie,5853
-Kane,Ousmane,Pediatrie,9708
-Gueye,Mamadou,Pediatrie,9376
-Sy,Fatou,Cardiologie,1372
-Gueye,Moussa,Pediatrie,3573
-Diop,Mariama,Gynecologie,6503
-Ba,Mariama,Cardiologie,6426
-Diop,Aminata,Pediatrie,9964
-Faye,Fatou,Dermatologie,9285
-Ba,Moussa,Dermatologie,3608
-Faye,Ibrahima,Pediatrie,1845
-Gueye,Awa,Medecine generale,1045
-Ndiaye,Cheikh,Medecine generale,8497
-Sarr,Abdoulaye,Medecine generale,28
-Diop,Abdoulaye,Gynecologie,6542
-Sy,Ousmane,Chirurgie,6895
-Sy,Ibrahima,Dermatologie,5553
-Fall,Fatou,Dermatologie,5765
-Diallo,Fatou,Cardiologie,1488
-Diallo,Moussa,Chirurgie,3515
-Ba,Abdoulaye,Pediatrie,8280
-Sy,Cheikh,Dermatologie,2588
-Faye,Ousmane,Dermatologie,83
-Sarr,Cheikh,Medecine generale,282
-Gueye,Abdoulaye,Cardiologie,2172
-Gueye,Ousmane,Gynecologie,3399
-Ndiaye,Abdoulaye,Medecine generale,238
-Gueye,Cheikh,Chirurgie,911
-Sarr,Mamadou,Dermatologie,2014
-Diallo,Moussa,Chirurgie,2764
-Sy,Khady,Cardiologie,7807
-Faye,Oumar,Medecine generale,6234
-Ndiaye,Khady,Dermatologie,7930
-Sow,Khady,Pediatrie,8285
-Ba,Mamadou,Dermatologie,1649
-Sow,Fatou,Medecine generale,3446
-Sy,Ousmane,Dermatologie,611
-Kane,Khady,Gynecologie,1881
-Gueye,Khady,Gynecologie,8039
-Ba,Oumar,Gynecologie,4911
-Gueye,Oumar,Dermatologie,1027
-Kane,Ousmane,Dermatologie,4300
-Kane,Aminata,Gynecologie,5288
-Sy,Abdoulaye,Cardiologie,819
-Fall,Abdoulaye,Gynecologie,5393
-Faye,Moussa,Pediatrie,1226
-Kane,Ousmane,Gynecologie,9644
-Sy,Abdoulaye,Gynecologie,2594
-Kane,Fatou,Cardiologie,2520
-Gueye,Mamadou,Cardiologie,9140
-Ba,Oumar,Dermatologie,7006
-Fall,Awa,Medecine generale,2016
-Sow,Ousmane,Pediatrie,6523
-Ndiaye,Mamadou,Pediatrie,2868
-Kane,Fatou,Cardiologie,9679
-Ndiaye,Ousmane,Pediatrie,2833
-Sow,Khady,Gynecologie,9120
-Fall,Moussa,Pediatrie,4649
-Ndiaye,Ousmane,Pediatrie,1764
-Diallo,Abdoulaye,Cardiologie,8795
-Ba,Abdoulaye,Medecine generale,4135
-Sy,Cheikh,Medecine generale,9717
-Faye,Moussa,Gynecologie,1336
-Diallo,Khady,Dermatologie,4284
-Kane,Mamadou,Dermatologie,9242
-Sow,Moussa,Pediatrie,8196
-Sarr,Aminata,Pediatrie,6620
-Diallo,Aminata,Cardiologie,6725
-Diop,Khady,Medecine generale,4337
-Kane,Ousmane,Chirurgie,9674
-Sow,Moussa,Medecine generale,2974
-Sarr,Abdoulaye,Medecine generale,5347
-Diallo,Moussa,Medecine generale,6868
-Ba,Mariama,Dermatologie,771
-Fall,Oumar,Chirurgie,4529
-Diop,Awa,Chirurgie,4099
-Fall,Cheikh,Gynecologie,2948
-Gueye,Cheikh,Cardiologie,1750
-Diallo,Abdoulaye,Chirurgie,1041
-Sy,Mamadou,Gynecologie,3033
-Sarr,Ousmane,Medecine generale,6492
-Sarr,Oumar,Chirurgie,5865
-Diallo,Khady,Medecine generale,5542
-Sarr,Oumar,Chirurgie,106
-Fall,Fatou,Pediatrie,9780
-Ndiaye,Aminata,Dermatologie,320
-Sow,Mariama,Pediatrie,3941
-Sow,Fatou,Medecine generale,1919
-Diop,Moussa,Cardiologie,8171
-Diallo,Mamadou,Chirurgie,8330
-Sarr,Fatou,Cardiologie,3081
-Fall,Khady,Chirurgie,1528
-Fall,Ibrahima,Dermatologie,1297
-Kane,Moussa,Cardiologie,2727
-Ndiaye,Awa,Chirurgie,7800
-Fall,Ibrahima,Dermatologie,8784
-Diop,Awa,Medecine generale,1762
-Sarr,Awa,Dermatologie,5319
-Sarr,Awa,Gynecologie,7933
-Diallo,Oumar,Dermatologie,3550
-Ndiaye,Abdoulaye,Chirurgie,4002
-Faye,Fatou,Pediatrie,7300
-Faye,Aminata,Gynecologie,2274
-Ndiaye,Aminata,Medecine generale,2280
-Kane,Awa,Medecine generale,1499
-Ba,Ousmane,Dermatologie,3877
-Diallo,Cheikh,Pediatrie,2127
-Diop,Ousmane,Dermatologie,4728
-Faye,Oumar,Chirurgie,5079
-Ndiaye,Cheikh,Chirurgie,1803
-Gueye,Ousmane,Pediatrie,2409
-Diop,Awa,Cardiologie,8457
-Kane,Mamadou,Pediatrie,4340
-Kane,Fatou,Gynecologie,5773
-Kane,Oumar,Dermatologie,6236
-Ba,Moussa,Cardiologie,5536
-Sow,Oumar,Medecine generale,5937
-Ba,Ousmane,Cardiologie,3069
-Faye,Cheikh,Pediatrie,1996
-Faye,Ousmane,Pediatrie,7877
-Sy,Ousmane,Pediatrie,1005
-Diop,Cheikh,Gynecologie,2570
-Fall,Abdoulaye,Gynecologie,8504
-Faye,Mamadou,Medecine generale,6231
-Fall,Cheikh,Dermatologie,7081
-Kane,Awa,Chirurgie,4602
-Diallo,Cheikh,Chirurgie,8943
-Diop,Cheikh,Dermatologie,4389
-Kane,Moussa,Pediatrie,1214
-Gueye,Mariama,Pediatrie,905
-Fall,Fatou,Dermatologie,9693
-Sy,Mariama,Chirurgie,8373
-Diop,Cheikh,Gynecologie,6431
-Ndiaye,Moussa,Dermatologie,6801
-Sarr,Oumar,Chirurgie,3002
-Faye,Abdoulaye,Pediatrie,7357
-Kane,Moussa,Cardiologie,5882
-Diallo,Abdoulaye,Medecine generale,8118
-Faye,Abdoulaye,Medecine generale,1440
-Ba,Ibrahima,Dermatologie,5654
-Gueye,Mamadou,Medecine generale,8301
-Gueye,Fatou,Dermatologie,3313
-Faye,Cheikh,Medecine generale,3170
-Gueye,Aminata,Cardiologie,852
-Fall,Mamadou,Medecine generale,3341
-Gueye,Awa,Cardiologie,7366
-Sarr,Ousmane,Cardiologie,3496
-Diallo,Aminata,Medecine generale,9330
-Sarr,Mariama,Gynecologie,7476
-Fall,Khady,Medecine generale,4719
-Gueye,Awa,Pediatrie,4420
-Fall,Cheikh,Gynecologie,7692
-Diallo,Fatou,Medecine generale,908
-Sow,Ibrahima,Gynecologie,4286
-Sow,Ousmane,Chirurgie,4034
-Diop,Oumar,Chirurgie,315
-Sow,Mariama,Medecine generale,9044
-Sow,Moussa,Cardiologie,4238
-Sarr,Oumar,Gynecologie,2884
-Gueye,Khady,Medecine generale,7838
-Gueye,Aminata,Gynecologie,4384
-Kane,Awa,Dermatologie,6560
-Gueye,Ousmane,Chirurgie,9751
-Kane,Fatou,Chirurgie,8845
-Diallo,Fatou,Dermatologie,5122
-Diallo,Cheikh,Gynecologie,4972
-Kane,Aminata,Cardiologie,2670
-Diallo,Fatou,Pediatrie,5152
-Sarr,Mariama,Dermatologie,10000
-Sarr,Mariama,Dermatologie,6208
-Sow,Mariama,Gynecologie,3190
-Faye,Moussa,Chirurgie,1998
-Diallo,Moussa,Medecine generale,2026
-Sow,Fatou,Medecine generale,6428
-Fall,Cheikh,Pediatrie,2031
-Ndiaye,Abdoulaye,Medecine generale,4591
-Sy,Khady,Dermatologie,7032
-Faye,Mamadou,Cardiologie,2797
-Ndiaye,Mariama,Cardiologie,7001
-Ndiaye,Abdoulaye,Cardiologie,8156
-Faye,Aminata,Gynecologie,2584
-Sarr,Fatou,Dermatologie,7410
-Diop,Mamadou,Chirurgie,7393
-Ba,Fatou,Medecine generale,7172
-Sarr,Mamadou,Pediatrie,5314
-Diop,Abdoulaye,Cardiologie,4578
-Ndiaye,Khady,Gynecologie,3186
-Gueye,Aminata,Chirurgie,9872
-Sow,Oumar,Medecine generale,8272
-Sy,Mamadou,Gynecologie,6968
-Diallo,Khady,Cardiologie,93
-Diallo,Khady,Chirurgie,508
-Sarr,Awa,Pediatrie,481
-Sarr,Abdoulaye,Chirurgie,7865
-Ndiaye,Cheikh,Pediatrie,5219
-Ndiaye,Moussa,Chirurgie,9716
-Ba,Oumar,Chirurgie,952
-Sarr,Aminata,Medecine generale,574
-Kane,Abdoulaye,Pediatrie,8798
-Sarr,Fatou,Dermatologie,3540
-Kane,Abdoulaye,Dermatologie,2117
-Sy,Abdoulaye,Dermatologie,4467
-Diop,Abdoulaye,Cardiologie,9157
-Kane,Moussa,Medecine generale,9183
-Ndiaye,Ibrahima,Cardiologie,1722
-Diallo,Abdoulaye,Cardiologie,3171
-Sow,Mariama,Gynecologie,3888
-Ba,Cheikh,Pediatrie,3950
-Diallo,Ibrahima,Dermatologie,5425
-Sy,Oumar,Chirurgie,2366
-Kane,Cheikh,Dermatologie,5379
-Faye,Ibrahima,Medecine generale,5208
-Gueye,Moussa,Pediatrie,6413
-Diallo,Moussa,Chirurgie,7527
-Diallo,Moussa,Gynecologie,6907
-Gueye,Abdoulaye,Pediatrie,8555
-Kane,Cheikh,Dermatologie,9600
-Sarr,Mamadou,Medecine generale,9754
-Gueye,Fatou,Chirurgie,803
-Kane,Khady,Pediatrie,8335
-Sy,Oumar,Pediatrie,1367
-Ndiaye,Mamadou,Chirurgie,9052
-Faye,Fatou,Chirurgie,5365
-Ndiaye,Cheikh,Chirurgie,4658
-Sarr,Awa,Medecine generale,5845
-Sarr,Fatou,Pediatrie,6593
-Diop,Cheikh,Cardiologie,5359
-Sy,Abdoulaye,Chirurgie,6678
-Ndiaye,Aminata,Chirurgie,1666
-Sarr,Ousmane,Chirurgie,522
-Faye,Oumar,Cardiologie,577
-Ndiaye,Aminata,Chirurgie,2256
-Sarr,Mariama,Chirurgie,1958
-Ba,Khady,Cardiologie,3343
-Sow,Abdoulaye,Chirurgie,5337
-Fall,Aminata,Dermatologie,7509
-Sarr,Cheikh,Dermatologie,9272
-Diop,Awa,Pediatrie,6855
-Sy,Khady,Medecine generale,4593
-Sow,Ibrahima,Medecine generale,8031
-Sow,Mariama,Cardiologie,861
-Ndiaye,Oumar,Medecine generale,6416
-Fall,Fatou,Gynecologie,351
-Sy,Mariama,Chirurgie,4063
-Gueye,Fatou,Pediatrie,4091
-Gueye,Ibrahima,Chirurgie,7750
-Diallo,Oumar,Medecine generale,3725
-Diop,Khady,Cardiologie,7185
-Sow,Fatou,Dermatologie,7662
-Faye,Fatou,Dermatologie,3338
-Fall,Awa,Medecine generale,6064
-Gueye,Mariama,Dermatologie,5207
-Ndiaye,Mariama,Cardiologie,6722
-Kane,Ousmane,Dermatologie,6392
-Diop,Ibrahima,Cardiologie,4179
-Sy,Mariama,Medecine generale,7019
-Ba,Ibrahima,Pediatrie,5378
-Sy,Khady,Cardiologie,8635
-Sy,Mamadou,Pediatrie,3716
-Ba,Moussa,Pediatrie,2813
-Diallo,Khady,Pediatrie,6375
-Diallo,Mamadou,Cardiologie,1430
-Sy,Ibrahima,Medecine generale,6792
-Sarr,Abdoulaye,Chirurgie,593
-Gueye,Ousmane,Medecine generale,222
-Ndiaye,Mamadou,Chirurgie,1353
-Gueye,Mamadou,Chirurgie,7461
-Sarr,Oumar,Cardiologie,165
-Diallo,Cheikh,Chirurgie,9291
-Kane,Mamadou,Pediatrie,4422
-Gueye,Moussa,Medecine generale,7630
-Diallo,Aminata,Chirurgie,6890
-Fall,Aminata,Dermatologie,2702
-Ndiaye,Abdoulaye,Chirurgie,3286
-Diop,Mariama,Chirurgie,9718
-Ndiaye,Mariama,Pediatrie,1412
-Sy,Mariama,Pediatrie,1256
-Fall,Fatou,Medecine generale,1446
-Ba,Abdoulaye,Pediatrie,6781
-Faye,Oumar,Pediatrie,2581
-Sow,Fatou,Medecine generale,1765
-Sarr,Oumar,Dermatologie,268
-Sarr,Mamadou,Dermatologie,3339
-Sy,Mariama,Dermatologie,9164
-Faye,Ousmane,Cardiologie,2352
-Gueye,Abdoulaye,Cardiologie,1490
-Gueye,Fatou,Gynecologie,3052
-Ndiaye,Oumar,Chirurgie,6691
-Ba,Fatou,Gynecologie,5537
-Fall,Awa,Dermatologie,5277
-Diop,Ousmane,Pediatrie,5492
-Sarr,Oumar,Cardiologie,584
-Ba,Fatou,Dermatologie,8949
-Ndiaye,Khady,Gynecologie,1160
-Gueye,Mariama,Dermatologie,9263
-Sy,Fatou,Dermatologie,3327
-Faye,Awa,Dermatologie,809
-Gueye,Mamadou,Pediatrie,8300
-Kane,Fatou,Cardiologie,6732
-Diallo,Ousmane,Pediatrie,8358
-Ndiaye,Ousmane,Medecine generale,6521
-Gueye,Fatou,Gynecologie,9562
-Ndiaye,Aminata,Pediatrie,4734
-Sow,Abdoulaye,Gynecologie,8679
-Diallo,Khady,Pediatrie,4350
-Sy,Cheikh,Chirurgie,1476
-Gueye,Moussa,Dermatologie,9632
-Gueye,Fatou,Pediatrie,6797
-Gueye,Oumar,Gynecologie,3279
-Diop,Moussa,Cardiologie,2410
-Ba,Aminata,Medecine generale,7289
-Sy,Moussa,Medecine generale,8905
-Diallo,Cheikh,Cardiologie,185
-Faye,Awa,Dermatologie,5663
-Sarr,Abdoulaye,Dermatologie,9952
-Sarr,Cheikh,Cardiologie,9836
-Fall,Ibrahima,Chirurgie,7730
-Fall,Abdoulaye,Cardiologie,1343
-Faye,Awa,Chirurgie,8717
-Ndiaye,Moussa,Cardiologie,3195
-Faye,Aminata,Chirurgie,886
-Diallo,Awa,Medecine generale,8628
-Diallo,Mamadou,Pediatrie,1841
-Ba,Ibrahima,Chirurgie,6592
-Diop,Oumar,Chirurgie,838
-Gueye,Fatou,Cardiologie,6511
-Sarr,Moussa,Gynecologie,2290
-Kane,Awa,Cardiologie,8534
-Sy,Ibrahima,Dermatologie,9921
-Sarr,Awa,Chirurgie,7489
-Sy,Fatou,Chirurgie,7689
-Diop,Awa,Medecine generale,8212
-Sow,Awa,Cardiologie,7312
-Sow,Moussa,Chirurgie,9424
-Diop,Oumar,Chirurgie,7116
-Sarr,Ousmane,Pediatrie,3510
-Kane,Khady,Medecine generale,7973
-Diop,Cheikh,Pediatrie,7673
-Diallo,Cheikh,Cardiologie,8213
-Fall,Cheikh,Medecine generale,4571
-Ndiaye,Moussa,Dermatologie,7628
-Sarr,Oumar,Gynecologie,2834
-Diallo,Abdoulaye,Cardiologie,9061
-Kane,Aminata,Gynecologie,4190
-Diop,Awa,Chirurgie,5722
-Diop,Aminata,Pediatrie,8566
-Diop,Aminata,Medecine generale,1778
-Sy,Ibrahima,Gynecologie,9102
-Gueye,Ousmane,Gynecologie,9021
-Gueye,Fatou,Chirurgie,4387
-Sow,Ibrahima,Gynecologie,720
-Gueye,Fatou,Pediatrie,4768
-Sow,Cheikh,Chirurgie,8406
-Ndiaye,Mamadou,Chirurgie,5380
-Sy,Awa,Cardiologie,1875
-Sow,Ibrahima,Cardiologie,3252
-Sow,Mamadou,Gynecologie,1517
-Faye,Ousmane,Chirurgie,9858
-Ba,Mamadou,Medecine generale,6291
-Sow,Abdoulaye,Cardiologie,5285
-Sarr,Moussa,Dermatologie,7000
-Fall,Ousmane,Dermatologie,7553
-Gueye,Abdoulaye,Gynecologie,6024
-Sarr,Mariama,Dermatologie,1681
-Ba,Fatou,Chirurgie,820
-Faye,Aminata,Pediatrie,7613
-Kane,Ousmane,Cardiologie,6748
-Kane,Moussa,Gynecologie,8581
-Diallo,Abdoulaye,Medecine generale,4846
-Ba,Ibrahima,Pediatrie,5526
-Ba,Mamadou,Chirurgie,1224
-Sow,Khady,Cardiologie,6908
-Fall,Cheikh,Cardiologie,9762
-Ndiaye,Ousmane,Gynecologie,2765
-Diop,Ousmane,Chirurgie,2917
-Faye,Abdoulaye,Medecine generale,7539
-Sow,Mamadou,Medecine generale,7055
-Ndiaye,Abdoulaye,Pediatrie,2451
-Sy,Abdoulaye,Chirurgie,1301
-Ba,Moussa,Chirurgie,6222
-Sow,Moussa,Pediatrie,2461
-Faye,Cheikh,Dermatologie,6467
-Ndiaye,Aminata,Dermatologie,8397
-Diallo,Oumar,Chirurgie,6562
-Ndiaye,Oumar,Chirurgie,4932
-Faye,Mariama,Gynecologie,1574
-Ndiaye,Abdoulaye,Medecine generale,2365
-Fall,Mariama,Pediatrie,7752
-Gueye,Awa,Chirurgie,567
-Ndiaye,Cheikh,Chirurgie,5914
-Sarr,Mamadou,Medecine generale,4651
-Ndiaye,Fatou,Gynecologie,6607
-Diallo,Mamadou,Chirurgie,8409
-Ndiaye,Mamadou,Cardiologie,3874
-Diop,Mariama,Cardiologie,8047
-Diallo,Oumar,Cardiologie,5278
-Sy,Fatou,Pediatrie,5854
-Ba,Khady,Chirurgie,4930
-Fall,Ibrahima,Pediatrie,2253
-Ba,Mariama,Pediatrie,5948
-Sow,Ibrahima,Medecine generale,4614
-Kane,Mamadou,Pediatrie,8336
-Ndiaye,Ibrahima,Pediatrie,4672
-Diop,Mariama,Dermatologie,4479
-Diallo,Cheikh,Medecine generale,4612
-Kane,Abdoulaye,Pediatrie,5798
-Ndiaye,Cheikh,Gynecologie,3541
-Kane,Awa,Pediatrie,2071
-Gueye,Fatou,Cardiologie,1975
-Diallo,Abdoulaye,Cardiologie,9184
-Diop,Aminata,Cardiologie,3176
-Diallo,Oumar,Pediatrie,5888
-Ndiaye,Ibrahima,Pediatrie,5548
-Sy,Awa,Cardiologie,1748
-Sarr,Khady,Pediatrie,1040
-Gueye,Ibrahima,Gynecologie,9256
-Gueye,Mariama,Medecine generale,2758
-Diop,Abdoulaye,Chirurgie,4510
-Kane,Aminata,Cardiologie,9204
-Ndiaye,Ousmane,Cardiologie,7085
-Diallo,Ibrahima,Dermatologie,9568
-Sarr,Abdoulaye,Pediatrie,1632
-Kane,Aminata,Cardiologie,2302
-Ba,Cheikh,Gynecologie,7993
-Faye,Moussa,Gynecologie,1223
-Ndiaye,Fatou,Chirurgie,5402
-Ba,Abdoulaye,Chirurgie,2611
-Ba,Khady,Pediatrie,4829
-Diallo,Cheikh,Medecine generale,5840
-Ndiaye,Mariama,Dermatologie,2207
-Faye,Cheikh,Pediatrie,3467
-Fall,Cheikh,Gynecologie,8468
-Sarr,Ibrahima,Chirurgie,527
-Sy,Khady,Pediatrie,2468
-Diop,Ibrahima,Pediatrie,3206
-Fall,Moussa,Cardiologie,949
-Kane,Moussa,Gynecologie,3677
-Gueye,Awa,Chirurgie,8266
-Kane,Cheikh,Cardiologie,3789
-Ba,Aminata,Cardiologie,8108
-Sow,Fatou,Chirurgie,2102
-Sy,Khady,Dermatologie,4156
-Ndiaye,Abdoulaye,Medecine generale,9588
-Fall,Cheikh,Pediatrie,9729
-Sow,Moussa,Gynecologie,4551
-Sy,Abdoulaye,Medecine generale,2998
-Ba,Abdoulaye,Chirurgie,8865
-Fall,Oumar,Pediatrie,945
-Ndiaye,Ousmane,Pediatrie,5839
-Kane,Ibrahima,Gynecologie,1292
-Sow,Ibrahima,Dermatologie,6129
-Diop,Mariama,Cardiologie,9988
-Diallo,Moussa,Gynecologie,8529
-Diallo,Moussa,Medecine generale,1961
-Sy,Khady,Chirurgie,6174
-Kane,Oumar,Gynecologie,5926
-Fall,Mamadou,Gynecologie,669
-Sarr,Abdoulaye,Medecine generale,3432
-Gueye,Aminata,Chirurgie,9914
-Ba,Abdoulaye,Cardiologie,9408
-Gueye,Fatou,Dermatologie,7744
-Ba,Oumar,Dermatologie,5515
-Kane,Mamadou,Chirurgie,211
-Fall,Khady,Gynecologie,377
-Diop,Abdoulaye,Medecine generale,6067
-Fall,Aminata,Pediatrie,866
-Sy,Mariama,Dermatologie,548
-Diop,Aminata,Medecine generale,417
-Sarr,Moussa,Pediatrie,1319
-Diallo,Moussa,Chirurgie,4269
-Kane,Ibrahima,Cardiologie,5109
-Sy,Fatou,Pediatrie,9018
-Sarr,Mamadou,Medecine generale,3662
-Fall,Ousmane,Chirurgie,5757
-Kane,Abdoulaye,Gynecologie,8821
-Fall,Mariama,Gynecologie,3356
-Diop,Mariama,Gynecologie,2163
-Kane,Mamadou,Chirurgie,1609
-Diop,Oumar,Gynecologie,5220
-Ba,Ousmane,Chirurgie,7824
-Diop,Mariama,Pediatrie,1084
-Ndiaye,Oumar,Gynecologie,5931
-Diop,Ibrahima,Medecine generale,2949
-Faye,Mariama,Medecine generale,3216
-Gueye,Awa,Dermatologie,5601
-Diallo,Aminata,Pediatrie,8650
-Gueye,Oumar,Cardiologie,2660
-Faye,Oumar,Cardiologie,1011
-Kane,Cheikh,Pediatrie,7126
-Diop,Khady,Gynecologie,1088
-Sow,Oumar,Dermatologie,4967
-Kane,Cheikh,Gynecologie,9247
-Faye,Khady,Medecine generale,1017
-Fall,Aminata,Medecine generale,7870
-Diallo,Mamadou,Cardiologie,7799
-Ba,Oumar,Cardiologie,1976
-Ba,Ousmane,Medecine generale,9531
-Sarr,Aminata,Pediatrie,2934
-Gueye,Awa,Pediatrie,7522
-Faye,Fatou,Pediatrie,3259
-Ndiaye,Ibrahima,Cardiologie,4754
-Faye,Aminata,Cardiologie,7309
-Sow,Awa,Chirurgie,1238
-Gueye,Khady,Cardiologie,5962
-Ndiaye,Khady,Chirurgie,6928
-Ndiaye,Oumar,Medecine generale,6717
-Sow,Aminata,Medecine generale,1732
-Diallo,Mamadou,Chirurgie,5094
-Fall,Mamadou,Cardiologie,4206
-Sow,Cheikh,Pediatrie,1378
-Sy,Mamadou,Medecine generale,8407
-Diallo,Khady,Chirurgie,8554
-Gueye,Aminata,Medecine generale,1682
-Ndiaye,Fatou,Cardiologie,2835
-Diop,Fatou,Chirurgie,6328
-Kane,Moussa,Medecine generale,9421
-Sy,Ousmane,Dermatologie,5735
-Kane,Cheikh,Pediatrie,2230
-Kane,Awa,Gynecologie,8399
-Ndiaye,Awa,Cardiologie,7573
-Kane,Aminata,Dermatologie,2013
-Diallo,Abdoulaye,Dermatologie,1379
-Diallo,Ibrahima,Cardiologie,5576
-Sow,Mariama,Chirurgie,3611
-Kane,Aminata,Dermatologie,6493
-Gueye,Khady,Dermatologie,5498
-Sow,Cheikh,Medecine generale,8847
-Sarr,Mariama,Cardiologie,9056
-Sy,Abdoulaye,Gynecologie,2586
-Faye,Moussa,Medecine generale,6547
-Diallo,Ousmane,Cardiologie,1670
-Sow,Cheikh,Chirurgie,6681
-Kane,Abdoulaye,Gynecologie,5682
-Ndiaye,Aminata,Chirurgie,7767
-Ndiaye,Abdoulaye,Dermatologie,5524
-Fall,Mariama,Pediatrie,8076
-Sy,Mariama,Chirurgie,890
-Faye,Mamadou,Gynecologie,5227
-Sarr,Oumar,Pediatrie,4714
-Fall,Aminata,Dermatologie,424
-Sy,Oumar,Dermatologie,701
-Ndiaye,Awa,Pediatrie,8344
-Ba,Awa,Gynecologie,2527
-Kane,Fatou,Pediatrie,6340
-Sow,Oumar,Chirurgie,7976
-Ndiaye,Ibrahima,Gynecologie,3989
-Sow,Ousmane,Cardiologie,1547
-Sy,Khady,Medecine generale,8027
-Sow,Mamadou,Medecine generale,1719
-Ba,Abdoulaye,Pediatrie,4052
-Fall,Moussa,Cardiologie,5667
-Faye,Khady,Cardiologie,683
-Diop,Awa,Pediatrie,4705
-Sow,Awa,Cardiologie,6848
-Faye,Awa,Cardiologie,7892
-Sy,Oumar,Medecine generale,1737
-Faye,Awa,Chirurgie,2357
-Ndiaye,Oumar,Dermatologie,1524
-Diallo,Moussa,Medecine generale,2485
-Sarr,Abdoulaye,Dermatologie,5123
-Diallo,Mamadou,Chirurgie,940
-Sy,Ousmane,Pediatrie,6034
-Sow,Ousmane,Medecine generale,4234
-Ba,Abdoulaye,Gynecologie,8246
-Kane,Ousmane,Pediatrie,9509
-Diop,Khady,Cardiologie,8149
-Kane,Moussa,Dermatologie,3149
-Sy,Mamadou,Medecine generale,4670
-Sy,Ibrahima,Dermatologie,8459
-Sow,Khady,Medecine generale,1342
-Sow,Aminata,Pediatrie,2754
-Diallo,Ibrahima,Pediatrie,6389
-Ndiaye,Ousmane,Medecine generale,8646
-Sow,Mariama,Pediatrie,3791
-Gueye,Ousmane,Chirurgie,2106
-Sarr,Oumar,Medecine generale,2257
-Sow,Ousmane,Gynecologie,9326
-Diallo,Khady,Gynecologie,9680
-Faye,Mamadou,Chirurgie,4371
-Diallo,Cheikh,Dermatologie,3036
-Ndiaye,Khady,Cardiologie,1700
-Kane,Moussa,Pediatrie,5497
-Sy,Abdoulaye,Cardiologie,9265
-Diallo,Oumar,Cardiologie,2771
-Sarr,Khady,Dermatologie,9023
-Gueye,Mamadou,Pediatrie,4954
-Sow,Ibrahima,Cardiologie,9852
-Ndiaye,Mariama,Cardiologie,3403
-Sarr,Moussa,Cardiologie,4120
-Diop,Cheikh,Chirurgie,4097
-Fall,Oumar,Chirurgie,7080
-Kane,Khady,Medecine generale,6187
-Diallo,Ousmane,Dermatologie,7954
-Ba,Abdoulaye,Medecine generale,9978
-Sow,Mariama,Pediatrie,5547
-Ndiaye,Oumar,Chirurgie,4441
-Sow,Awa,Medecine generale,2101
-Kane,Awa,Cardiologie,9253
-Sow,Awa,Cardiologie,2532
-Sow,Oumar,Pediatrie,57
-Kane,Khady,Dermatologie,3359
-Ba,Moussa,Medecine generale,6723
-Faye,Cheikh,Dermatologie,4369
-Faye,Cheikh,Pediatrie,2445
-Kane,Ousmane,Cardiologie,4456
-Faye,Cheikh,Dermatologie,1204
-Ba,Mamadou,Chirurgie,5619
-Kane,Cheikh,Cardiologie,4626
-Kane,Khady,Cardiologie,9099
-Sow,Fatou,Cardiologie,9205
-Diop,Fatou,Chirurgie,7158
-Faye,Ibrahima,Gynecologie,2136
-Kane,Moussa,Cardiologie,8431
-Diallo,Ousmane,Cardiologie,2890
-Fall,Oumar,Dermatologie,9524
-Ndiaye,Oumar,Medecine generale,4981
-Ndiaye,Khady,Gynecologie,4707
-Ba,Ibrahima,Chirurgie,5336
-Gueye,Ousmane,Pediatrie,3063
-Fall,Ousmane,Cardiologie,71
-Kane,Moussa,Medecine generale,2840
-Ndiaye,Aminata,Cardiologie,6310
-Kane,Ibrahima,Pediatrie,3947
-Diallo,Mamadou,Medecine generale,1706
-Sy,Cheikh,Dermatologie,1889
-Sy,Khady,Chirurgie,2794
-Sarr,Mamadou,Medecine generale,8477
-Diallo,Aminata,Gynecologie,2710
-Faye,Moussa,Pediatrie,9626
-Sow,Mamadou,Gynecologie,2377
-Gueye,Aminata,Medecine generale,7948
-Diop,Ibrahima,Gynecologie,8329
-Gueye,Cheikh,Chirurgie,7284
-Faye,Cheikh,Cardiologie,5339
-Ba,Aminata,Dermatologie,2286
-Diallo,Cheikh,Pediatrie,533
-Ba,Mamadou,Pediatrie,8121
-Sarr,Fatou,Medecine generale,6255
-Faye,Fatou,Cardiologie,1668
-Diop,Cheikh,Pediatrie,572
-Sow,Awa,Cardiologie,7636
-Faye,Moussa,Chirurgie,2301
-Sow,Awa,Pediatrie,6762
-Fall,Aminata,Chirurgie,1691
-Fall,Aminata,Chirurgie,2912
-Ndiaye,Oumar,Dermatologie,1146
-Sow,Khady,Medecine generale,982
-Gueye,Ousmane,Chirurgie,7229
-Ndiaye,Mamadou,Cardiologie,8073
-Sarr,Mariama,Cardiologie,8257
-Sow,Mariama,Dermatologie,2550
-Ndiaye,Mariama,Cardiologie,1568
-Sarr,Khady,Cardiologie,6561
-Diallo,Oumar,Cardiologie,7712
-Fall,Mariama,Dermatologie,8876
-Fall,Mariama,Dermatologie,1972
-Sow,Abdoulaye,Gynecologie,5487
-Faye,Oumar,Cardiologie,6803
-Kane,Fatou,Gynecologie,4241
-Ba,Mariama,Gynecologie,2707
-Diop,Mariama,Gynecologie,2385
-Ba,Khady,Cardiologie,8377
-Diallo,Aminata,Dermatologie,3645
-Kane,Moussa,Cardiologie,4486
-Sy,Cheikh,Chirurgie,7098
-Gueye,Ousmane,Dermatologie,1634
-Ba,Awa,Chirurgie,7073
-Diop,Abdoulaye,Dermatologie,6727
-Sy,Awa,Cardiologie,8763
-Diallo,Aminata,Medecine generale,2459
-Diallo,Abdoulaye,Pediatrie,5843
-Faye,Abdoulaye,Gynecologie,9238
-Ndiaye,Awa,Medecine generale,953
-Sy,Moussa,Pediatrie,4058
-Sarr,Oumar,Medecine generale,422
-Sy,Ibrahima,Gynecologie,139
-Sarr,Awa,Chirurgie,7901
-Diop,Oumar,Dermatologie,3524
-Faye,Oumar,Gynecologie,2823
-Ba,Cheikh,Cardiologie,247
-Diop,Fatou,Gynecologie,7913
-Ndiaye,Abdoulaye,Chirurgie,5821
-Ba,Abdoulaye,Gynecologie,8974
-Fall,Fatou,Chirurgie,5327
-Diallo,Mariama,Chirurgie,5645
-Ba,Ibrahima,Pediatrie,3087
-Diop,Awa,Pediatrie,9397
-Sy,Fatou,Pediatrie,7430
-Kane,Aminata,Pediatrie,9037
-Diop,Moussa,Chirurgie,5442
-Sy,Abdoulaye,Cardiologie,1641
-Diallo,Ibrahima,Pediatrie,8255
-Faye,Ibrahima,Chirurgie,6240
-Sy,Fatou,Medecine generale,7467
-Diop,Awa,Medecine generale,5090
-Sarr,Mariama,Pediatrie,1407
-Diop,Ibrahima,Dermatologie,1458
-Sow,Mariama,Pediatrie,5941
-Diallo,Fatou,Chirurgie,1896
-Diallo,Khady,Cardiologie,7557
-Kane,Mariama,Medecine generale,9440
-Diop,Mariama,Pediatrie,9938
-Sy,Ibrahima,Pediatrie,9036
-Kane,Cheikh,Medecine generale,921
-Sy,Cheikh,Cardiologie,2957
-Sy,Abdoulaye,Medecine generale,2678
-Ba,Aminata,Pediatrie,6743
-Fall,Awa,Chirurgie,7270
-Ba,Awa,Dermatologie,219
-Diop,Khady,Chirurgie,4367
-Sow,Khady,Chirurgie,7920
-Gueye,Aminata,Gynecologie,9813
-Diallo,Aminata,Chirurgie,396
-Sow,Mariama,Dermatologie,6025
-Diop,Awa,Dermatologie,6597
-Kane,Ibrahima,Pediatrie,9798
-Sy,Ousmane,Dermatologie,9892
-Diallo,Moussa,Chirurgie,5009
-Sy,Moussa,Gynecologie,7231
-Sarr,Fatou,Pediatrie,7988
-Kane,Abdoulaye,Pediatrie,7359
-Diop,Ousmane,Medecine generale,3424
-Ndiaye,Ibrahima,Gynecologie,4704
-Fall,Ibrahima,Pediatrie,6425
-Ndiaye,Mamadou,Chirurgie,6802
-Fall,Khady,Cardiologie,2778
-Gueye,Ibrahima,Chirurgie,7321
-Sarr,Moussa,Gynecologie,9064
-Gueye,Moussa,Dermatologie,4196
-Gueye,Khady,Medecine generale,2080
-Sy,Awa,Dermatologie,3124
-Gueye,Ibrahima,Chirurgie,1466
-Sy,Awa,Gynecologie,4062
-Diop,Fatou,Cardiologie,8064
-Ba,Abdoulaye,Cardiologie,141
-Kane,Cheikh,Gynecologie,614
-Sow,Aminata,Cardiologie,6667
-Gueye,Ousmane,Gynecologie,2475
-Sy,Mamadou,Gynecologie,977
-Sarr,Fatou,Chirurgie,8609
-Diallo,Awa,Gynecologie,7111
-Kane,Moussa,Medecine generale,2423
-Sy,Fatou,Dermatologie,4750
-Ba,Abdoulaye,Gynecologie,1656
-Sow,Aminata,Cardiologie,1747
-Sow,Awa,Gynecologie,4842
-Sarr,Abdoulaye,Medecine generale,8011
-Sow,Mariama,Cardiologie,5338
-Diallo,Awa,Cardiologie,9289
-Gueye,Abdoulaye,Chirurgie,9255
-Ndiaye,Ibrahima,Cardiologie,1501
-Ba,Fatou,Medecine generale,6055
-Fall,Khady,Gynecologie,4386
-Diallo,Aminata,Pediatrie,9198
-Ndiaye,Oumar,Medecine generale,6076
-Faye,Fatou,Cardiologie,848
-Sarr,Ousmane,Medecine generale,4797
-Faye,Aminata,Dermatologie,461
-Sarr,Ousmane,Dermatologie,92
-Sarr,Fatou,Chirurgie,3335
-Gueye,Ousmane,Medecine generale,9831
-Fall,Cheikh,Dermatologie,4693
-Fall,Mariama,Chirurgie,258
-Ba,Aminata,Medecine generale,943
-Ndiaye,Oumar,Medecine generale,4901
-Diop,Oumar,Pediatrie,4232
-Gueye,Aminata,Medecine generale,2316
-Sarr,Awa,Chirurgie,6858
-Diop,Oumar,Cardiologie,2741
-Sarr,Khady,Pediatrie,135
-Diallo,Khady,Dermatologie,3106
-Faye,Abdoulaye,Dermatologie,1032
-Sarr,Abdoulaye,Dermatologie,347
-Ndiaye,Ibrahima,Cardiologie,3629
-Ndiaye,Mamadou,Chirurgie,1683
-Sow,Awa,Medecine generale,4666
-Faye,Fatou,Pediatrie,4133
-Sy,Ousmane,Cardiologie,498
-Ba,Mamadou,Chirurgie,4715
-Diallo,Awa,Cardiologie,3657
-Faye,Abdoulaye,Medecine generale,6831
-Sow,Abdoulaye,Pediatrie,3502
-Sarr,Fatou,Cardiologie,7405
-Ndiaye,Khady,Medecine generale,2464
-Sow,Abdoulaye,Pediatrie,9487
-Fall,Oumar,Chirurgie,6178
-Ndiaye,Cheikh,Chirurgie,6712
-Ba,Aminata,Medecine generale,9623
-Kane,Khady,Chirurgie,5114
-Sow,Cheikh,Cardiologie,7765
-Sow,Ousmane,Dermatologie,3331
-Diop,Aminata,Chirurgie,4228
-Diallo,Khady,Gynecologie,8441
-Sy,Mariama,Dermatologie,961
-Sow,Awa,Pediatrie,8372
-Gueye,Fatou,Chirurgie,3993
-Kane,Ibrahima,Medecine generale,2921
-Sarr,Fatou,Cardiologie,3868
-Fall,Aminata,Dermatologie,6933
-Ndiaye,Oumar,Dermatologie,9563
-Sarr,Abdoulaye,Pediatrie,1073
-Kane,Mamadou,Pediatrie,3137
-Sy,Mamadou,Cardiologie,5686
-Fall,Aminata,Cardiologie,9890
-Fall,Mariama,Chirurgie,3928
-Kane,Ibrahima,Gynecologie,937
-Sy,Awa,Gynecologie,835
-Faye,Mamadou,Medecine generale,1635
-Sy,Cheikh,Cardiologie,545
-Kane,Moussa,Medecine generale,2058
-Fall,Moussa,Cardiologie,5606
-Diop,Ousmane,Chirurgie,2703
-Faye,Cheikh,Medecine generale,7817
-Fall,Mariama,Medecine generale,5276
-Sy,Ousmane,Gynecologie,9299
-Kane,Mamadou,Dermatologie,8182
-Diop,Moussa,Gynecologie,1370
-Sarr,Ibrahima,Chirurgie,8482
-Sow,Awa,Medecine generale,6018
-Ndiaye,Fatou,Medecine generale,1015
-Diallo,Oumar,Cardiologie,4582
-Gueye,Fatou,Gynecologie,2435
-Fall,Cheikh,Gynecologie,9090
-Faye,Oumar,Gynecologie,132
-Diop,Fatou,Dermatologie,2733
-Kane,Ibrahima,Cardiologie,9485
-Ba,Mamadou,Pediatrie,1137
-Diop,Abdoulaye,Medecine generale,8877
-Fall,Ibrahima,Pediatrie,206
-Sow,Moussa,Pediatrie,9593
-Sarr,Khady,Gynecologie,7697
-Faye,Abdoulaye,Medecine generale,9862
-Diallo,Moussa,Pediatrie,6735
-Gueye,Abdoulaye,Dermatologie,1500
-Ndiaye,Abdoulaye,Pediatrie,1030
-Kane,Khady,Cardiologie,8160
-Diallo,Mariama,Medecine generale,7166
-Kane,Aminata,Chirurgie,6269
-Sarr,Fatou,Pediatrie,3134
-Sarr,Awa,Cardiologie,7912
-Sarr,Aminata,Medecine generale,6528
-Sow,Moussa,Medecine generale,9843
-Kane,Mariama,Gynecologie,9821
-Sow,Cheikh,Chirurgie,2146
-Sy,Khady,Pediatrie,6863
-Sow,Mariama,Medecine generale,8443
-Gueye,Mariama,Pediatrie,2333
-Gueye,Aminata,Pediatrie,912
-Diallo,Fatou,Medecine generale,380
-Fall,Fatou,Pediatrie,5062
-Sow,Moussa,Cardiologie,504
-Ba,Fatou,Cardiologie,5084
-Sarr,Oumar,Dermatologie,1051
-Faye,Cheikh,Cardiologie,5513
-Sarr,Abdoulaye,Cardiologie,1997
-Faye,Moussa,Dermatologie,2701
-Ndiaye,Aminata,Pediatrie,4775
-Ndiaye,Khady,Cardiologie,4807
-Ndiaye,Mamadou,Gynecologie,6550
-Ba,Cheikh,Pediatrie,1980
-Ba,Ousmane,Pediatrie,7564
-Ba,Fatou,Cardiologie,7648
-Faye,Oumar,Gynecologie,1824
-Ba,Cheikh,Medecine generale,8163
-Ba,Ibrahima,Chirurgie,169
-Sarr,Mamadou,Chirurgie,849
-Gueye,Fatou,Chirurgie,628
-Sarr,Moussa,Medecine generale,9823
-Ba,Fatou,Pediatrie,9816
-Diop,Moussa,Pediatrie,8836
-Gueye,Mariama,Cardiologie,4848
-Fall,Ibrahima,Medecine generale,2237
-Sow,Mamadou,Chirurgie,3355
-Ndiaye,Mamadou,Chirurgie,2595
-Ndiaye,Mariama,Medecine generale,7272
-Sow,Fatou,Chirurgie,6451
-Kane,Fatou,Dermatologie,1548
-Kane,Ousmane,Medecine generale,4311
-Sarr,Mariama,Dermatologie,9477
-Sow,Moussa,Dermatologie,9207
-Ba,Cheikh,Dermatologie,6424
-Gueye,Awa,Medecine generale,3867
-Kane,Oumar,Pediatrie,5485
-Fall,Mamadou,Gynecologie,3073
-Sow,Ibrahima,Chirurgie,6093
-Ndiaye,Awa,Cardiologie,7174
-Diallo,Mariama,Chirurgie,4822
-Faye,Ousmane,Medecine generale,8282
-Sarr,Mamadou,Medecine generale,6346
-Sy,Abdoulaye,Pediatrie,4573
-Diallo,Abdoulaye,Medecine generale,2535
-Sarr,Mariama,Chirurgie,6634
-Diallo,Ibrahima,Dermatologie,6540
-Kane,Oumar,Cardiologie,9910
-Gueye,Oumar,Medecine generale,7719
-Ba,Ibrahima,Cardiologie,5971
-Ba,Ousmane,Chirurgie,2356
-Fall,Cheikh,Dermatologie,121
-Sarr,Mamadou,Gynecologie,1627
-Kane,Ibrahima,Dermatologie,3585
-Diallo,Ousmane,Cardiologie,5624
-Ndiaye,Ibrahima,Cardiologie,154
-Diallo,Ibrahima,Cardiologie,9859
-Ndiaye,Abdoulaye,Cardiologie,1406
-Kane,Khady,Medecine generale,5272
-Ba,Awa,Chirurgie,5508
-Ndiaye,Fatou,Dermatologie,3812
-Ndiaye,Aminata,Chirurgie,3025
-Fall,Mariama,Cardiologie,8846
-Diallo,Cheikh,Gynecologie,3897
-Ndiaye,Moussa,Dermatologie,4050
-Kane,Cheikh,Chirurgie,8337
-Ba,Moussa,Medecine generale,9233
-Ndiaye,Cheikh,Gynecologie,8917
-Ba,Cheikh,Gynecologie,59
-Faye,Abdoulaye,Pediatrie,4697
-Fall,Ibrahima,Medecine generale,1239
-Faye,Ibrahima,Chirurgie,8884
-Gueye,Oumar,Medecine generale,3940
-Gueye,Moussa,Cardiologie,4302
-Diallo,Aminata,Pediatrie,1449
-Sow,Oumar,Pediatrie,8750
-Sarr,Ibrahima,Dermatologie,3949
-Sy,Khady,Dermatologie,774
-Gueye,Ibrahima,Medecine generale,2147
-Fall,Aminata,Pediatrie,5947
-Gueye,Mamadou,Cardiologie,7802
-Ndiaye,Aminata,Dermatologie,4460
-Sow,Abdoulaye,Pediatrie,3324
-Ba,Mamadou,Dermatologie,4787
-Diop,Khady,Cardiologie,9012
-Kane,Ousmane,Pediatrie,6038
-Gueye,Abdoulaye,Dermatologie,5593
-Ba,Mamadou,Dermatologie,4033
-Gueye,Mamadou,Dermatologie,4745
-Diop,Mamadou,Pediatrie,4905
-Fall,Khady,Gynecologie,3458
-Sow,Abdoulaye,Dermatologie,5110
-Sy,Mamadou,Chirurgie,9796
-Ndiaye,Fatou,Medecine generale,9146
-Sarr,Moussa,Pediatrie,6499
-Fall,Awa,Gynecologie,6918
-Kane,Oumar,Pediatrie,6460
-Sarr,Mariama,Pediatrie,4275
-Diop,Khady,Dermatologie,453
-Diop,Mariama,Chirurgie,4818
-Faye,Mamadou,Chirurgie,523
-Ba,Ousmane,Dermatologie,9043
-Sarr,Mariama,Medecine generale,925
-Sy,Khady,Chirurgie,7516
-Ba,Awa,Dermatologie,9505
-Sy,Abdoulaye,Gynecologie,270
-Faye,Mariama,Dermatologie,7734
-Diallo,Cheikh,Gynecologie,3255
-Faye,Fatou,Gynecologie,8320
-Sow,Mamadou,Medecine generale,4418
-Fall,Abdoulaye,Dermatologie,9703
-Diallo,Ibrahima,Cardiologie,429
-Diop,Cheikh,Medecine generale,1298
-Faye,Ibrahima,Cardiologie,5965
-Sarr,Awa,Pediatrie,9730
-Diallo,Awa,Cardiologie,6788
-Sarr,Khady,Medecine generale,1743
-Ndiaye,Mariama,Chirurgie,2337
-Fall,Oumar,Dermatologie,5658
-Fall,Mariama,Cardiologie,3377
-Kane,Abdoulaye,Cardiologie,4444
-Sy,Awa,Cardiologie,5419
-Kane,Mariama,Dermatologie,5809
-Sarr,Awa,Cardiologie,1915
-Faye,Abdoulaye,Chirurgie,2283
-Sarr,Abdoulaye,Cardiologie,831
-Diallo,Moussa,Cardiologie,7367
-Sy,Mamadou,Cardiologie,9707
-Sy,Moussa,Gynecologie,6545
-Diop,Aminata,Chirurgie,8752
-Sarr,Fatou,Cardiologie,9824
-Ba,Oumar,Medecine generale,9460
-Sy,Moussa,Chirurgie,6879
-Ndiaye,Cheikh,Chirurgie,5889
-Diop,Oumar,Medecine generale,6414
-Diop,Awa,Pediatrie,2098
-Sy,Moussa,Medecine generale,6893
-Faye,Awa,Pediatrie,7588
-Faye,Cheikh,Pediatrie,3012
-Faye,Cheikh,Gynecologie,5993
-Fall,Aminata,Dermatologie,7655
-Faye,Aminata,Pediatrie,8850
-Sow,Khady,Dermatologie,5085
-Diallo,Moussa,Dermatologie,6026
-Ndiaye,Ibrahima,Medecine generale,5169
-Diop,Mamadou,Chirurgie,5111
-Faye,Mariama,Gynecologie,7383
-Diop,Moussa,Chirurgie,9467
-Diallo,Fatou,Pediatrie,9362
-Sow,Mamadou,Gynecologie,8867
-Faye,Mamadou,Dermatologie,1873
-Sow,Aminata,Chirurgie,2417
-Sarr,Fatou,Medecine generale,8983
-Diop,Mamadou,Pediatrie,1103
-Ndiaye,Ibrahima,Medecine generale,5197
-Fall,Abdoulaye,Dermatologie,9284
-Faye,Ibrahima,Dermatologie,450
-Kane,Ousmane,Pediatrie,4556
-Diallo,Ousmane,Gynecologie,7294
-Ndiaye,Ousmane,Dermatologie,7650
-Fall,Cheikh,Chirurgie,8939
-Faye,Moussa,Dermatologie,9068
-Sarr,Cheikh,Chirurgie,348
-Ba,Aminata,Gynecologie,3357
-Sy,Moussa,Pediatrie,6434
-Faye,Fatou,Dermatologie,1924
-Sy,Cheikh,Chirurgie,2448
-Ba,Abdoulaye,Gynecologie,9830
-Fall,Abdoulaye,Gynecologie,4882
-Gueye,Mamadou,Cardiologie,731
-Faye,Mariama,Medecine generale,5446
-Fall,Khady,Dermatologie,337
-Sarr,Ibrahima,Medecine generale,6925
-Kane,Oumar,Gynecologie,3712
-Ba,Mariama,Chirurgie,9300
-Fall,Abdoulaye,Dermatologie,389
-Sarr,Ousmane,Chirurgie,7975
-Gueye,Aminata,Medecine generale,3728
-Fall,Ibrahima,Medecine generale,5902
-Sy,Mamadou,Medecine generale,802
-Diop,Abdoulaye,Pediatrie,1340
-Faye,Mamadou,Medecine generale,4264
-Sarr,Moussa,Medecine generale,2673
-Diop,Aminata,Chirurgie,2995
-Gueye,Aminata,Cardiologie,4813
-Ba,Mariama,Medecine generale,6390
-Ba,Ousmane,Pediatrie,7479
-Sy,Fatou,Chirurgie,579
-Fall,Abdoulaye,Chirurgie,5812
-Diallo,Moussa,Gynecologie,2184
-Kane,Mariama,Dermatologie,2391
-Sarr,Cheikh,Medecine generale,9111
-Ba,Fatou,Dermatologie,5466
-Ba,Mamadou,Dermatologie,4835
-Sarr,Awa,Cardiologie,5942
-Diallo,Moussa,Gynecologie,7907
-Sarr,Ousmane,Chirurgie,2822
-Ndiaye,Khady,Pediatrie,362
-Diallo,Ibrahima,Cardiologie,8485
-Sy,Fatou,Medecine generale,6695
-Sy,Mamadou,Medecine generale,8839
-Sow,Mamadou,Cardiologie,7529
-Ndiaye,Moussa,Gynecologie,6766
-Gueye,Cheikh,Chirurgie,589
-Diallo,Khady,Gynecologie,300
-Ndiaye,Mariama,Chirurgie,393
-Ndiaye,Abdoulaye,Cardiologie,7618
-Kane,Mariama,Gynecologie,1314
-Diop,Ibrahima,Dermatologie,1663
-Gueye,Oumar,Dermatologie,2552
-Diop,Moussa,Chirurgie,4910
-Ndiaye,Cheikh,Gynecologie,791
-Ndiaye,Oumar,Dermatologie,1454
-Faye,Oumar,Chirurgie,2197
-Ba,Ousmane,Gynecologie,306
-Ndiaye,Awa,Chirurgie,3492
-Sarr,Ousmane,Pediatrie,8465
-Gueye,Fatou,Gynecologie,223
-Sow,Cheikh,Medecine generale,2068
-Gueye,Mamadou,Medecine generale,9283
-Gueye,Ousmane,Cardiologie,9904
-Fall,Ibrahima,Cardiologie,3533
-Sarr,Fatou,Gynecologie,224
-Diop,Awa,Dermatologie,4534
-Gueye,Moussa,Pediatrie,5041
-Ndiaye,Aminata,Cardiologie,1697
-Diallo,Aminata,Medecine generale,7985
-Diallo,Mariama,Gynecologie,9713
-Fall,Ousmane,Medecine generale,4205
-Gueye,Moussa,Chirurgie,3671
-Kane,Oumar,Chirurgie,1693
-Kane,Mariama,Gynecologie,872
-Ba,Ousmane,Medecine generale,3337
-Kane,Mamadou,Cardiologie,5389
-Kane,Oumar,Gynecologie,7542
-Gueye,Moussa,Pediatrie,763
-Gueye,Mariama,Pediatrie,4010
-Sarr,Oumar,Cardiologie,8660
-Sow,Mamadou,Pediatrie,9840
-Ndiaye,Abdoulaye,Medecine generale,3991
-Diallo,Ibrahima,Cardiologie,510
-Gueye,Abdoulaye,Medecine generale,6757
-Ndiaye,Mariama,Cardiologie,7079
-Kane,Mamadou,Dermatologie,2507
-Sy,Awa,Cardiologie,8754
-Fall,Mariama,Medecine generale,9089
-Sy,Abdoulaye,Pediatrie,4130
-Fall,Aminata,Gynecologie,1155
-Gueye,Abdoulaye,Chirurgie,4066
-Diop,Mariama,Dermatologie,7265
-Fall,Awa,Dermatologie,4784
-Diop,Khady,Cardiologie,8090
-Fall,Aminata,Cardiologie,5028
-Sy,Ibrahima,Chirurgie,1956
-Fall,Mariama,Pediatrie,9439
-Sy,Moussa,Chirurgie,103
-Ba,Fatou,Pediatrie,3922
-Diallo,Mamadou,Dermatologie,5470
-Diop,Ousmane,Chirurgie,9390
-Faye,Khady,Cardiologie,4358
-Sarr,Moussa,Pediatrie,6168
-Kane,Mamadou,Dermatologie,6196
-Ndiaye,Moussa,Medecine generale,9538
-Gueye,Ibrahima,Pediatrie,1739
-Gueye,Cheikh,Medecine generale,4873
-Sy,Fatou,Medecine generale,8733
-Diallo,Mariama,Pediatrie,4648
-Kane,Ousmane,Medecine generale,3200
-Faye,Oumar,Gynecologie,8351
-Fall,Ibrahima,Medecine generale,7582
-Gueye,Awa,Pediatrie,9294
-Sy,Mariama,Medecine generale,2229
-Sarr,Mariama,Chirurgie,7056
-Faye,Moussa,Gynecologie,2976
-Diallo,Abdoulaye,Dermatologie,8110
-Diop,Fatou,Pediatrie,7879
-Faye,Awa,Cardiologie,12
-Sy,Moussa,Gynecologie,8029
-Sarr,Khady,Gynecologie,5544
-Kane,Oumar,Medecine generale,2680
-Diallo,Abdoulaye,Dermatologie,4678
-Ba,Mariama,Pediatrie,8428
-Gueye,Aminata,Gynecologie,56
-Fall,Oumar,Pediatrie,1417
-Faye,Aminata,Dermatologie,1057
-Sarr,Awa,Chirurgie,5353
-Sarr,Fatou,Pediatrie,5461
-Kane,Awa,Chirurgie,9855
-Fall,Fatou,Pediatrie,8936
-Diop,Ousmane,Gynecologie,3923
-Diop,Mariama,Gynecologie,4816
-Ba,Abdoulaye,Medecine generale,2469
-Sarr,Ibrahima,Dermatologie,5153
-Sow,Oumar,Cardiologie,5560
-Sarr,Cheikh,Dermatologie,1439
-Sarr,Cheikh,Dermatologie,172
-Faye,Cheikh,Pediatrie,9446
-Faye,Mariama,Gynecologie,9489
-Ba,Moussa,Dermatologie,7708
-Kane,Mariama,Chirurgie,9436
-Kane,Moussa,Chirurgie,443
-Ndiaye,Moussa,Dermatologie,6773
-Ba,Abdoulaye,Medecine generale,1984
-Sarr,Khady,Dermatologie,2720
-Ba,Mariama,Dermatologie,3552
-Faye,Ibrahima,Medecine generale,8995
-Sy,Khady,Dermatologie,708
-Sarr,Aminata,Dermatologie,4436
-Diallo,Abdoulaye,Dermatologie,4733
-Ba,Ousmane,Cardiologie,1696
-Kane,Fatou,Pediatrie,2403
-Diallo,Oumar,Chirurgie,1273
-Sy,Abdoulaye,Pediatrie,7561
-Gueye,Ousmane,Medecine generale,493
-Sy,Ibrahima,Medecine generale,3619
-Faye,Fatou,Cardiologie,3987
-Ba,Fatou,Dermatologie,8527
-Diallo,Moussa,Dermatologie,7376
-Fall,Abdoulaye,Chirurgie,3682
-Kane,Mariama,Pediatrie,9104
-Sy,Awa,Gynecologie,4263
-Diallo,Ousmane,Pediatrie,2269
-Ndiaye,Abdoulaye,Gynecologie,2659
-Diallo,Fatou,Medecine generale,9795
-Diallo,Mariama,Chirurgie,4956
-Sy,Khady,Dermatologie,1484
-Kane,Khady,Cardiologie,7624
-Kane,Mamadou,Chirurgie,4312
-Fall,Awa,Pediatrie,3023
-Faye,Khady,Cardiologie,9555
-Sy,Khady,Pediatrie,5549
-Fall,Aminata,Medecine generale,2606
-Kane,Oumar,Cardiologie,2486
-Diop,Ousmane,Chirurgie,9286
-Diop,Ibrahima,Cardiologie,2179
-Diop,Oumar,Dermatologie,6824
-Fall,Cheikh,Pediatrie,6729
-Ndiaye,Ibrahima,Cardiologie,2094
-Fall,Awa,Medecine generale,8879
-Sy,Fatou,Medecine generale,7201
-Kane,Ibrahima,Cardiologie,2505
-Gueye,Mariama,Chirurgie,456
-Sy,Mariama,Medecine generale,5992
-Ba,Fatou,Chirurgie,7749
-Diallo,Oumar,Chirurgie,711
-Sy,Mariama,Chirurgie,1549
-Gueye,Awa,Chirurgie,8975
-Ba,Aminata,Chirurgie,8410
-Sow,Mamadou,Dermatologie,3130
-Diop,Awa,Cardiologie,5305
-Sow,Mamadou,Gynecologie,4364
-Kane,Ousmane,Dermatologie,8694
-Sarr,Abdoulaye,Cardiologie,7781
-Sow,Ousmane,Medecine generale,9464
-Fall,Ousmane,Dermatologie,215
-Fall,Fatou,Gynecologie,2979
-Ndiaye,Moussa,Cardiologie,7026
-Fall,Abdoulaye,Medecine generale,6988
-Fall,Khady,Chirurgie,9403
-Ba,Moussa,Cardiologie,5333
-Diop,Moussa,Cardiologie,4410
-Fall,Fatou,Chirurgie,7134
-Faye,Oumar,Cardiologie,6204
-Sarr,Khady,Pediatrie,1586
-Sarr,Khady,Medecine generale,1858
-Sarr,Abdoulaye,Chirurgie,3883
-Diop,Awa,Medecine generale,8486
-Diallo,Mariama,Cardiologie,3667
-Sow,Abdoulaye,Gynecologie,5678
-Fall,Aminata,Chirurgie,1886
-Ndiaye,Fatou,Chirurgie,3769
-Ba,Fatou,Dermatologie,7903
-Sarr,Khady,Chirurgie,9380
-Sy,Ibrahima,Pediatrie,1965
-Gueye,Ibrahima,Gynecologie,8309
-Gueye,Oumar,Chirurgie,4131
-Fall,Fatou,Pediatrie,8048
-Ndiaye,Abdoulaye,Cardiologie,8241
-Diop,Ousmane,Gynecologie,3730
-Faye,Aminata,Dermatologie,6365
-Kane,Moussa,Chirurgie,5520
-Gueye,Aminata,Chirurgie,8461
-Sow,Oumar,Chirurgie,5328
-Fall,Awa,Pediatrie,9419
-Gueye,Cheikh,Medecine generale,7828
-Diop,Aminata,Gynecologie,7964
-Sow,Abdoulaye,Medecine generale,3620
-Fall,Fatou,Dermatologie,3780
-Ba,Aminata,Gynecologie,1650
-Kane,Cheikh,Gynecologie,5261
-Faye,Oumar,Pediatrie,9496
-Faye,Cheikh,Cardiologie,2717
-Sow,Oumar,Pediatrie,3673
-Fall,Fatou,Pediatrie,9145
-Sarr,Oumar,Gynecologie,7566
-Ndiaye,Aminata,Dermatologie,4532
-Sy,Ousmane,Medecine generale,8947
-Fall,Khady,Cardiologie,6447
-Diop,Mamadou,Medecine generale,8970
-Faye,Fatou,Gynecologie,1577
-Diallo,Abdoulaye,Medecine generale,6355
-Gueye,Fatou,Gynecologie,2844
-Sarr,Awa,Pediatrie,2066
-Faye,Mariama,Dermatologie,3771
-Sy,Ibrahima,Gynecologie,9150
-Fall,Ousmane,Medecine generale,1672
-Diallo,Ibrahima,Dermatologie,3365
-Sy,Fatou,Gynecologie,8469
-Sy,Khady,Cardiologie,1786
-Gueye,Mamadou,Chirurgie,3499
-Fall,Abdoulaye,Cardiologie,3952
-Sy,Awa,Pediatrie,4195
-Sarr,Ousmane,Medecine generale,7770
-Gueye,Aminata,Medecine generale,1573
-Fall,Mariama,Dermatologie,7271
-Diallo,Ibrahima,Chirurgie,7896
-Diop,Khady,Dermatologie,9094
-Sow,Khady,Cardiologie,4440
-Sow,Awa,Gynecologie,9799
-Sow,Fatou,Dermatologie,8667
-Gueye,Fatou,Pediatrie,6021
-Sy,Fatou,Gynecologie,8234
-Fall,Cheikh,Medecine generale,7545
-Ndiaye,Awa,Dermatologie,8341
-Kane,Mamadou,Pediatrie,907
-Diallo,Mariama,Medecine generale,6232
-Ba,Abdoulaye,Dermatologie,7251
-Ndiaye,Moussa,Dermatologie,1575
-Fall,Moussa,Dermatologie,7331
-Ba,Ousmane,Pediatrie,5280
-Gueye,Mamadou,Cardiologie,1452
-Ndiaye,Oumar,Gynecologie,3702
-Sow,Moussa,Medecine generale,97
-Gueye,Khady,Chirurgie,5321
-Sow,Abdoulaye,Dermatologie,5435
-Sy,Khady,Medecine generale,616
-Ba,Awa,Gynecologie,3050
-Gueye,Moussa,Chirurgie,5791
-Sow,Oumar,Cardiologie,8999
-Kane,Aminata,Pediatrie,2735
-Ndiaye,Ibrahima,Dermatologie,5026
-Ba,Ousmane,Dermatologie,2977
-Faye,Mamadou,Chirurgie,7825
-Diallo,Fatou,Chirurgie,2708
-Diallo,Ibrahima,Pediatrie,7114
-Diallo,Oumar,Gynecologie,7446
-Sy,Oumar,Dermatologie,384
-Diallo,Oumar,Chirurgie,7074
-Gueye,Fatou,Chirurgie,2789
-Sy,Ousmane,Dermatologie,8802
-Diop,Moussa,Pediatrie,6197
-Gueye,Mamadou,Pediatrie,8319
-Fall,Aminata,Gynecologie,3447
-Sarr,Abdoulaye,Chirurgie,6789
-Fall,Mamadou,Cardiologie,6013
-Sow,Awa,Chirurgie,9410
-Faye,Moussa,Dermatologie,4748
-Kane,Aminata,Chirurgie,8207
-Ndiaye,Ibrahima,Gynecologie,1034
-Fall,Aminata,Gynecologie,3695
-Sarr,Mamadou,Medecine generale,6738
-Faye,Fatou,Dermatologie,3514
-Gueye,Abdoulaye,Dermatologie,2340
-Fall,Khady,Medecine generale,8938
-Sarr,Fatou,Pediatrie,2005
-Fall,Ibrahima,Gynecologie,5588
-Sow,Aminata,Medecine generale,4795
-Fall,Moussa,Chirurgie,2351
-Ndiaye,Awa,Cardiologie,2295
-Ndiaye,Aminata,Dermatologie,3055
-Faye,Ibrahima,Gynecologie,1424
-Ndiaye,Mamadou,Dermatologie,7378
-Ndiaye,Aminata,Medecine generale,5293
-Ndiaye,Mamadou,Medecine generale,7497
-Gueye,Ousmane,Chirurgie,3842
-Sarr,Mamadou,Cardiologie,2521
-Kane,Ousmane,Medecine generale,4318
-Diallo,Moussa,Gynecologie,4868
-Sarr,Mariama,Chirurgie,6800
-Sarr,Khady,Medecine generale,9069
-Sarr,Oumar,Pediatrie,8578
-Kane,Abdoulaye,Dermatologie,9163
-Sy,Fatou,Gynecologie,3632
-Gueye,Ousmane,Dermatologie,2667
-Fall,Oumar,Dermatologie,8668
-Diop,Ibrahima,Chirurgie,1243
-Gueye,Awa,Pediatrie,4072
-Diallo,Mariama,Pediatrie,3257
-Fall,Oumar,Pediatrie,260
-Sow,Ibrahima,Medecine generale,5559
-Kane,Oumar,Pediatrie,5775
-Gueye,Awa,Cardiologie,8524
-Sow,Khady,Cardiologie,1401
-Kane,Mariama,Chirurgie,6574
-Diallo,Oumar,Gynecologie,6125
-Sy,Oumar,Cardiologie,2186
-Fall,Abdoulaye,Dermatologie,3814
-Fall,Abdoulaye,Cardiologie,7145
-Diop,Awa,Chirurgie,8559
-Ba,Mariama,Dermatologie,5918
-Sy,Ousmane,Cardiologie,4331
-Sow,Mariama,Cardiologie,491
-Faye,Mamadou,Medecine generale,5348
-Diallo,Mariama,Gynecologie,3158
-Kane,Aminata,Pediatrie,8928
-Diop,Moussa,Pediatrie,1009
-Kane,Abdoulaye,Cardiologie,7107
-Ba,Mariama,Medecine generale,8194
-Ba,Mariama,Dermatologie,3978
-Sy,Fatou,Cardiologie,8228
-Sy,Mamadou,Dermatologie,5857
-Fall,Awa,Dermatologie,7644
-Sarr,Mamadou,Cardiologie,1571
-Gueye,Fatou,Cardiologie,1283
-Sarr,Mariama,Cardiologie,7698
-Kane,Mariama,Gynecologie,9912
-Kane,Ousmane,Cardiologie,9822
-Fall,Awa,Gynecologie,6047
-Gueye,Fatou,Dermatologie,1817
-Ndiaye,Ousmane,Chirurgie,5463
-Ba,Mariama,Cardiologie,1068
-Fall,Moussa,Dermatologie,144
-Fall,Fatou,Gynecologie,4299
-Ndiaye,Abdoulaye,Pediatrie,2446
-Gueye,Aminata,Chirurgie,7934
-Sarr,Abdoulaye,Dermatologie,4388
-Sy,Khady,Gynecologie,8183
-Sarr,Ibrahima,Dermatologie,2201
-Faye,Fatou,Pediatrie,4815
-Fall,Mamadou,Chirurgie,4928
-Ba,Cheikh,Cardiologie,3040
-Gueye,Cheikh,Dermatologie,3768
-Faye,Cheikh,Gynecologie,1505
-Diop,Oumar,Chirurgie,8450
-Fall,Mamadou,Dermatologie,7162
-Diop,Oumar,Pediatrie,2422
-Ndiaye,Fatou,Medecine generale,7725
-Diallo,Awa,Dermatologie,2608
-Sarr,Aminata,Medecine generale,1756
-Ba,Moussa,Gynecologie,8310
-Ba,Oumar,Medecine generale,6394
-Faye,Abdoulaye,Pediatrie,5381
-Gueye,Oumar,Cardiologie,6688
-Sow,Fatou,Cardiologie,8986
-Faye,Abdoulaye,Cardiologie,501
-Sarr,Abdoulaye,Pediatrie,8296
-Ba,Aminata,Cardiologie,1776
-Sy,Khady,Cardiologie,7127
-Gueye,Fatou,Dermatologie,6987
-Ndiaye,Ibrahima,Medecine generale,8430
-Diallo,Cheikh,Dermatologie,576
-Sow,Awa,Dermatologie,3864
-Diop,Mamadou,Medecine generale,2557
-Gueye,Moussa,Gynecologie,694
-Gueye,Moussa,Pediatrie,5357
-Ndiaye,Moussa,Pediatrie,7858
-Faye,Mariama,Gynecologie,3782
-Ndiaye,Mariama,Pediatrie,20
-Diallo,Abdoulaye,Dermatologie,5671
-Ba,Mariama,Cardiologie,8091
-Sy,Mariama,Cardiologie,5242
-Ndiaye,Mamadou,Cardiologie,2768
-Kane,Moussa,Dermatologie,4993
-Sow,Moussa,Medecine generale,6835
-Sy,Mamadou,Medecine generale,2597
-Ndiaye,Mariama,Chirurgie,904
-Diop,Ousmane,Dermatologie,8130
-Sy,Oumar,Chirurgie,9659
-Kane,Mariama,Chirurgie,4491
-Sow,Khady,Gynecologie,8560
-Sarr,Oumar,Chirurgie,4720
-Diop,Oumar,Chirurgie,472
-Sarr,Ibrahima,Pediatrie,8223
-Diop,Ousmane,Dermatologie,6403
-Ndiaye,Khady,Chirurgie,11
-Sow,Khady,Dermatologie,1153
-Gueye,Khady,Chirurgie,5377
-Diop,Fatou,Chirurgie,8088
-Diallo,Khady,Gynecologie,3790
-Ba,Awa,Medecine generale,3994
-Sow,Cheikh,Cardiologie,6657
-Ndiaye,Moussa,Gynecologie,8470
-Kane,Mamadou,Dermatologie,1726
-Fall,Abdoulaye,Pediatrie,8003
-Sow,Ibrahima,Gynecologie,5209
-Diallo,Aminata,Medecine generale,2969
-Diallo,Abdoulaye,Medecine generale,5591
-Faye,Mariama,Medecine generale,1717
-Diop,Mamadou,Cardiologie,1450
-Gueye,Mamadou,Dermatologie,4665
-Sow,Ibrahima,Pediatrie,2686
-Faye,Moussa,Dermatologie,5298
-Diop,Ibrahima,Chirurgie,2181
-Kane,Mariama,Medecine generale,5708
-Kane,Ibrahima,Medecine generale,9087
-Kane,Mariama,Pediatrie,6677
-Diop,Ousmane,Dermatologie,4955
-Ndiaye,Awa,Cardiologie,8831
-Faye,Aminata,Cardiologie,5940
-Sy,Ousmane,Gynecologie,2473
-Kane,Cheikh,Dermatologie,9322
-Kane,Moussa,Pediatrie,1982
-Ba,Ibrahima,Pediatrie,8997
-Diop,Abdoulaye,Cardiologie,9324
-Kane,Cheikh,Medecine generale,7944
-Sow,Mariama,Dermatologie,6035
-Sow,Awa,Medecine generale,8236
-Gueye,Mariama,Gynecologie,5043
-Kane,Awa,Dermatologie,525
-Sarr,Ousmane,Gynecologie,7017
-Diallo,Cheikh,Medecine generale,128
-Gueye,Abdoulaye,Dermatologie,4039
-Diallo,Cheikh,Gynecologie,8737
-Sarr,Moussa,Dermatologie,1531
-Sy,Ousmane,Dermatologie,5769
-Sy,Awa,Gynecologie,9886
-Ba,Ibrahima,Cardiologie,8882
-Faye,Cheikh,Gynecologie,9342
-Sy,Khady,Pediatrie,5439
-Faye,Awa,Chirurgie,5729
-Kane,Fatou,Dermatologie,4530
-Sy,Mariama,Gynecologie,4603
-Ba,Aminata,Gynecologie,7137
-Fall,Oumar,Cardiologie,371
-Ba,Cheikh,Gynecologie,1158
-Ba,Fatou,Cardiologie,2482
-Sy,Oumar,Cardiologie,9199
-Diallo,Ousmane,Dermatologie,217
-Diallo,Aminata,Gynecologie,5401
-Gueye,Khady,Dermatologie,3647
-Sow,Mariama,Medecine generale,5920
-Sarr,Ibrahima,Medecine generale,3946
-Faye,Khady,Gynecologie,9162
-Kane,Ibrahima,Dermatologie,6175
-Gueye,Mamadou,Pediatrie,1671
-Faye,Fatou,Dermatologie,3231
-Sy,Mamadou,Gynecologie,4711
-Ba,Mamadou,Chirurgie,1295
-Faye,Abdoulaye,Medecine generale,2676
-Diallo,Aminata,Pediatrie,2086
-Fall,Ibrahima,Dermatologie,3750
-Diallo,Cheikh,Pediatrie,1114
-Ba,Mamadou,Medecine generale,753
-Diop,Moussa,Pediatrie,8115
-Kane,Ousmane,Cardiologie,754
-Faye,Moussa,Medecine generale,1630
-Sarr,Fatou,Chirurgie,4417
-Sarr,Ousmane,Dermatologie,7016
-Ba,Ibrahima,Dermatologie,1871
-Ba,Mariama,Dermatologie,9584
-Diallo,Ibrahima,Dermatologie,5033
-Sarr,Aminata,Chirurgie,4730
-Kane,Awa,Cardiologie,6276
-Sarr,Awa,Cardiologie,6288
-Kane,Mariama,Pediatrie,2089
-Ndiaye,Khady,Dermatologie,2178
-Diallo,Mariama,Pediatrie,7961
-Ndiaye,Khady,Medecine generale,3441
-Sarr,Khady,Medecine generale,3599
-Sarr,Abdoulaye,Pediatrie,9451
-Sow,Khady,Medecine generale,3256
-Fall,Fatou,Dermatologie,416
-Fall,Mariama,Gynecologie,6012
-Faye,Cheikh,Gynecologie,6771
-Faye,Oumar,Gynecologie,4246
-Ndiaye,Khady,Cardiologie,8186
-Fall,Ousmane,Cardiologie,8078
-Gueye,Oumar,Chirurgie,7776
-Faye,Oumar,Gynecologie,4592
-Diop,Cheikh,Pediatrie,4413
-Diallo,Awa,Medecine generale,9059
-Sy,Ousmane,Medecine generale,9414
-Ndiaye,Ibrahima,Chirurgie,8214
-Sy,Mariama,Dermatologie,1643
-Kane,Khady,Medecine generale,4408
-Gueye,Mamadou,Medecine generale,6701
-Ndiaye,Mariama,Pediatrie,7211
-Gueye,Awa,Chirurgie,4080
-Ba,Fatou,Gynecologie,8147
-Kane,Ousmane,Cardiologie,345
-Gueye,Moussa,Gynecologie,4053
-Ba,Cheikh,Gynecologie,6192
-Diallo,Cheikh,Dermatologie,547
-Ba,Mamadou,Gynecologie,6154
-Sow,Ousmane,Gynecologie,3121
-Sy,Mamadou,Cardiologie,5850
-Kane,Awa,Pediatrie,4943
-Kane,Mariama,Chirurgie,3895
-Sarr,Awa,Chirurgie,7409
-Fall,Cheikh,Cardiologie,4796
-Diallo,Ousmane,Gynecologie,8198
-Sy,Ousmane,Chirurgie,4104
-Sy,Oumar,Dermatologie,4738
-Ndiaye,Khady,Cardiologie,3823
-Fall,Moussa,Chirurgie,5268
-Sow,Fatou,Dermatologie,9228
-Diop,Fatou,Pediatrie,2326
-Fall,Awa,Cardiologie,3379
-Sow,Oumar,Medecine generale,1248
-Fall,Oumar,Pediatrie,9417
-Ndiaye,Ousmane,Cardiologie,177
-Fall,Ousmane,Cardiologie,4595
-Ba,Cheikh,Pediatrie,3833
-Gueye,Moussa,Dermatologie,3860
-Gueye,Cheikh,Pediatrie,1728
-Diallo,Awa,Chirurgie,3577
-Gueye,Mamadou,Gynecologie,8699
-Kane,Aminata,Chirurgie,89
-Faye,Cheikh,Gynecologie,1468
-Sow,Mamadou,Chirurgie,2428
-Sy,Ousmane,Chirurgie,8899
-Sarr,Fatou,Cardiologie,4866
-Faye,Mariama,Cardiologie,7345
-Diop,Fatou,Cardiologie,3779
-Kane,Mariama,Chirurgie,7709
-Sow,Cheikh,Dermatologie,5146
-Sow,Cheikh,Medecine generale,4549
-Sow,Abdoulaye,Cardiologie,5225
-Kane,Ibrahima,Gynecologie,6430
-Sow,Ousmane,Chirurgie,6967
-Ba,Abdoulaye,Dermatologie,9826
-Diop,Aminata,Gynecologie,9504
-Fall,Moussa,Gynecologie,5080
-Ba,Cheikh,Gynecologie,1054
-Kane,Ibrahima,Chirurgie,9415
-Kane,Oumar,Medecine generale,4345
-Ndiaye,Oumar,Chirurgie,6537
-Faye,Aminata,Medecine generale,8815
-Gueye,Ousmane,Pediatrie,7103
-Sarr,Ousmane,Medecine generale,355
-Fall,Fatou,Pediatrie,7940
-Diop,Aminata,Medecine generale,1591
-Diop,Awa,Cardiologie,5552
-Sow,Cheikh,Medecine generale,7653
-Diop,Fatou,Pediatrie,6996
-Faye,Mariama,Dermatologie,6516
-Gueye,Oumar,Cardiologie,2506
-Sow,Ibrahima,Chirurgie,9596
-Sow,Awa,Pediatrie,6267
-Fall,Awa,Pediatrie,8018
-Sy,Abdoulaye,Cardiologie,1241
-Sarr,Moussa,Chirurgie,6132
-Gueye,Oumar,Pediatrie,2716
-Ndiaye,Aminata,Dermatologie,2159
-Faye,Mariama,Cardiologie,8927
-Diallo,Mamadou,Gynecologie,9305
-Diallo,Oumar,Medecine generale,4322
-Ndiaye,Mamadou,Pediatrie,9642
-Fall,Ousmane,Cardiologie,3078
-Ndiaye,Ibrahima,Gynecologie,214
-Diallo,Awa,Cardiologie,3107
-Fall,Aminata,Gynecologie,7540
-Gueye,Ousmane,Dermatologie,9394
-Kane,Oumar,Dermatologie,7350
-Diop,Khady,Cardiologie,2208
-Gueye,Mariama,Pediatrie,9782
-Sow,Moussa,Gynecologie,284
-Diallo,Aminata,Cardiologie,9426
-Ba,Aminata,Chirurgie,9652
-Sarr,Mariama,Pediatrie,3340
-Kane,Moussa,Chirurgie,4469
-Gueye,Oumar,Dermatologie,1110
-Kane,Cheikh,Dermatologie,4630
-Diallo,Ousmane,Gynecologie,7244
-Kane,Abdoulaye,Dermatologie,3291
-Sarr,Moussa,Cardiologie,5581
-Fall,Oumar,Dermatologie,2849
-Sow,Cheikh,Pediatrie,7984
-Diallo,Moussa,Gynecologie,7230
-Fall,Oumar,Medecine generale,5876
-Sy,Mamadou,Dermatologie,487
-Gueye,Aminata,Medecine generale,9315
-Fall,Ousmane,Gynecologie,4544
-Gueye,Awa,Pediatrie,5071
-Ndiaye,Aminata,Cardiologie,8868
-Faye,Abdoulaye,Cardiologie,8952
-Diop,Mamadou,Medecine generale,8007
-Sow,Oumar,Cardiologie,8875
-Sow,Cheikh,Dermatologie,383
-Sarr,Oumar,Gynecologie,7902
-Diop,Khady,Chirurgie,1309
-Sow,Fatou,Cardiologie,7216
-Sarr,Cheikh,Chirurgie,7483
-Fall,Khady,Gynecologie,5982
-Faye,Cheikh,Cardiologie,4362
-Sow,Fatou,Pediatrie,3334
-Ba,Mamadou,Pediatrie,1152
-Sarr,Oumar,Cardiologie,8764
-Sy,Ibrahima,Cardiologie,1993
-Kane,Abdoulaye,Dermatologie,4492
-Ndiaye,Abdoulaye,Cardiologie,4696
-Ba,Moussa,Gynecologie,8613
-Sarr,Aminata,Medecine generale,7524
-Gueye,Mariama,Dermatologie,5438
-Gueye,Cheikh,Gynecologie,7242
-Fall,Khady,Dermatologie,2993
-Ba,Aminata,Dermatologie,3182
-Ba,Moussa,Medecine generale,1796
-Fall,Mariama,Pediatrie,823
-Sow,Ousmane,Chirurgie,7547
-Kane,Oumar,Pediatrie,4483
-Sow,Mariama,Pediatrie,3887
-Ndiaye,Oumar,Pediatrie,9930
-Ba,Khady,Chirurgie,3906
-Sy,Fatou,Medecine generale,8689
-Diallo,Ibrahima,Gynecologie,4820
-Faye,Cheikh,Dermatologie,6981
-Sarr,Fatou,Dermatologie,1215
-Kane,Moussa,Pediatrie,3075
-Sy,Ibrahima,Pediatrie,7295
-Ndiaye,Awa,Medecine generale,8290
-Faye,Mariama,Chirurgie,4504
-Fall,Ousmane,Pediatrie,110
-Faye,Awa,Pediatrie,5210
-Sow,Ousmane,Dermatologie,5397
-Ba,Abdoulaye,Pediatrie,6250
-Ndiaye,Abdoulaye,Dermatologie,3306
-Gueye,Cheikh,Gynecologie,6167
-Fall,Aminata,Dermatologie,657
-Sarr,Cheikh,Medecine generale,5052
-Ndiaye,Cheikh,Dermatologie,4601
-Fall,Ousmane,Chirurgie,1272
-Gueye,Mamadou,Dermatologie,6189
-Gueye,Khady,Gynecologie,3114
-Gueye,Mamadou,Gynecologie,4298
-Fall,Mamadou,Gynecologie,7303
-Sy,Cheikh,Medecine generale,3326
-Sy,Khady,Dermatologie,4503
-Ndiaye,Abdoulaye,Dermatologie,2219
-Fall,Oumar,Gynecologie,7391
-Sy,Mariama,Dermatologie,6551
-Diop,Cheikh,Cardiologie,695
-Sarr,Khady,Gynecologie,7610
-Faye,Abdoulaye,Cardiologie,5200
-Ba,Awa,Medecine generale,3904
-Diop,Abdoulaye,Pediatrie,1277
-Ba,Ousmane,Dermatologie,8762
-Faye,Cheikh,Dermatologie,133
-Gueye,Moussa,Cardiologie,2790
-Sow,Ibrahima,Cardiologie,1225
-Diallo,Moussa,Pediatrie,6645
-Ndiaye,Fatou,Medecine generale,3920
-Faye,Khady,Pediatrie,6383
-Diallo,Oumar,Medecine generale,9144
-Sow,Ousmane,Dermatologie,6003
-Fall,Moussa,Pediatrie,3276
-Diop,Mamadou,Cardiologie,6089
-Sy,Mariama,Pediatrie,901
-Diop,Fatou,Pediatrie,2347
-Ndiaye,Fatou,Medecine generale,1060
-Fall,Cheikh,Dermatologie,699
-Ndiaye,Fatou,Dermatologie,9227
-Ba,Mamadou,Dermatologie,8242
-Gueye,Abdoulaye,Medecine generale,5070
-Gueye,Ibrahima,Gynecologie,5578
-Gueye,Aminata,Medecine generale,7854
-Diop,Ibrahima,Pediatrie,2666
-Ndiaye,Mariama,Medecine generale,1757
-Sow,Ibrahima,Medecine generale,5376
-Sy,Ibrahima,Gynecologie,4250
-Faye,Awa,Medecine generale,3517
-Ndiaye,Cheikh,Dermatologie,821
-Sarr,Awa,Pediatrie,2306
-Sy,Mariama,Chirurgie,3832
-Sy,Mamadou,Chirurgie,3736
-Ndiaye,Ibrahima,Dermatologie,8439
-Kane,Awa,Medecine generale,66
-Gueye,Aminata,Medecine generale,7399
-Diop,Khady,Chirurgie,5121
-Diop,Fatou,Pediatrie,6708
-Ba,Mamadou,Chirurgie,5594
-Ndiaye,Khady,Chirurgie,910
-Diallo,Mariama,Chirurgie,9172
-Ba,Ibrahima,Dermatologie,8032
-Sy,Fatou,Chirurgie,8783
-Fall,Cheikh,Dermatologie,2114
-Sow,Cheikh,Pediatrie,7684
-Fall,Cheikh,Pediatrie,6141
-Ba,Abdoulaye,Cardiologie,9498
-Sarr,Oumar,Chirurgie,9819
-Gueye,Abdoulaye,Medecine generale,7358
-Fall,Mamadou,Cardiologie,4330
-Fall,Moussa,Chirurgie,3678
-Faye,Oumar,Cardiologie,6004
-Sow,Aminata,Dermatologie,7691
-Gueye,Fatou,Chirurgie,8066
-Kane,Moussa,Pediatrie,3534
-Diallo,Ibrahima,Pediatrie,3785
-Fall,Moussa,Cardiologie,6972
-Gueye,Moussa,Medecine generale,5860
-Gueye,Abdoulaye,Pediatrie,9882
-Gueye,Mamadou,Cardiologie,9585
-Fall,Awa,Dermatologie,2662
-Kane,Aminata,Cardiologie,6923
-Ba,Ibrahima,Chirurgie,5335
-Sy,Oumar,Dermatologie,2671
-Sow,Moussa,Medecine generale,5075
-Sow,Ibrahima,Medecine generale,6679
-Diallo,Moussa,Dermatologie,74
-Ba,Ibrahima,Pediatrie,2165
-Kane,Cheikh,Pediatrie,1390
-Sow,Oumar,Cardiologie,6733
-Ndiaye,Ibrahima,Pediatrie,2796
-Gueye,Aminata,Dermatologie,9229
-Diallo,Mamadou,Gynecologie,2746
-Diop,Khady,Medecine generale,9583
-Ba,Fatou,Pediatrie,5742
-Kane,Mariama,Medecine generale,122
-Diop,Aminata,Gynecologie,1179
-Gueye,Fatou,Gynecologie,6484
-Diop,Oumar,Medecine generale,4377
-Faye,Fatou,Gynecologie,2636
-Kane,Khady,Chirurgie,6135
-Sow,Mariama,Cardiologie,8288
-Sarr,Moussa,Dermatologie,1498
-Fall,Ousmane,Cardiologie,8451
-Sow,Cheikh,Chirurgie,6380
-Diop,Awa,Dermatologie,3597
-Sow,Cheikh,Chirurgie,111
-Sy,Khady,Pediatrie,5269
-Sarr,Cheikh,Pediatrie,3633
-Fall,Moussa,Chirurgie,6747
-Diallo,Khady,Pediatrie,2100
-Diop,Mariama,Gynecologie,7492
-Ndiaye,Aminata,Gynecologie,5716
-Faye,Khady,Medecine generale,559
-Diallo,Mamadou,Pediatrie,1394
-Kane,Abdoulaye,Medecine generale,6108
-Sow,Cheikh,Dermatologie,7818
-Ndiaye,Ibrahima,Chirurgie,797
-Gueye,Mamadou,Pediatrie,8275
-Faye,Ousmane,Dermatologie,9461
-Sy,Abdoulaye,Gynecologie,619
-Kane,Oumar,Cardiologie,131
-Gueye,Mamadou,Medecine generale,6001
-Faye,Ibrahima,Gynecologie,6785
-Diop,Mariama,Chirurgie,288
-Ba,Abdoulaye,Dermatologie,3518
-Sow,Fatou,Dermatologie,9935
-Sarr,Khady,Medecine generale,6009
-Ndiaye,Oumar,Medecine generale,2479
-Faye,Cheikh,Cardiologie,1619
-Sy,Ousmane,Pediatrie,6081
-Diop,Oumar,Pediatrie,1877
-Sarr,Mariama,Gynecologie,3469
-Gueye,Abdoulaye,Gynecologie,5195
-Ba,Aminata,Cardiologie,6690
-Kane,Khady,Chirurgie,5383
-Faye,Fatou,Medecine generale,9013
-Sow,Cheikh,Chirurgie,2150
-Ba,Abdoulaye,Medecine generale,6235
-Sow,Abdoulaye,Gynecologie,6682
-Gueye,Ousmane,Chirurgie,2354
-Sarr,Moussa,Chirurgie,6360
-Diallo,Cheikh,Chirurgie,3188
-Ba,Mariama,Gynecologie,9572
-Fall,Fatou,Pediatrie,9075
-Fall,Mamadou,Cardiologie,6297
-Sy,Aminata,Pediatrie,3538
-Sarr,Ousmane,Medecine generale,3484
-Faye,Awa,Dermatologie,5017
-Diallo,Mamadou,Dermatologie,4462
-Diop,Moussa,Dermatologie,1058
-Faye,Khady,Chirurgie,6279
-Ndiaye,Abdoulaye,Gynecologie,5732
-Sy,Oumar,Dermatologie,4893
-Gueye,Moussa,Medecine generale,4989
-Kane,Ousmane,Medecine generale,8919
-Ndiaye,Mariama,Medecine generale,4737
-Ndiaye,Mamadou,Medecine generale,7382
-Diop,Khady,Chirurgie,7222
-Diop,Mamadou,Gynecologie,1310
-Sarr,Fatou,Pediatrie,3690
-Gueye,Khady,Cardiologie,9657
-Kane,Fatou,Chirurgie,7199
-Gueye,Khady,Cardiologie,5307
-Ba,Aminata,Medecine generale,5218
-Gueye,Awa,Gynecologie,488
-Sarr,Khady,Gynecologie,3452
-Sy,Ibrahima,Gynecologie,8286
-Gueye,Khady,Pediatrie,6372
-Sow,Abdoulaye,Medecine generale,8561
-Diallo,Moussa,Chirurgie,4884
-Gueye,Aminata,Pediatrie,8402
-Ba,Cheikh,Medecine generale,3796
-Kane,Awa,Gynecologie,3575
-Faye,Aminata,Chirurgie,5072
-Diop,Abdoulaye,Medecine generale,7220
-Fall,Fatou,Chirurgie,3088
-Kane,Moussa,Cardiologie,9155
-Sy,Ibrahima,Chirurgie,4539
-Diop,Fatou,Medecine generale,8249
-Kane,Moussa,Gynecologie,6779
-Fall,Abdoulaye,Pediatrie,145
-Gueye,Cheikh,Gynecologie,2132
-Diop,Awa,Medecine generale,5887
-Ndiaye,Awa,Medecine generale,2254
-Faye,Ibrahima,Dermatologie,1376
-Kane,Aminata,Medecine generale,8958
-Gueye,Mamadou,Cardiologie,6568
-Diop,Fatou,Pediatrie,9940
-Fall,Fatou,Medecine generale,603
-Ba,Ousmane,Pediatrie,6759
-Diallo,Khady,Gynecologie,5398
-Sarr,Awa,Cardiologie,3973
-Sow,Aminata,Pediatrie,882
-Diallo,Mamadou,Medecine generale,6088
-Fall,Ibrahima,Medecine generale,1141
-Gueye,Aminata,Medecine generale,6268
-Fall,Oumar,Gynecologie,874
-Fall,Mamadou,Dermatologie,3061
-Faye,Aminata,Dermatologie,6487
-Sy,Ibrahima,Dermatologie,3925
-Fall,Khady,Chirurgie,1652
-Faye,Aminata,Cardiologie,3369
-Fall,Awa,Medecine generale,1229
-Kane,Mamadou,Pediatrie,8396
-Fall,Mamadou,Cardiologie,6068
-Faye,Awa,Pediatrie,1725
-Sarr,Mariama,Cardiologie,3235
-Kane,Abdoulaye,Medecine generale,6512
-Gueye,Ousmane,Dermatologie,6616
-Fall,Ibrahima,Chirurgie,568
-Diop,Moussa,Cardiologie,4676
-Ndiaye,Abdoulaye,Pediatrie,5132
-Ba,Moussa,Chirurgie,6640
-Ba,Cheikh,Medecine generale,2743
-Fall,Oumar,Pediatrie,7102
-Faye,Oumar,Chirurgie,3266
-Sow,Khady,Gynecologie,4081
-Sow,Moussa,Pediatrie,5250
-Faye,Mamadou,Dermatologie,5437
-Faye,Mariama,Dermatologie,6061
-Sy,Fatou,Medecine generale,8295
-Fall,Aminata,Medecine generale,7893
-Ndiaye,Ousmane,Cardiologie,4757
-Ndiaye,Ousmane,Medecine generale,7372
-Faye,Cheikh,Dermatologie,5842
-Ba,Fatou,Chirurgie,1533
-Ndiaye,Aminata,Pediatrie,894
-Sow,Mariama,Medecine generale,930
-Sy,Cheikh,Gynecologie,6931
-Fall,Mariama,Dermatologie,7735
-Sarr,Fatou,Cardiologie,1166
-Ndiaye,Oumar,Dermatologie,5964
-Gueye,Oumar,Pediatrie,3410
-Ndiaye,Abdoulaye,Medecine generale,5781
-Faye,Abdoulaye,Medecine generale,5696
-Sarr,Khady,Pediatrie,8664
-Gueye,Khady,Pediatrie,8499
-Gueye,Moussa,Pediatrie,7240
-Sow,Mariama,Dermatologie,8054
-Ndiaye,Fatou,Chirurgie,7635
-Faye,Awa,Medecine generale,8550
-Ba,Fatou,Dermatologie,5038
-Diop,Ousmane,Cardiologie,7811
-Ndiaye,Mariama,Chirurgie,2729
-Ba,Mariama,Gynecologie,299
-Sow,Mamadou,Pediatrie,7671
-Sy,Aminata,Medecine generale,8100
-Kane,Mariama,Pediatrie,368
-Kane,Moussa,Chirurgie,3992
-Gueye,Oumar,Cardiologie,4245
-Sow,Awa,Dermatologie,9692
-Sow,Moussa,Cardiologie,483
-Sow,Mamadou,Medecine generale,3409
-Ba,Oumar,Pediatrie,2865
-Sarr,Ibrahima,Pediatrie,2213
-Kane,Cheikh,Chirurgie,7559
-Fall,Moussa,Dermatologie,1795
-Diop,Mamadou,Chirurgie,4372
-Kane,Moussa,Medecine generale,2003
-Ba,Khady,Gynecologie,3347
-Sow,Awa,Chirurgie,5187
-Sy,Khady,Dermatologie,8601
-Sarr,Aminata,Gynecologie,3886
-Gueye,Awa,Cardiologie,6195
-Diallo,Khady,Gynecologie,520
-Sow,Ousmane,Chirurgie,5408
-Sow,Fatou,Chirurgie,41
-Ba,Awa,Chirurgie,8366
-Diallo,Fatou,Gynecologie,717
-Ba,Mamadou,Cardiologie,8732
-Diop,Fatou,Cardiologie,5160
-Gueye,Aminata,Gynecologie,3623
-Sarr,Cheikh,Cardiologie,7523
-Ba,Aminata,Chirurgie,4880
-Sy,Aminata,Dermatologie,2677
-Sow,Moussa,Dermatologie,7830
-Sy,Abdoulaye,Gynecologie,8056
-Sarr,Oumar,Chirurgie,3004
-Gueye,Moussa,Pediatrie,5193
-Diop,Ibrahima,Dermatologie,7150
-Sow,Cheikh,Pediatrie,8232
-Kane,Moussa,Medecine generale,4512
-Sy,Mamadou,Dermatologie,6473
-Sow,Cheikh,Medecine generale,2096
-Faye,Awa,Chirurgie,5021
-Kane,Aminata,Gynecologie,231
-Fall,Abdoulaye,Medecine generale,7089
-Ndiaye,Ousmane,Pediatrie,1523
-Faye,Ibrahima,Dermatologie,5743
-Faye,Moussa,Medecine generale,3307
-Ndiaye,Khady,Chirurgie,478
-Sy,Aminata,Pediatrie,3674
-Kane,Mariama,Chirurgie,741
-Diallo,Mamadou,Cardiologie,5923
-Fall,Mariama,Chirurgie,7904
-Ndiaye,Ibrahima,Dermatologie,7526
-Kane,Mariama,Medecine generale,356
-Ba,Mamadou,Dermatologie,7918
-Ba,Awa,Chirurgie,307
-Faye,Oumar,Pediatrie,7534
-Sy,Abdoulaye,Cardiologie,1222
-Diallo,Mamadou,Pediatrie,5786
-Fall,Cheikh,Pediatrie,3547
-Sarr,Awa,Pediatrie,8542
-Sy,Ousmane,Chirurgie,9851
-Diop,Moussa,Chirurgie,2374
-Ndiaye,Cheikh,Pediatrie,6184
-Kane,Abdoulaye,Dermatologie,3202
-Sow,Oumar,Cardiologie,1891
-Sy,Ousmane,Gynecologie,6466
-Fall,Mariama,Dermatologie,9006
-Sarr,Aminata,Cardiologie,4008
-Diop,Fatou,Chirurgie,7258
-Ba,Mariama,Chirurgie,7917
-Diallo,Mamadou,Chirurgie,5083
-Ba,Moussa,Gynecologie,8636
-Diallo,Oumar,Dermatologie,5282
-Fall,Mamadou,Pediatrie,2470
-Sarr,Ousmane,Gynecologie,9083
-Diallo,Ibrahima,Pediatrie,5968
-Diallo,Ousmane,Medecine generale,8325
-Sy,Mariama,Medecine generale,8894
-Fall,Aminata,Medecine generale,7438
-Gueye,Moussa,Chirurgie,2315
-Fall,Fatou,Cardiologie,1825
-Sy,Ousmane,Pediatrie,7398
-Sow,Ibrahima,Chirurgie,4977
-Sow,Fatou,Medecine generale,5852
-Diallo,Oumar,Medecine generale,4723
-Faye,Mamadou,Gynecologie,5898
-Faye,Abdoulaye,Pediatrie,4045
-Gueye,Moussa,Gynecologie,7736
-Sy,Ousmane,Gynecologie,2360
-Diop,Abdoulaye,Medecine generale,7567
-Gueye,Mamadou,Medecine generale,5805
-Sy,Cheikh,Chirurgie,8829
-Sow,Ousmane,Pediatrie,3451
-Ndiaye,Aminata,Gynecologie,9792
-Ndiaye,Mariama,Dermatologie,3848
-Fall,Abdoulaye,Chirurgie,7862
-Ndiaye,Moussa,Cardiologie,4923
-Gueye,Awa,Pediatrie,6763
-Fall,Aminata,Cardiologie,4774
-Fall,Moussa,Chirurgie,8360
-Gueye,Oumar,Dermatologie,2942
-Sy,Fatou,Pediatrie,1833
-Fall,Fatou,Cardiologie,2967
-Ba,Mamadou,Dermatologie,3621
-Sow,Moussa,Gynecologie,6246
-Sarr,Mariama,Chirurgie,5101
-Diallo,Aminata,Cardiologie,7950
-Sow,Aminata,Cardiologie,7796
-Diallo,Moussa,Gynecologie,6082
-Ba,Ibrahima,Pediatrie,7720
-Ndiaye,Cheikh,Dermatologie,2891
-Ba,Abdoulaye,Medecine generale,6989
-Sy,Khady,Gynecologie,9348
-Kane,Cheikh,Medecine generale,3173
-Ba,Khady,Dermatologie,257
-Diop,Ibrahima,Dermatologie,6259
-Faye,Moussa,Gynecologie,4776
-Kane,Mariama,Chirurgie,6366
-Ndiaye,Khady,Gynecologie,2675
-Sarr,Abdoulaye,Chirurgie,707
-Sy,Mamadou,Cardiologie,1620
-Gueye,Ousmane,Medecine generale,4668
-Fall,Oumar,Medecine generale,6949
-Gueye,Abdoulaye,Chirurgie,9653
-Ba,Mamadou,Pediatrie,5609
-Diop,Mariama,Cardiologie,3686
-Ba,Cheikh,Gynecologie,86
-Diop,Khady,Dermatologie,3654
-Kane,Cheikh,Gynecologie,3954
-Fall,Abdoulaye,Dermatologie,5363
-Faye,Oumar,Cardiologie,7180
-Diop,Ousmane,Chirurgie,7360
-Ndiaye,Ousmane,Pediatrie,6720
-Gueye,Ibrahima,Gynecologie,6482
-Fall,Abdoulaye,Chirurgie,9275
-Gueye,Aminata,Pediatrie,5161
-Ba,Oumar,Medecine generale,4865
-Gueye,Cheikh,Dermatologie,1611
-Sy,Moussa,Pediatrie,4859
-Diallo,Mariama,Chirurgie,3283
-Faye,Ibrahima,Medecine generale,5251
-Fall,Abdoulaye,Gynecologie,9979
-Ba,Abdoulaye,Pediatrie,2603
-Gueye,Mariama,Dermatologie,1368
-Ba,Cheikh,Medecine generale,3370
-Diallo,Aminata,Pediatrie,9313
-Gueye,Fatou,Dermatologie,1855
-Sow,Mariama,Chirurgie,1384
-Diallo,Ibrahima,Medecine generale,5416
-Kane,Ousmane,Dermatologie,7859
-Sy,Ibrahima,Gynecologie,7809
-Faye,Oumar,Medecine generale,9694
-Diop,Moussa,Medecine generale,7855
-Diallo,Aminata,Medecine generale,5987
-Faye,Aminata,Dermatologie,3894
-Ndiaye,Abdoulaye,Pediatrie,1308
-Sow,Oumar,Chirurgie,6791
-Kane,Moussa,Gynecologie,6876
-Diop,Awa,Dermatologie,9267
-Sarr,Cheikh,Cardiologie,783
-Sow,Aminata,Pediatrie,5216
-Sow,Aminata,Pediatrie,1553
-Faye,Fatou,Pediatrie,9280
-Ba,Fatou,Chirurgie,8804
-Ba,Khady,Gynecologie,9639
-Diallo,Khady,Gynecologie,7302
-Kane,Ousmane,Cardiologie,1230
-Kane,Abdoulaye,Chirurgie,2846
-Sow,Mariama,Dermatologie,5410
-Kane,Mamadou,Medecine generale,9835
-Diallo,Ibrahima,Dermatologie,667
-Sow,Aminata,Medecine generale,8772
-Diallo,Oumar,Cardiologie,5895
-Kane,Mariama,Dermatologie,8413
-Sow,Moussa,Dermatologie,7012
-Diallo,Abdoulaye,Dermatologie,147
-Sow,Ousmane,Medecine generale,6225
-Kane,Cheikh,Dermatologie,4278
-Ba,Ibrahima,Gynecologie,8771
-Ba,Ibrahima,Gynecologie,2679
-Sy,Khady,Gynecologie,2997
-Ba,Ousmane,Medecine generale,9453
-Diallo,Ibrahima,Pediatrie,8314
-Diallo,Ibrahima,Pediatrie,4395
-Faye,Khady,Pediatrie,303
-Diop,Oumar,Cardiologie,4861
-Kane,Mamadou,Medecine generale,6005
-Diallo,Mariama,Dermatologie,9105
-Gueye,Mamadou,Dermatologie,1351
-Sow,Mamadou,Cardiologie,6205
-Ba,Khady,Chirurgie,7737
-Diop,Abdoulaye,Dermatologie,45
-Sarr,Khady,Pediatrie,6917
-Ndiaye,Fatou,Cardiologie,713
-Sow,Abdoulaye,Cardiologie,4646
-Sy,Aminata,Chirurgie,8701
-Ndiaye,Aminata,Chirurgie,8807
-Diop,Oumar,Gynecologie,1514
-Faye,Abdoulaye,Gynecologie,4334
-Sy,Cheikh,Cardiologie,1807
-Faye,Aminata,Cardiologie,5488
-Diop,Ibrahima,Cardiologie,1294
-Diallo,Fatou,Gynecologie,5424
-Kane,Mariama,Medecine generale,3643
-Diallo,Awa,Gynecologie,8557
-Ndiaye,Oumar,Medecine generale,8897
-Diop,Cheikh,Pediatrie,7094
-Ba,Aminata,Pediatrie,1606
-Gueye,Mariama,Cardiologie,5749
-Gueye,Moussa,Gynecologie,2751
-Gueye,Ousmane,Medecine generale,841
-Sarr,Awa,Gynecologie,7544
-Kane,Oumar,Cardiologie,6143
-Sarr,Khady,Medecine generale,5885
-Faye,Awa,Dermatologie,8262
-Kane,Mariama,Medecine generale,8343
-Sarr,Ibrahima,Dermatologie,3759
-Ndiaye,Fatou,Pediatrie,7049
-Sow,Abdoulaye,Medecine generale,8331
-Sow,Abdoulaye,Cardiologie,8627
-Fall,Mamadou,Chirurgie,6625
-Faye,Aminata,Pediatrie,8148
-Ndiaye,Abdoulaye,Pediatrie,6719
-Diallo,Aminata,Chirurgie,8539
-Kane,Ibrahima,Pediatrie,3681
-Fall,Ibrahima,Cardiologie,2555
-Diallo,Awa,Cardiologie,1465
-Diop,Fatou,Gynecologie,6490
-Sarr,Abdoulaye,Dermatologie,6887
-Diallo,Mariama,Pediatrie,79
-Ndiaye,Fatou,Pediatrie,5939
-Kane,Moussa,Chirurgie,5420
-Diop,Mamadou,Cardiologie,6696
-Sarr,Mariama,Gynecologie,8889
-Kane,Fatou,Gynecologie,1779
-Ndiaye,Ousmane,Medecine generale,8024
-Diop,Fatou,Medecine generale,8448
-Kane,Oumar,Pediatrie,9480
-Diop,Fatou,Cardiologie,3112
-Fall,Mamadou,Medecine generale,4415
-Sow,Ibrahima,Medecine generale,4366
-Ba,Ousmane,Cardiologie,5234
-Fall,Ousmane,Medecine generale,4158
-Diallo,Awa,Chirurgie,5973
-Sow,Oumar,Pediatrie,5484
-Kane,Fatou,Dermatologie,4348
-Gueye,Aminata,Chirurgie,7656
-Ba,Mariama,Pediatrie,8551
-Ba,Ibrahima,Gynecologie,4513
-Sow,Oumar,Cardiologie,3634
-Sy,Awa,Chirurgie,6295
-Ndiaye,Cheikh,Chirurgie,8520
-Faye,Mamadou,Cardiologie,4560
-Gueye,Aminata,Gynecologie,7189
-Diallo,Moussa,Pediatrie,2430
-Sy,Khady,Pediatrie,1705
-Ndiaye,Khady,Dermatologie,3299
-Sarr,Aminata,Gynecologie,407
-Sow,Oumar,Dermatologie,4604
-Sow,Ousmane,Pediatrie,3321
-Kane,Oumar,Chirurgie,903
-Diop,Ibrahima,Dermatologie,27
-Diallo,Abdoulaye,Pediatrie,6506
-Fall,Aminata,Dermatologie,9571
-Sy,Awa,Cardiologie,8104
-Gueye,Oumar,Gynecologie,7060
-Diop,Mariama,Chirurgie,4442
-Faye,Ousmane,Medecine generale,658
-Faye,Moussa,Medecine generale,8912
-Sow,Fatou,Cardiologie,5469
-Diallo,Mamadou,Gynecologie,8269
-Kane,Fatou,Gynecologie,9564
-Faye,Abdoulaye,Pediatrie,3516
-Kane,Oumar,Pediatrie,598
-Diop,Moussa,Pediatrie,9957
-Sow,Awa,Medecine generale,1133
-Diallo,Mamadou,Dermatologie,1867
-Ndiaye,Ousmane,Cardiologie,4329
-Faye,Fatou,Cardiologie,2870
-Kane,Mamadou,Dermatologie,3433
-Fall,Aminata,Gynecologie,9438
-Sow,Aminata,Pediatrie,3139
-Diallo,Aminata,Pediatrie,8645
-Gueye,Ibrahima,Gynecologie,8498
-Ndiaye,Fatou,Chirurgie,8631
-Gueye,Mariama,Cardiologie,5295
-Ba,Awa,Chirurgie,2477
-Sarr,Awa,Gynecologie,5829
-Gueye,Awa,Cardiologie,7872
-Sow,Cheikh,Pediatrie,7801
-Diop,Mariama,Cardiologie,595
-Sy,Awa,Chirurgie,9874
-Sow,Ousmane,Cardiologie,3042
-Gueye,Ousmane,Medecine generale,6652
-Ba,Aminata,Cardiologie,3562
-Fall,Mariama,Medecine generale,7233
-Gueye,Cheikh,Medecine generale,1316
-Faye,Khady,Dermatologie,5063
-Gueye,Khady,Gynecologie,3852
-Sarr,Khady,Chirurgie,3717
-Sy,Oumar,Chirurgie,5133
-Diallo,Cheikh,Cardiologie,3739
-Gueye,Ousmane,Medecine generale,9281
-Diallo,Moussa,Medecine generale,9656
-Sy,Abdoulaye,Pediatrie,1987
-Kane,Mariama,Gynecologie,4235
-Diallo,Khady,Chirurgie,3436
-Faye,Aminata,Pediatrie,1813
-Diallo,Mariama,Pediatrie,8748
-Sy,Ousmane,Pediatrie,9969
-Fall,Fatou,Cardiologie,5139
-Ndiaye,Khady,Pediatrie,2941
-Ndiaye,Khady,Chirurgie,1119
-Sow,Aminata,Gynecologie,4224
-Kane,Oumar,Pediatrie,1405
-Gueye,Mariama,Chirurgie,944
-Fall,Khady,Cardiologie,6702
-Sow,Cheikh,Cardiologie,1028
-Kane,Aminata,Dermatologie,4455
-Diop,Cheikh,Medecine generale,5668
-Gueye,Abdoulaye,Dermatologie,1077
-Diallo,Moussa,Cardiologie,6871
-Fall,Mariama,Dermatologie,9513
-Diop,Khady,Chirurgie,4122
-Sarr,Cheikh,Dermatologie,3332
-Gueye,Moussa,Medecine generale,7609
-Gueye,Fatou,Pediatrie,7416
-Sarr,Moussa,Dermatologie,2224
-Sow,Khady,Dermatologie,3096
-Diallo,Ibrahima,Chirurgie,8252
-Diallo,Aminata,Chirurgie,7694
-Kane,Khady,Cardiologie,2328
-Ba,Oumar,Pediatrie,2287
-Diallo,Khady,Medecine generale,6724
-Sy,Khady,Medecine generale,865
-Faye,Mamadou,Medecine generale,6768
-Diallo,Aminata,Medecine generale,6377
-Diallo,Aminata,Cardiologie,1094
-Sow,Fatou,Cardiologie,1669
-Fall,Fatou,Medecine generale,6489
-Sow,Cheikh,Pediatrie,1144
-Ndiaye,Aminata,Pediatrie,3017
-Fall,Abdoulaye,Medecine generale,9029
-Faye,Moussa,Chirurgie,6275
-Ndiaye,Aminata,Pediatrie,9031
-Fall,Ibrahima,Cardiologie,7075
-Sow,Fatou,Pediatrie,5184
-Ba,Aminata,Gynecologie,6144
-Diallo,Aminata,Medecine generale,3734
-Sy,Fatou,Cardiologie,9032
-Diop,Mariama,Pediatrie,1929
-Diallo,Oumar,Medecine generale,8967
-Kane,Ibrahima,Dermatologie,3372
-Sarr,Mamadou,Pediatrie,6470
-Diallo,Cheikh,Cardiologie,782
-Sow,Mariama,Chirurgie,6904
-Gueye,Ibrahima,Gynecologie,3569
-Fall,Khady,Chirurgie,1934
-Faye,Ousmane,Cardiologie,4639
-Fall,Cheikh,Medecine generale,2885
-Diallo,Cheikh,Gynecologie,5909
-Sow,Aminata,Chirurgie,6946
+Fall,Abdoulaye,Gynecologie,1130
+Ndiaye,Fatou,Dermatologie,1131
+Fall,Khady,Pediatrie,1132
+Diop,Ibrahima,Chirurgie,1133
+Ndiaye,Fatou,Dermatologie,1134
+Ndiaye,Awa,Chirurgie,1135
+Sarr,Mamadou,Chirurgie,1136
+Ndiaye,Cheikh,Dermatologie,1137
+Diop,Awa,Dermatologie,1138
+Sarr,Khady,Medecine generale,1139
+Gueye,Khady,Gynecologie,1140
+Ba,Moussa,Cardiologie,1141
+Sy,Mamadou,Pediatrie,1142
+Diop,Khady,Cardiologie,1143
+Diallo,Ousmane,Chirurgie,1144
+Faye,Aminata,Cardiologie,1145
+Faye,Awa,Medecine generale,1146
+Gueye,Ousmane,Chirurgie,1147
+Diop,Aminata,Medecine generale,1148
+Diallo,Oumar,Cardiologie,1149
+Ndiaye,Awa,Gynecologie,1150
+Gueye,Cheikh,Chirurgie,1151
+Ba,Mariama,Medecine generale,1152
+Faye,Ibrahima,Gynecologie,1153
+Sarr,Ibrahima,Cardiologie,1154
+Faye,Oumar,Chirurgie,1155
+Sow,Aminata,Cardiologie,1156
+Sow,Fatou,Cardiologie,1157
+Ndiaye,Moussa,Cardiologie,1158
+Kane,Ousmane,Pediatrie,1159
+Sy,Ousmane,Dermatologie,1160
+Gueye,Ousmane,Pediatrie,1161
+Diop,Mariama,Medecine generale,1162
+Faye,Cheikh,Pediatrie,1163
+Ba,Mamadou,Gynecologie,1164
+Diallo,Mariama,Medecine generale,1165
+Sy,Awa,Dermatologie,1166
+Ba,Oumar,Gynecologie,1167
+Sy,Khady,Gynecologie,1168
+Ba,Fatou,Cardiologie,1169
+Ndiaye,Awa,Pediatrie,1170
+Diallo,Fatou,Medecine generale,1171
+Kane,Moussa,Chirurgie,1172
+Faye,Aminata,Dermatologie,1173
+Sarr,Fatou,Medecine generale,1174
+Diop,Oumar,Medecine generale,1175
+Ndiaye,Fatou,Gynecologie,1176
+Diallo,Ibrahima,Medecine generale,1177
+Faye,Abdoulaye,Pediatrie,1178
+Sow,Ibrahima,Dermatologie,1179
+Diallo,Mariama,Cardiologie,1180
+Faye,Abdoulaye,Pediatrie,1181
+Faye,Awa,Cardiologie,1182
+Sow,Mamadou,Cardiologie,1183
+Sarr,Cheikh,Chirurgie,1184
+Ba,Ousmane,Medecine generale,1185
+Sow,Mamadou,Chirurgie,1186
+Sy,Awa,Dermatologie,1187
+Ba,Mamadou,Pediatrie,1188
+Sarr,Ibrahima,Medecine generale,1189
+Sow,Mariama,Medecine generale,1190
+Fall,Khady,Cardiologie,1191
+Sarr,Ibrahima,Dermatologie,1192
+Sy,Ousmane,Cardiologie,1193
+Ndiaye,Khady,Gynecologie,1194
+Kane,Khady,Dermatologie,1195
+Sy,Mamadou,Pediatrie,1196
+Sarr,Aminata,Dermatologie,1197
+Kane,Abdoulaye,Cardiologie,1198
+Gueye,Awa,Chirurgie,1199
+Gueye,Ousmane,Pediatrie,1200
+Fall,Oumar,Cardiologie,1201
+Diallo,Awa,Cardiologie,1202
+Sow,Khady,Cardiologie,1203
+Sy,Ibrahima,Pediatrie,1204
+Sow,Cheikh,Gynecologie,1205
+Fall,Awa,Pediatrie,1206
+Sow,Oumar,Cardiologie,1207
+Ndiaye,Cheikh,Dermatologie,1208
+Sy,Abdoulaye,Pediatrie,1209
+Diallo,Abdoulaye,Dermatologie,1210
+Diallo,Oumar,Medecine generale,1211
+Diop,Ibrahima,Medecine generale,1212
+Gueye,Mariama,Gynecologie,1213
+Fall,Abdoulaye,Medecine generale,1214
+Kane,Ibrahima,Medecine generale,1215
+Diop,Khady,Gynecologie,1216
+Faye,Ousmane,Dermatologie,1217
+Ba,Mariama,Cardiologie,1218
+Diallo,Oumar,Pediatrie,1219
+Sy,Fatou,Cardiologie,1220
+Diop,Moussa,Pediatrie,1221
+Faye,Ousmane,Chirurgie,1222
+Diallo,Fatou,Medecine generale,1223
+Sy,Fatou,Chirurgie,1224
+Faye,Mariama,Gynecologie,1225
+Diop,Moussa,Pediatrie,1226
+Sarr,Mamadou,Pediatrie,1227
+Diallo,Mariama,Medecine generale,1228
+Diallo,Aminata,Medecine generale,1229
+Diop,Ibrahima,Dermatologie,1230
+Sarr,Mariama,Chirurgie,1231
+Kane,Oumar,Medecine generale,1232
+Sy,Khady,Dermatologie,1233
+Sy,Ibrahima,Pediatrie,1234
+Diallo,Mamadou,Dermatologie,1235
+Diop,Awa,Cardiologie,1236
+Faye,Awa,Chirurgie,1237
+Ba,Abdoulaye,Gynecologie,1238
+Ba,Ibrahima,Dermatologie,1239
+Sow,Cheikh,Gynecologie,1240
+Diop,Khady,Medecine generale,1241
+Gueye,Aminata,Dermatologie,1242
+Sow,Fatou,Dermatologie,1243
+Ba,Ousmane,Dermatologie,1244
+Sow,Oumar,Gynecologie,1245
+Sy,Abdoulaye,Gynecologie,1246
+Gueye,Abdoulaye,Cardiologie,1247
+Kane,Aminata,Cardiologie,1248
+Sarr,Mamadou,Dermatologie,1249
+Faye,Fatou,Cardiologie,1250
+Diallo,Ousmane,Dermatologie,1251
+Sarr,Oumar,Gynecologie,1252
+Ndiaye,Moussa,Chirurgie,1253
+Sy,Khady,Chirurgie,1254
+Ndiaye,Ousmane,Cardiologie,1255
+Sarr,Ibrahima,Gynecologie,1256
+Faye,Abdoulaye,Dermatologie,1257
+Diop,Ousmane,Dermatologie,1258
+Gueye,Fatou,Cardiologie,1259
+Faye,Oumar,Chirurgie,1260
+Sarr,Aminata,Cardiologie,1261
+Sarr,Ousmane,Medecine generale,1262
+Ba,Cheikh,Gynecologie,1263
+Sy,Mamadou,Pediatrie,1264
+Diallo,Ousmane,Pediatrie,1265
+Gueye,Ousmane,Dermatologie,1266
+Fall,Awa,Dermatologie,1267
+Sy,Mamadou,Chirurgie,1268
+Diallo,Moussa,Gynecologie,1269
+Gueye,Ousmane,Cardiologie,1270
+Gueye,Moussa,Gynecologie,1271
+Sarr,Fatou,Gynecologie,1272
+Kane,Cheikh,Chirurgie,1273
+Sy,Aminata,Gynecologie,1274
+Diop,Mariama,Medecine generale,1275
+Diallo,Moussa,Dermatologie,1276
+Ndiaye,Ousmane,Cardiologie,1277
+Ndiaye,Ibrahima,Pediatrie,1278
+Ba,Aminata,Medecine generale,1279
+Sow,Ousmane,Pediatrie,1280
+Ndiaye,Fatou,Chirurgie,1281
+Faye,Aminata,Chirurgie,1282
+Ndiaye,Aminata,Medecine generale,1283
+Gueye,Fatou,Cardiologie,1284
+Faye,Awa,Pediatrie,1285
+Fall,Fatou,Cardiologie,1286
+Gueye,Mamadou,Chirurgie,1287
+Faye,Aminata,Cardiologie,1288
+Sy,Ibrahima,Medecine generale,1289
+Sow,Abdoulaye,Medecine generale,1290
+Sarr,Mamadou,Medecine generale,1291
+Faye,Cheikh,Pediatrie,1292
+Gueye,Moussa,Cardiologie,1293
+Sarr,Khady,Gynecologie,1294
+Sarr,Cheikh,Gynecologie,1295
+Sarr,Oumar,Gynecologie,1296
+Fall,Awa,Cardiologie,1297
+Sy,Abdoulaye,Cardiologie,1298
+Sarr,Cheikh,Cardiologie,1299
+Sy,Ousmane,Chirurgie,1300
+Diop,Ousmane,Medecine generale,1301
+Ba,Mariama,Pediatrie,1302
+Faye,Aminata,Dermatologie,1303
+Fall,Awa,Cardiologie,1304
+Diallo,Cheikh,Chirurgie,1305
+Sow,Ousmane,Pediatrie,1306
+Faye,Abdoulaye,Dermatologie,1307
+Sarr,Aminata,Dermatologie,1308
+Fall,Khady,Chirurgie,1309
+Sarr,Cheikh,Cardiologie,1310
+Kane,Mariama,Medecine generale,1311
+Sarr,Awa,Medecine generale,1312
+Diallo,Cheikh,Dermatologie,1313
+Diallo,Mamadou,Pediatrie,1314
+Kane,Khady,Chirurgie,1315
+Fall,Oumar,Medecine generale,1316
+Fall,Khady,Medecine generale,1317
+Kane,Mariama,Chirurgie,1318
+Sow,Mamadou,Gynecologie,1319
+Sow,Abdoulaye,Chirurgie,1320
+Kane,Oumar,Gynecologie,1321
+Fall,Fatou,Gynecologie,1322
+Diallo,Cheikh,Cardiologie,1323
+Sow,Awa,Chirurgie,1324
+Fall,Abdoulaye,Medecine generale,1325
+Sow,Ibrahima,Cardiologie,1326
+Ba,Oumar,Pediatrie,1327
+Sarr,Ibrahima,Dermatologie,1328
+Fall,Abdoulaye,Dermatologie,1329
+Ba,Aminata,Medecine generale,1330
+Diop,Khady,Gynecologie,1331
+Sarr,Ibrahima,Cardiologie,1332
+Faye,Mamadou,Chirurgie,1333
+Gueye,Ibrahima,Pediatrie,1334
+Kane,Mariama,Dermatologie,1335
+Ndiaye,Oumar,Dermatologie,1336
+Sow,Aminata,Medecine generale,1337
+Fall,Fatou,Cardiologie,1338
+Diallo,Aminata,Pediatrie,1339
+Diallo,Mamadou,Cardiologie,1340
+Ndiaye,Aminata,Medecine generale,1341
+Sow,Cheikh,Medecine generale,1342
+Sow,Abdoulaye,Dermatologie,1343
+Faye,Mariama,Medecine generale,1344
+Ba,Mamadou,Gynecologie,1345
+Sy,Awa,Dermatologie,1346
+Ba,Khady,Medecine generale,1347
+Kane,Cheikh,Medecine generale,1348
+Ba,Fatou,Cardiologie,1349
+Sarr,Ousmane,Chirurgie,1350
+Diop,Oumar,Medecine generale,1351
+Ndiaye,Ibrahima,Gynecologie,1352
+Kane,Ibrahima,Cardiologie,1353
+Faye,Mamadou,Pediatrie,1354
+Kane,Mamadou,Chirurgie,1355
+Diallo,Cheikh,Pediatrie,1356
+Diop,Aminata,Chirurgie,1357
+Ndiaye,Ibrahima,Chirurgie,1358
+Kane,Moussa,Pediatrie,1359
+Sy,Moussa,Cardiologie,1360
+Faye,Mariama,Gynecologie,1361
+Ndiaye,Ibrahima,Dermatologie,1362
+Sow,Mariama,Medecine generale,1363
+Fall,Aminata,Medecine generale,1364
+Diallo,Moussa,Dermatologie,1365
+Fall,Abdoulaye,Dermatologie,1366
+Sow,Ousmane,Cardiologie,1367
+Diallo,Fatou,Pediatrie,1368
+Fall,Fatou,Chirurgie,1369
+Gueye,Oumar,Dermatologie,1370
+Sy,Aminata,Cardiologie,1371
+Diop,Abdoulaye,Pediatrie,1372
+Gueye,Ibrahima,Medecine generale,1373
+Ba,Fatou,Dermatologie,1374
+Gueye,Oumar,Medecine generale,1375
+Sow,Abdoulaye,Chirurgie,1376
+Fall,Cheikh,Dermatologie,1377
+Gueye,Ousmane,Pediatrie,1378
+Fall,Fatou,Pediatrie,1379
+Diop,Khady,Cardiologie,1380
+Sy,Moussa,Pediatrie,1381
+Sow,Aminata,Medecine generale,1382
+Ndiaye,Fatou,Medecine generale,1383
+Sarr,Awa,Dermatologie,1384
+Sarr,Cheikh,Pediatrie,1385
+Sarr,Fatou,Pediatrie,1386
+Diop,Fatou,Medecine generale,1387
+Sy,Mamadou,Cardiologie,1388
+Gueye,Awa,Chirurgie,1389
+Diop,Ousmane,Gynecologie,1390
+Diallo,Oumar,Dermatologie,1391
+Diop,Abdoulaye,Chirurgie,1392
+Sy,Mamadou,Cardiologie,1393
+Gueye,Fatou,Medecine generale,1394
+Sy,Fatou,Gynecologie,1395
+Faye,Mariama,Gynecologie,1396
+Ba,Abdoulaye,Gynecologie,1397
+Kane,Mariama,Medecine generale,1398
+Diop,Cheikh,Pediatrie,1399
+Diop,Ousmane,Dermatologie,1400
+Fall,Abdoulaye,Cardiologie,1401
+Diallo,Mamadou,Pediatrie,1402
+Diallo,Mariama,Pediatrie,1403
+Fall,Ibrahima,Pediatrie,1404
+Faye,Abdoulaye,Chirurgie,1405
+Ndiaye,Fatou,Medecine generale,1406
+Ndiaye,Aminata,Medecine generale,1407
+Ba,Cheikh,Gynecologie,1408
+Sy,Cheikh,Medecine generale,1409
+Sow,Ibrahima,Pediatrie,1410
+Fall,Aminata,Medecine generale,1411
+Diop,Cheikh,Gynecologie,1412
+Ba,Ibrahima,Medecine generale,1413
+Sy,Ousmane,Dermatologie,1414
+Ndiaye,Cheikh,Dermatologie,1415
+Sow,Khady,Medecine generale,1416
+Sow,Cheikh,Cardiologie,1417
+Gueye,Cheikh,Chirurgie,1418
+Diallo,Khady,Gynecologie,1419
+Kane,Oumar,Pediatrie,1420
+Sow,Awa,Medecine generale,1421
+Kane,Cheikh,Chirurgie,1422
+Ndiaye,Mariama,Gynecologie,1423
+Diop,Fatou,Pediatrie,1424
+Gueye,Moussa,Chirurgie,1425
+Sarr,Ibrahima,Medecine generale,1426
+Ndiaye,Mamadou,Gynecologie,1427
+Diallo,Cheikh,Medecine generale,1428
+Gueye,Oumar,Gynecologie,1429
+Ndiaye,Awa,Cardiologie,1430
+Faye,Cheikh,Dermatologie,1431
+Kane,Ibrahima,Gynecologie,1432
+Sy,Oumar,Pediatrie,1433
+Faye,Oumar,Dermatologie,1434
+Diop,Cheikh,Gynecologie,1435
+Gueye,Fatou,Dermatologie,1436
+Sy,Aminata,Gynecologie,1437
+Kane,Ibrahima,Chirurgie,1438
+Diop,Mariama,Cardiologie,1439
+Faye,Fatou,Gynecologie,1440
+Gueye,Aminata,Gynecologie,1441
+Sow,Aminata,Gynecologie,1442
+Kane,Oumar,Cardiologie,1443
+Diop,Awa,Medecine generale,1444
+Ba,Oumar,Dermatologie,1445
+Sow,Aminata,Pediatrie,1446
+Diallo,Moussa,Cardiologie,1447
+Sarr,Mamadou,Dermatologie,1448
+Diop,Ousmane,Gynecologie,1449
+Diop,Fatou,Medecine generale,1450
+Sow,Aminata,Chirurgie,1451
+Diop,Oumar,Cardiologie,1452
+Sow,Oumar,Dermatologie,1453
+Ndiaye,Abdoulaye,Gynecologie,1454
+Diallo,Khady,Cardiologie,1455
+Ba,Aminata,Gynecologie,1456
+Gueye,Awa,Medecine generale,1457
+Ba,Mariama,Medecine generale,1458
+Sow,Ousmane,Chirurgie,1459
+Diop,Aminata,Pediatrie,1460
+Sow,Cheikh,Medecine generale,1461
+Ba,Moussa,Pediatrie,1462
+Fall,Fatou,Dermatologie,1463
+Ndiaye,Mamadou,Cardiologie,1464
+Gueye,Ousmane,Cardiologie,1465
+Gueye,Oumar,Cardiologie,1466
+Sow,Khady,Cardiologie,1467
+Ba,Mariama,Chirurgie,1468
+Sarr,Moussa,Pediatrie,1469
+Diop,Ousmane,Medecine generale,1470
+Ndiaye,Mariama,Dermatologie,1471
+Sy,Fatou,Chirurgie,1472
+Fall,Oumar,Chirurgie,1473
+Ba,Abdoulaye,Medecine generale,1474
+Ndiaye,Khady,Pediatrie,1475
+Kane,Khady,Pediatrie,1476
+Kane,Mamadou,Gynecologie,1477
+Sarr,Mamadou,Gynecologie,1478
+Diallo,Khady,Gynecologie,1479
+Diallo,Ousmane,Gynecologie,1480
+Fall,Mamadou,Chirurgie,1481
+Sarr,Awa,Pediatrie,1482
+Ndiaye,Cheikh,Dermatologie,1483
+Ba,Oumar,Gynecologie,1484
+Gueye,Oumar,Pediatrie,1485
+Sarr,Abdoulaye,Pediatrie,1486
+Kane,Fatou,Pediatrie,1487
+Fall,Oumar,Dermatologie,1488
+Sow,Awa,Dermatologie,1489
+Sarr,Mamadou,Cardiologie,1490
+Gueye,Ibrahima,Gynecologie,1491
+Fall,Mariama,Medecine generale,1492
+Kane,Mamadou,Gynecologie,1493
+Diallo,Oumar,Cardiologie,1494
+Faye,Oumar,Cardiologie,1495
+Sow,Awa,Cardiologie,1496
+Faye,Khady,Medecine generale,1497
+Sow,Moussa,Medecine generale,1498
+Ndiaye,Oumar,Dermatologie,1499
+Kane,Mamadou,Pediatrie,1500
+Sarr,Fatou,Dermatologie,1501
+Faye,Aminata,Dermatologie,1502
+Ba,Awa,Chirurgie,1503
+Ndiaye,Ibrahima,Medecine generale,1504
+Gueye,Awa,Gynecologie,1505
+Gueye,Ibrahima,Medecine generale,1506
+Kane,Awa,Pediatrie,1507
+Diop,Awa,Medecine generale,1508
+Gueye,Awa,Gynecologie,1509
+Diop,Abdoulaye,Chirurgie,1510
+Ndiaye,Awa,Medecine generale,1511
+Sarr,Awa,Pediatrie,1512
+Faye,Fatou,Dermatologie,1513
+Diop,Mariama,Medecine generale,1514
+Diop,Ousmane,Gynecologie,1515
+Sow,Abdoulaye,Medecine generale,1516
+Fall,Mariama,Medecine generale,1517
+Fall,Fatou,Pediatrie,1518
+Ba,Fatou,Medecine generale,1519
+Faye,Abdoulaye,Dermatologie,1520
+Fall,Mariama,Pediatrie,1521
+Ndiaye,Ousmane,Cardiologie,1522
+Diallo,Fatou,Chirurgie,1523
+Gueye,Mariama,Chirurgie,1524
+Kane,Khady,Chirurgie,1525
+Gueye,Cheikh,Dermatologie,1526
+Ba,Ousmane,Dermatologie,1527
+Faye,Awa,Medecine generale,1528
+Sow,Ousmane,Pediatrie,1529
+Gueye,Ibrahima,Gynecologie,1530
+Ba,Cheikh,Cardiologie,1531
+Sow,Khady,Gynecologie,1532
+Ndiaye,Aminata,Cardiologie,1533
+Sarr,Mamadou,Gynecologie,1534
+Diop,Fatou,Medecine generale,1535
+Sy,Awa,Chirurgie,1536
+Sarr,Ousmane,Dermatologie,1537
+Diallo,Awa,Dermatologie,1538
+Diop,Cheikh,Chirurgie,1539
+Gueye,Ibrahima,Cardiologie,1540
+Diop,Awa,Gynecologie,1541
+Sy,Ousmane,Pediatrie,1542
+Diallo,Mamadou,Gynecologie,1543
+Sarr,Aminata,Gynecologie,1544
+Diallo,Awa,Gynecologie,1545
+Faye,Ibrahima,Pediatrie,1546
+Fall,Aminata,Pediatrie,1547
+Faye,Mamadou,Chirurgie,1548
+Sarr,Aminata,Chirurgie,1549
+Fall,Cheikh,Dermatologie,1550
+Fall,Khady,Dermatologie,1551
+Kane,Ousmane,Gynecologie,1552
+Sow,Awa,Dermatologie,1553
+Sarr,Fatou,Dermatologie,1554
+Ndiaye,Aminata,Medecine generale,1555
+Gueye,Mamadou,Cardiologie,1556
+Gueye,Ousmane,Chirurgie,1557
+Diop,Khady,Pediatrie,1558
+Diop,Khady,Dermatologie,1559
+Kane,Aminata,Medecine generale,1560
+Diallo,Ibrahima,Cardiologie,1561
+Diop,Awa,Chirurgie,1562
+Gueye,Oumar,Chirurgie,1563
+Faye,Khady,Dermatologie,1564
+Fall,Ibrahima,Cardiologie,1565
+Sow,Ousmane,Pediatrie,1566
+Sy,Abdoulaye,Cardiologie,1567
+Gueye,Ibrahima,Cardiologie,1568
+Diallo,Cheikh,Chirurgie,1569
+Gueye,Ibrahima,Medecine generale,1570
+Kane,Mamadou,Gynecologie,1571
+Kane,Awa,Gynecologie,1572
+Faye,Abdoulaye,Dermatologie,1573
+Faye,Oumar,Chirurgie,1574
+Diallo,Awa,Cardiologie,1575
+Sow,Abdoulaye,Dermatologie,1576
+Diop,Ousmane,Gynecologie,1577
+Faye,Awa,Medecine generale,1578
+Ba,Awa,Chirurgie,1579
+Diop,Moussa,Chirurgie,1580
+Sow,Moussa,Gynecologie,1581
+Kane,Ousmane,Chirurgie,1582
+Sy,Abdoulaye,Gynecologie,1583
+Sow,Moussa,Pediatrie,1584
+Kane,Ibrahima,Pediatrie,1585
+Ba,Cheikh,Chirurgie,1586
+Fall,Mariama,Pediatrie,1587
+Sarr,Khady,Dermatologie,1588
+Ba,Awa,Chirurgie,1589
+Ba,Awa,Dermatologie,1590
+Diallo,Aminata,Chirurgie,1591
+Faye,Fatou,Cardiologie,1592
+Kane,Mariama,Gynecologie,1593
+Kane,Aminata,Gynecologie,1594
+Diallo,Awa,Chirurgie,1595
+Diallo,Mamadou,Pediatrie,1596
+Ba,Cheikh,Dermatologie,1597
+Gueye,Khady,Dermatologie,1598
+Sow,Mariama,Cardiologie,1599
+Sow,Ibrahima,Chirurgie,1600
+Faye,Abdoulaye,Pediatrie,1601
+Ba,Moussa,Medecine generale,1602
+Kane,Ibrahima,Gynecologie,1603
+Diop,Mamadou,Pediatrie,1604
+Sow,Aminata,Chirurgie,1605
+Kane,Cheikh,Medecine generale,1606
+Kane,Oumar,Cardiologie,1607
+Diop,Oumar,Medecine generale,1608
+Fall,Oumar,Chirurgie,1609
+Sow,Fatou,Pediatrie,1610
+Faye,Ousmane,Dermatologie,1611
+Gueye,Awa,Gynecologie,1612
+Diallo,Awa,Medecine generale,1613
+Ndiaye,Ousmane,Cardiologie,1614
+Faye,Mamadou,Cardiologie,1615
+Fall,Oumar,Cardiologie,1616
+Ndiaye,Khady,Dermatologie,1617
+Diallo,Oumar,Gynecologie,1618
+Kane,Oumar,Dermatologie,1619
+Kane,Mamadou,Dermatologie,1620
+Ba,Ousmane,Medecine generale,1621
+Ba,Khady,Chirurgie,1622
+Kane,Cheikh,Medecine generale,1623
+Ba,Abdoulaye,Dermatologie,1624
+Faye,Oumar,Cardiologie,1625
+Gueye,Abdoulaye,Medecine generale,1626
+Fall,Cheikh,Pediatrie,1627
+Sy,Aminata,Medecine generale,1628
+Sy,Aminata,Pediatrie,1629
+Gueye,Awa,Cardiologie,1630
+Sow,Mariama,Dermatologie,1631
+Fall,Aminata,Dermatologie,1632
+Fall,Aminata,Medecine generale,1633
+Diallo,Khady,Pediatrie,1634
+Faye,Cheikh,Gynecologie,1635
+Faye,Aminata,Gynecologie,1636
+Ba,Ibrahima,Cardiologie,1637
+Kane,Khady,Dermatologie,1638
+Diallo,Aminata,Chirurgie,1639
+Sy,Khady,Chirurgie,1640
+Sarr,Mariama,Pediatrie,1641
+Diop,Ibrahima,Cardiologie,1642
+Faye,Awa,Pediatrie,1643
+Fall,Mariama,Pediatrie,1644
+Sarr,Oumar,Chirurgie,1645
+Fall,Oumar,Gynecologie,1646
+Sow,Ousmane,Cardiologie,1647
+Diallo,Awa,Chirurgie,1648
+Sow,Ibrahima,Dermatologie,1649
+Kane,Abdoulaye,Medecine generale,1650
+Sow,Moussa,Pediatrie,1651
+Sy,Oumar,Chirurgie,1652
+Sow,Moussa,Gynecologie,1653
+Diallo,Ibrahima,Dermatologie,1654
+Faye,Ousmane,Chirurgie,1655
+Fall,Moussa,Medecine generale,1656
+Sarr,Ousmane,Dermatologie,1657
+Faye,Abdoulaye,Dermatologie,1658
+Faye,Ousmane,Pediatrie,1659
+Diallo,Oumar,Medecine generale,1660
+Sy,Abdoulaye,Cardiologie,1661
+Kane,Awa,Gynecologie,1662
+Sow,Awa,Cardiologie,1663
+Kane,Mariama,Cardiologie,1664
+Diallo,Aminata,Gynecologie,1665
+Ndiaye,Aminata,Medecine generale,1666
+Diallo,Fatou,Cardiologie,1667
+Ba,Awa,Gynecologie,1668
+Ba,Awa,Chirurgie,1669
+Faye,Mamadou,Cardiologie,1670
+Diop,Abdoulaye,Chirurgie,1671
+Diallo,Moussa,Pediatrie,1672
+Ndiaye,Moussa,Pediatrie,1673
+Faye,Ousmane,Cardiologie,1674
+Ba,Aminata,Dermatologie,1675
+Diop,Awa,Medecine generale,1676
+Ndiaye,Aminata,Medecine generale,1677
+Faye,Ousmane,Pediatrie,1678
+Gueye,Fatou,Medecine generale,1679
+Sarr,Oumar,Cardiologie,1680
+Gueye,Ibrahima,Medecine generale,1681
+Sy,Awa,Medecine generale,1682
+Diop,Khady,Medecine generale,1683
+Sarr,Mariama,Chirurgie,1684
+Fall,Ibrahima,Gynecologie,1685
+Gueye,Mariama,Dermatologie,1686
+Sow,Fatou,Medecine generale,1687
+Gueye,Aminata,Chirurgie,1688
+Sarr,Abdoulaye,Gynecologie,1689
+Faye,Mamadou,Pediatrie,1690
+Sy,Moussa,Gynecologie,1691
+Diop,Fatou,Gynecologie,1692
+Ndiaye,Cheikh,Pediatrie,1693
+Ndiaye,Awa,Pediatrie,1694
+Fall,Oumar,Dermatologie,1695
+Sarr,Mamadou,Chirurgie,1696
+Kane,Moussa,Pediatrie,1697
+Diallo,Mariama,Medecine generale,1698
+Gueye,Mamadou,Cardiologie,1699
+Diallo,Ousmane,Gynecologie,1700
+Fall,Mamadou,Cardiologie,1701
+Ba,Ousmane,Medecine generale,1702
+Fall,Ibrahima,Chirurgie,1703
+Ba,Awa,Gynecologie,1704
+Ba,Oumar,Dermatologie,1705
+Fall,Oumar,Cardiologie,1706
+Kane,Mamadou,Dermatologie,1707
+Diallo,Cheikh,Pediatrie,1708
+Diop,Fatou,Cardiologie,1709
+Gueye,Oumar,Cardiologie,1710
+Ba,Abdoulaye,Dermatologie,1711
+Diallo,Ousmane,Dermatologie,1712
+Diallo,Ousmane,Pediatrie,1713
+Ba,Moussa,Gynecologie,1714
+Faye,Mariama,Gynecologie,1715
+Gueye,Khady,Chirurgie,1716
+Kane,Mariama,Medecine generale,1717
+Gueye,Cheikh,Dermatologie,1718
+Faye,Abdoulaye,Pediatrie,1719
+Ndiaye,Fatou,Cardiologie,1720
+Ba,Ibrahima,Pediatrie,1721
+Diallo,Mariama,Dermatologie,1722
+Faye,Mariama,Cardiologie,1723
+Diop,Mariama,Gynecologie,1724
+Fall,Aminata,Gynecologie,1725
+Ndiaye,Ibrahima,Cardiologie,1726
+Sarr,Awa,Gynecologie,1727
+Diallo,Ousmane,Cardiologie,1728
+Fall,Ibrahima,Dermatologie,1729
+Faye,Fatou,Cardiologie,1730
+Faye,Moussa,Gynecologie,1731
+Sow,Cheikh,Medecine generale,1732
+Sy,Ousmane,Chirurgie,1733
+Diallo,Moussa,Pediatrie,1734
+Gueye,Aminata,Gynecologie,1735
+Kane,Aminata,Cardiologie,1736
+Ndiaye,Ibrahima,Cardiologie,1737
+Sarr,Mariama,Pediatrie,1738
+Sarr,Fatou,Dermatologie,1739
+Faye,Cheikh,Medecine generale,1740
+Faye,Fatou,Gynecologie,1741
+Kane,Moussa,Pediatrie,1742
+Ndiaye,Aminata,Pediatrie,1743
+Kane,Cheikh,Gynecologie,1744
+Fall,Aminata,Medecine generale,1745
+Kane,Mariama,Dermatologie,1746
+Faye,Oumar,Medecine generale,1747
+Diop,Awa,Dermatologie,1748
+Ba,Ousmane,Gynecologie,1749
+Sy,Cheikh,Cardiologie,1750
+Gueye,Mariama,Pediatrie,1751
+Fall,Fatou,Gynecologie,1752
+Sow,Ousmane,Gynecologie,1753
+Kane,Abdoulaye,Gynecologie,1754
+Faye,Awa,Dermatologie,1755
+Ndiaye,Khady,Chirurgie,1756
+Sarr,Cheikh,Gynecologie,1757
+Sarr,Aminata,Medecine generale,1758
+Gueye,Khady,Medecine generale,1759
+Ndiaye,Aminata,Gynecologie,1760
+Sarr,Aminata,Chirurgie,1761
+Sy,Cheikh,Pediatrie,1762
+Kane,Moussa,Medecine generale,1763
+Ba,Moussa,Dermatologie,1764
+Ndiaye,Mamadou,Cardiologie,1765
+Ba,Fatou,Pediatrie,1766
+Kane,Mamadou,Pediatrie,1767
+Diallo,Oumar,Cardiologie,1768
+Ba,Fatou,Pediatrie,1769
+Ndiaye,Awa,Dermatologie,1770
+Ba,Moussa,Medecine generale,1771
+Ba,Mamadou,Medecine generale,1772
+Gueye,Moussa,Pediatrie,1773
+Sy,Khady,Chirurgie,1774
+Ndiaye,Aminata,Dermatologie,1775
+Gueye,Mariama,Dermatologie,1776
+Kane,Ibrahima,Gynecologie,1777
+Gueye,Ibrahima,Cardiologie,1778
+Diallo,Awa,Chirurgie,1779
+Ba,Moussa,Pediatrie,1780
+Ndiaye,Ousmane,Medecine generale,1781
+Sow,Mariama,Cardiologie,1782
+Sarr,Mariama,Dermatologie,1783
+Fall,Oumar,Cardiologie,1784
+Ndiaye,Mariama,Chirurgie,1785
+Gueye,Mariama,Dermatologie,1786
+Gueye,Aminata,Medecine generale,1787
+Sow,Aminata,Pediatrie,1788
+Ndiaye,Khady,Pediatrie,1789
+Diallo,Mariama,Pediatrie,1790
+Ba,Oumar,Medecine generale,1791
+Diallo,Abdoulaye,Chirurgie,1792
+Sy,Awa,Gynecologie,1793
+Faye,Ousmane,Pediatrie,1794
+Sow,Mamadou,Gynecologie,1795
+Ba,Awa,Dermatologie,1796
+Sy,Cheikh,Medecine generale,1797
+Diop,Awa,Pediatrie,1798
+Kane,Mariama,Cardiologie,1799
+Sy,Ibrahima,Medecine generale,1800
+Diallo,Aminata,Gynecologie,1801
+Sow,Cheikh,Chirurgie,1802
+Faye,Ousmane,Dermatologie,1803
+Faye,Oumar,Gynecologie,1804
+Diop,Awa,Cardiologie,1805
+Diallo,Khady,Dermatologie,1806
+Ndiaye,Cheikh,Pediatrie,1807
+Sarr,Ousmane,Dermatologie,1808
+Ba,Ousmane,Dermatologie,1809
+Sow,Mariama,Pediatrie,1810
+Faye,Moussa,Pediatrie,1811
+Diop,Oumar,Chirurgie,1812
+Ndiaye,Moussa,Cardiologie,1813
+Diallo,Aminata,Chirurgie,1814
+Kane,Awa,Cardiologie,1815
+Faye,Ousmane,Pediatrie,1816
+Sy,Moussa,Medecine generale,1817
+Diop,Cheikh,Cardiologie,1818
+Kane,Moussa,Pediatrie,1819
+Ndiaye,Ousmane,Gynecologie,1820
+Faye,Ibrahima,Chirurgie,1821
+Sow,Moussa,Gynecologie,1822
+Sarr,Mamadou,Gynecologie,1823
+Ba,Moussa,Dermatologie,1824
+Sarr,Khady,Dermatologie,1825
+Kane,Oumar,Cardiologie,1826
+Diallo,Ousmane,Pediatrie,1827
+Gueye,Mariama,Gynecologie,1828
+Ndiaye,Ousmane,Gynecologie,1829
+Kane,Mariama,Pediatrie,1830
+Sarr,Moussa,Chirurgie,1831
+Sy,Awa,Medecine generale,1832
+Fall,Ibrahima,Dermatologie,1833
+Faye,Awa,Dermatologie,1834
+Faye,Ousmane,Pediatrie,1835
+Sy,Ibrahima,Medecine generale,1836
+Diop,Oumar,Medecine generale,1837
+Ndiaye,Cheikh,Pediatrie,1838
+Gueye,Ousmane,Medecine generale,1839
+Gueye,Ibrahima,Dermatologie,1840
+Kane,Khady,Cardiologie,1841
+Kane,Awa,Pediatrie,1842
+Fall,Oumar,Chirurgie,1843
+Diop,Fatou,Chirurgie,1844
+Gueye,Fatou,Dermatologie,1845
+Diallo,Ousmane,Pediatrie,1846
+Kane,Mamadou,Gynecologie,1847
+Sy,Fatou,Dermatologie,1848
+Kane,Abdoulaye,Medecine generale,1849
+Kane,Cheikh,Cardiologie,1850
+Sy,Ibrahima,Gynecologie,1851
+Fall,Cheikh,Dermatologie,1852
+Ndiaye,Oumar,Chirurgie,1853
+Faye,Khady,Pediatrie,1854
+Gueye,Aminata,Medecine generale,1855
+Diallo,Abdoulaye,Dermatologie,1856
+Diop,Moussa,Medecine generale,1857
+Sy,Aminata,Medecine generale,1858
+Sow,Awa,Cardiologie,1859
+Sy,Aminata,Pediatrie,1860
+Diop,Abdoulaye,Cardiologie,1861
+Gueye,Aminata,Pediatrie,1862
+Fall,Ousmane,Chirurgie,1863
+Diop,Abdoulaye,Cardiologie,1864
+Ba,Khady,Gynecologie,1865
+Ba,Awa,Cardiologie,1866
+Kane,Mariama,Cardiologie,1867
+Kane,Moussa,Gynecologie,1868
+Ndiaye,Mariama,Chirurgie,1869
+Faye,Mariama,Cardiologie,1870
+Fall,Ibrahima,Pediatrie,1871
+Sow,Mariama,Medecine generale,1872
+Diallo,Khady,Chirurgie,1873
+Kane,Awa,Dermatologie,1874
+Ndiaye,Fatou,Medecine generale,1875
+Diop,Fatou,Medecine generale,1876
+Faye,Fatou,Gynecologie,1877
+Fall,Awa,Pediatrie,1878
+Diop,Cheikh,Cardiologie,1879
+Kane,Abdoulaye,Chirurgie,1880
+Sarr,Mamadou,Pediatrie,1881
+Sy,Fatou,Pediatrie,1882
+Fall,Aminata,Cardiologie,1883
+Gueye,Mamadou,Pediatrie,1884
+Diop,Ibrahima,Dermatologie,1885
+Sow,Aminata,Medecine generale,1886
+Sarr,Awa,Cardiologie,1887
+Faye,Moussa,Chirurgie,1888
+Sow,Aminata,Medecine generale,1889
+Sow,Cheikh,Cardiologie,1890
+Diallo,Moussa,Pediatrie,1891
+Ndiaye,Ousmane,Cardiologie,1892
+Diallo,Mariama,Medecine generale,1893
+Ba,Moussa,Dermatologie,1894
+Diallo,Ibrahima,Gynecologie,1895
+Diop,Awa,Dermatologie,1896
+Ndiaye,Oumar,Gynecologie,1897
+Sy,Moussa,Medecine generale,1898
+Diallo,Mariama,Pediatrie,1899
+Faye,Ibrahima,Pediatrie,1900
+Ba,Fatou,Chirurgie,1901
+Ba,Ibrahima,Cardiologie,1902
+Diop,Fatou,Pediatrie,1903
+Sow,Fatou,Cardiologie,1904
+Sow,Ousmane,Medecine generale,1905
+Sy,Aminata,Medecine generale,1906
+Kane,Cheikh,Chirurgie,1907
+Diallo,Oumar,Chirurgie,1908
+Sarr,Ibrahima,Gynecologie,1909
+Gueye,Moussa,Medecine generale,1910
+Faye,Awa,Pediatrie,1911
+Sow,Oumar,Cardiologie,1912
+Sy,Mariama,Gynecologie,1913
+Diallo,Awa,Pediatrie,1914
+Faye,Ibrahima,Gynecologie,1915
+Sy,Mariama,Pediatrie,1916
+Kane,Oumar,Dermatologie,1917
+Sow,Moussa,Medecine generale,1918
+Gueye,Cheikh,Medecine generale,1919
+Ndiaye,Moussa,Pediatrie,1920
+Ndiaye,Ousmane,Medecine generale,1921
+Sow,Cheikh,Pediatrie,1922
+Faye,Ousmane,Pediatrie,1923
+Sy,Mamadou,Medecine generale,1924
+Ba,Cheikh,Gynecologie,1925
+Sarr,Aminata,Gynecologie,1926
+Sow,Cheikh,Medecine generale,1927
+Ba,Aminata,Chirurgie,1928
+Ba,Mariama,Pediatrie,1929
+Gueye,Mamadou,Gynecologie,1930
+Diop,Abdoulaye,Gynecologie,1931
+Diallo,Khady,Dermatologie,1932
+Gueye,Ousmane,Dermatologie,1933
+Faye,Mariama,Dermatologie,1934
+Ndiaye,Cheikh,Cardiologie,1935
+Fall,Moussa,Chirurgie,1936
+Gueye,Fatou,Gynecologie,1937
+Ndiaye,Oumar,Gynecologie,1938
+Fall,Oumar,Dermatologie,1939
+Sarr,Abdoulaye,Pediatrie,1940
+Ba,Cheikh,Pediatrie,1941
+Ndiaye,Aminata,Cardiologie,1942
+Fall,Fatou,Gynecologie,1943
+Faye,Mamadou,Gynecologie,1944
+Gueye,Mariama,Gynecologie,1945
+Ba,Moussa,Pediatrie,1946
+Ndiaye,Awa,Dermatologie,1947
+Ndiaye,Mariama,Pediatrie,1948
+Gueye,Mamadou,Medecine generale,1949
+Ndiaye,Awa,Gynecologie,1950
+Diop,Fatou,Gynecologie,1951
+Fall,Ibrahima,Pediatrie,1952
+Gueye,Awa,Pediatrie,1953
+Sarr,Ousmane,Medecine generale,1954
+Diallo,Fatou,Medecine generale,1955
+Gueye,Ousmane,Pediatrie,1956
+Sy,Abdoulaye,Pediatrie,1957
+Diallo,Ibrahima,Chirurgie,1958
+Sy,Khady,Dermatologie,1959
+Kane,Mariama,Pediatrie,1960
+Sarr,Ibrahima,Dermatologie,1961
+Ba,Abdoulaye,Medecine generale,1962
+Ndiaye,Ibrahima,Medecine generale,1963
+Sow,Moussa,Gynecologie,1964
+Sow,Mamadou,Cardiologie,1965
+Diallo,Awa,Gynecologie,1966
+Fall,Mamadou,Chirurgie,1967
+Fall,Mamadou,Pediatrie,1968
+Sarr,Mamadou,Cardiologie,1969
+Sow,Moussa,Medecine generale,1970
+Sarr,Moussa,Pediatrie,1971
+Ndiaye,Oumar,Dermatologie,1972
+Diop,Ibrahima,Gynecologie,1973
+Ndiaye,Khady,Cardiologie,1974
+Ba,Cheikh,Cardiologie,1975
+Sow,Oumar,Pediatrie,1976
+Sow,Moussa,Medecine generale,1977
+Fall,Ibrahima,Medecine generale,1978
+Gueye,Mariama,Pediatrie,1979
+Sarr,Mariama,Medecine generale,1980
+Kane,Moussa,Dermatologie,1981
+Faye,Ibrahima,Medecine generale,1982
+Ba,Abdoulaye,Dermatologie,1983
+Diallo,Abdoulaye,Chirurgie,1984
+Sarr,Aminata,Pediatrie,1985
+Faye,Abdoulaye,Pediatrie,1986
+Diop,Cheikh,Cardiologie,1987
+Sarr,Fatou,Chirurgie,1988
+Faye,Khady,Chirurgie,1989
+Gueye,Mamadou,Pediatrie,1990
+Sarr,Awa,Gynecologie,1991
+Sy,Abdoulaye,Cardiologie,1992
+Ndiaye,Abdoulaye,Medecine generale,1993
+Diallo,Ousmane,Cardiologie,1994
+Gueye,Mamadou,Gynecologie,1995
+Ba,Fatou,Chirurgie,1996
+Diallo,Ibrahima,Cardiologie,1997
+Sy,Ibrahima,Gynecologie,1998
+Fall,Ousmane,Pediatrie,1999
+Sarr,Ibrahima,Chirurgie,2000
+Sarr,Ibrahima,Gynecologie,2001
+Diallo,Mamadou,Chirurgie,2002
+Kane,Awa,Gynecologie,2003
+Sy,Fatou,Pediatrie,2004
+Sow,Awa,Pediatrie,2005
+Kane,Cheikh,Dermatologie,2006
+Ndiaye,Abdoulaye,Chirurgie,2007
+Diallo,Moussa,Chirurgie,2008
+Faye,Khady,Chirurgie,2009
+Faye,Awa,Pediatrie,2010
+Sow,Awa,Chirurgie,2011
+Ndiaye,Ibrahima,Medecine generale,2012
+Diop,Khady,Gynecologie,2013
+Sarr,Oumar,Gynecologie,2014
+Ba,Fatou,Medecine generale,2015
+Fall,Ibrahima,Gynecologie,2016
+Diallo,Ousmane,Gynecologie,2017
+Diop,Aminata,Gynecologie,2018
+Sy,Fatou,Medecine generale,2019
+Ba,Oumar,Chirurgie,2020
+Ba,Fatou,Pediatrie,2021
+Ndiaye,Abdoulaye,Gynecologie,2022
+Sow,Mariama,Medecine generale,2023
+Diop,Moussa,Gynecologie,2024
+Diop,Cheikh,Gynecologie,2025
+Ndiaye,Ousmane,Pediatrie,2026
+Gueye,Ousmane,Pediatrie,2027
+Fall,Fatou,Cardiologie,2028
+Gueye,Oumar,Medecine generale,2029
+Sow,Mariama,Medecine generale,2030
+Ba,Ibrahima,Gynecologie,2031
+Sy,Ousmane,Cardiologie,2032
+Kane,Cheikh,Dermatologie,2033
+Sow,Ousmane,Dermatologie,2034
+Kane,Cheikh,Gynecologie,2035
+Ndiaye,Aminata,Pediatrie,2036
+Gueye,Mariama,Pediatrie,2037
+Gueye,Fatou,Medecine generale,2038
+Sy,Abdoulaye,Chirurgie,2039
+Diop,Ousmane,Gynecologie,2040
+Ba,Mariama,Gynecologie,2041
+Ndiaye,Moussa,Gynecologie,2042
+Ba,Mamadou,Chirurgie,2043
+Sow,Oumar,Dermatologie,2044
+Sy,Mariama,Dermatologie,2045
+Sow,Mariama,Medecine generale,2046
+Sy,Fatou,Chirurgie,2047
+Sow,Ibrahima,Chirurgie,2048
+Diop,Oumar,Chirurgie,2049
+Diallo,Ibrahima,Cardiologie,2050
+Ndiaye,Cheikh,Gynecologie,2051
+Diallo,Ibrahima,Medecine generale,2052
+Fall,Awa,Pediatrie,2053
+Gueye,Ousmane,Chirurgie,2054
+Gueye,Mariama,Pediatrie,2055
+Diallo,Mamadou,Chirurgie,2056
+Sow,Fatou,Medecine generale,2057
+Sarr,Abdoulaye,Chirurgie,2058
+Fall,Fatou,Dermatologie,2059
+Diallo,Ousmane,Medecine generale,2060
+Sy,Oumar,Cardiologie,2061
+Sy,Aminata,Chirurgie,2062
+Ndiaye,Moussa,Pediatrie,2063
+Gueye,Khady,Pediatrie,2064
+Diallo,Mamadou,Chirurgie,2065
+Diop,Oumar,Chirurgie,2066
+Ndiaye,Mamadou,Chirurgie,2067
+Faye,Khady,Pediatrie,2068
+Diallo,Mariama,Medecine generale,2069
+Kane,Mamadou,Medecine generale,2070
+Sy,Khady,Chirurgie,2071
+Ndiaye,Cheikh,Pediatrie,2072
+Kane,Abdoulaye,Chirurgie,2073
+Diallo,Oumar,Pediatrie,2074
+Gueye,Abdoulaye,Chirurgie,2075
+Diop,Abdoulaye,Medecine generale,2076
+Kane,Ousmane,Medecine generale,2077
+Sow,Fatou,Dermatologie,2078
+Fall,Cheikh,Cardiologie,2079
+Fall,Mamadou,Pediatrie,2080
+Sow,Cheikh,Dermatologie,2081
+Ndiaye,Khady,Medecine generale,2082
+Diop,Ibrahima,Gynecologie,2083
+Diop,Cheikh,Dermatologie,2084
+Sy,Awa,Chirurgie,2085
+Fall,Khady,Chirurgie,2086
+Sy,Mamadou,Dermatologie,2087
+Sarr,Mariama,Medecine generale,2088
+Diallo,Cheikh,Gynecologie,2089
+Sow,Oumar,Gynecologie,2090
+Diop,Moussa,Chirurgie,2091
+Diallo,Abdoulaye,Gynecologie,2092
+Diallo,Awa,Chirurgie,2093
+Sarr,Aminata,Dermatologie,2094
+Diallo,Aminata,Gynecologie,2095
+Kane,Ousmane,Chirurgie,2096
+Kane,Mamadou,Medecine generale,2097
+Ba,Fatou,Pediatrie,2098
+Sarr,Khady,Dermatologie,2099
+Ndiaye,Cheikh,Pediatrie,2100
+Gueye,Moussa,Gynecologie,2101
+Kane,Abdoulaye,Medecine generale,2102
+Kane,Aminata,Chirurgie,2103
+Sow,Mamadou,Cardiologie,2104
+Sy,Fatou,Gynecologie,2105
+Diallo,Ousmane,Pediatrie,2106
+Diallo,Ibrahima,Gynecologie,2107
+Fall,Cheikh,Medecine generale,2108
+Diop,Khady,Chirurgie,2109
+Diallo,Fatou,Gynecologie,2110
+Faye,Cheikh,Chirurgie,2111
+Kane,Fatou,Dermatologie,2112
+Kane,Moussa,Medecine generale,2113
+Diallo,Ousmane,Medecine generale,2114
+Diallo,Mariama,Chirurgie,2115
+Ba,Cheikh,Gynecologie,2116
+Sow,Awa,Dermatologie,2117
+Gueye,Fatou,Medecine generale,2118
+Sow,Aminata,Chirurgie,2119
+Gueye,Abdoulaye,Pediatrie,2120
+Kane,Oumar,Medecine generale,2121
+Diallo,Mariama,Cardiologie,2122
+Ndiaye,Fatou,Gynecologie,2123
+Sarr,Awa,Pediatrie,2124
+Fall,Moussa,Dermatologie,2125
+Gueye,Abdoulaye,Medecine generale,2126
+Diop,Cheikh,Pediatrie,2127
+Diop,Fatou,Pediatrie,2128
+Sow,Oumar,Pediatrie,2129
+Sow,Mamadou,Pediatrie,2130
+Ndiaye,Fatou,Pediatrie,2131
+Diallo,Aminata,Medecine generale,2132
+Diop,Abdoulaye,Chirurgie,2133
+Ba,Moussa,Cardiologie,2134
+Diallo,Khady,Gynecologie,2135
+Ba,Awa,Dermatologie,2136
+Faye,Cheikh,Dermatologie,2137
+Sy,Fatou,Chirurgie,2138
+Diallo,Ibrahima,Chirurgie,2139
+Sarr,Fatou,Gynecologie,2140
+Kane,Khady,Cardiologie,2141
+Faye,Moussa,Gynecologie,2142
+Ndiaye,Fatou,Pediatrie,2143
+Kane,Oumar,Gynecologie,2144
+Faye,Awa,Chirurgie,2145
+Gueye,Fatou,Chirurgie,2146
+Diop,Oumar,Gynecologie,2147
+Fall,Ousmane,Dermatologie,2148
+Fall,Moussa,Chirurgie,2149
+Diallo,Awa,Gynecologie,2150
+Ndiaye,Khady,Medecine generale,2151
+Sarr,Khady,Cardiologie,2152
+Sy,Ibrahima,Medecine generale,2153
+Diallo,Aminata,Cardiologie,2154
+Ba,Mamadou,Gynecologie,2155
+Fall,Abdoulaye,Gynecologie,2156
+Sow,Abdoulaye,Gynecologie,2157
+Fall,Ibrahima,Dermatologie,2158
+Fall,Moussa,Pediatrie,2159
+Faye,Moussa,Pediatrie,2160
+Fall,Ousmane,Chirurgie,2161
+Diallo,Aminata,Dermatologie,2162
+Ba,Ousmane,Gynecologie,2163
+Ndiaye,Awa,Pediatrie,2164
+Sy,Oumar,Dermatologie,2165
+Sow,Khady,Gynecologie,2166
+Ba,Ibrahima,Chirurgie,2167
+Diallo,Fatou,Pediatrie,2168
+Diop,Mamadou,Gynecologie,2169
+Sy,Ousmane,Medecine generale,2170
+Sow,Abdoulaye,Chirurgie,2171
+Faye,Fatou,Medecine generale,2172
+Sarr,Mariama,Gynecologie,2173
+Sy,Ousmane,Chirurgie,2174
+Diallo,Fatou,Medecine generale,2175
+Sow,Khady,Chirurgie,2176
+Gueye,Mariama,Cardiologie,2177
+Kane,Fatou,Gynecologie,2178
+Diallo,Aminata,Gynecologie,2179
+Sy,Ousmane,Cardiologie,2180
+Sarr,Moussa,Medecine generale,2181
+Diallo,Ousmane,Pediatrie,2182
+Fall,Mamadou,Gynecologie,2183
+Sy,Fatou,Gynecologie,2184
+Sarr,Ousmane,Chirurgie,2185
+Ndiaye,Awa,Chirurgie,2186
+Fall,Ousmane,Cardiologie,2187
+Sarr,Moussa,Cardiologie,2188
+Gueye,Moussa,Gynecologie,2189
+Gueye,Mamadou,Chirurgie,2190
+Sy,Cheikh,Dermatologie,2191
+Gueye,Ibrahima,Chirurgie,2192
+Diallo,Moussa,Gynecologie,2193
+Sy,Ousmane,Dermatologie,2194
+Gueye,Ousmane,Medecine generale,2195
+Sarr,Khady,Pediatrie,2196
+Kane,Mamadou,Gynecologie,2197
+Sow,Khady,Chirurgie,2198
+Diallo,Mamadou,Dermatologie,2199
+Sarr,Khady,Medecine generale,2200
+Ba,Khady,Pediatrie,2201
+Diop,Moussa,Medecine generale,2202
+Fall,Fatou,Chirurgie,2203
+Diop,Ibrahima,Gynecologie,2204
+Diallo,Fatou,Medecine generale,2205
+Sarr,Mariama,Gynecologie,2206
+Sarr,Moussa,Pediatrie,2207
+Ba,Awa,Pediatrie,2208
+Kane,Moussa,Pediatrie,2209
+Diallo,Ibrahima,Gynecologie,2210
+Gueye,Khady,Chirurgie,2211
+Fall,Oumar,Medecine generale,2212
+Diop,Ibrahima,Dermatologie,2213
+Diop,Ousmane,Gynecologie,2214
+Sy,Aminata,Chirurgie,2215
+Diallo,Aminata,Chirurgie,2216
+Sarr,Khady,Pediatrie,2217
+Fall,Fatou,Gynecologie,2218
+Kane,Cheikh,Gynecologie,2219
+Diop,Mariama,Cardiologie,2220
+Ba,Oumar,Dermatologie,2221
+Sy,Khady,Pediatrie,2222
+Diallo,Moussa,Pediatrie,2223
+Ba,Aminata,Gynecologie,2224
+Fall,Awa,Medecine generale,2225
+Sy,Ibrahima,Medecine generale,2226
+Faye,Fatou,Cardiologie,2227
+Sow,Ibrahima,Dermatologie,2228
+Diop,Fatou,Chirurgie,2229
+Sarr,Oumar,Chirurgie,2230
+Faye,Mariama,Dermatologie,2231
+Faye,Ousmane,Dermatologie,2232
+Diallo,Mamadou,Medecine generale,2233
+Fall,Awa,Pediatrie,2234
+Kane,Awa,Cardiologie,2235
+Ndiaye,Ousmane,Cardiologie,2236
+Sy,Moussa,Gynecologie,2237
+Fall,Moussa,Gynecologie,2238
+Kane,Aminata,Cardiologie,2239
+Fall,Awa,Gynecologie,2240
+Sarr,Oumar,Dermatologie,2241
+Ba,Ousmane,Pediatrie,2242
+Sy,Moussa,Medecine generale,2243
+Kane,Cheikh,Pediatrie,2244
+Sy,Moussa,Pediatrie,2245
+Diallo,Moussa,Cardiologie,2246
+Diallo,Mariama,Pediatrie,2247
+Ndiaye,Oumar,Gynecologie,2248
+Sarr,Abdoulaye,Medecine generale,2249
+Diallo,Mamadou,Dermatologie,2250
+Sarr,Oumar,Pediatrie,2251
+Diop,Khady,Cardiologie,2252
+Sow,Ousmane,Pediatrie,2253
+Faye,Mamadou,Dermatologie,2254
+Fall,Oumar,Chirurgie,2255
+Faye,Abdoulaye,Gynecologie,2256
+Sow,Mamadou,Gynecologie,2257
+Ndiaye,Ibrahima,Dermatologie,2258
+Diop,Awa,Gynecologie,2259
+Faye,Khady,Cardiologie,2260
+Sy,Aminata,Chirurgie,2261
+Fall,Ousmane,Cardiologie,2262
+Fall,Aminata,Chirurgie,2263
+Sy,Cheikh,Medecine generale,2264
+Kane,Khady,Cardiologie,2265
+Sarr,Ibrahima,Dermatologie,2266
+Kane,Oumar,Chirurgie,2267
+Kane,Cheikh,Medecine generale,2268
+Gueye,Fatou,Gynecologie,2269
+Sow,Aminata,Gynecologie,2270
+Ndiaye,Cheikh,Gynecologie,2271
+Ba,Khady,Medecine generale,2272
+Diop,Moussa,Medecine generale,2273
+Diop,Aminata,Cardiologie,2274
+Fall,Khady,Chirurgie,2275
+Fall,Aminata,Cardiologie,2276
+Ndiaye,Ibrahima,Pediatrie,2277
+Sarr,Mariama,Medecine generale,2278
+Diop,Oumar,Gynecologie,2279
+Ndiaye,Cheikh,Medecine generale,2280
+Sow,Abdoulaye,Medecine generale,2281
+Diop,Ibrahima,Pediatrie,2282
+Ba,Ibrahima,Gynecologie,2283
+Kane,Abdoulaye,Gynecologie,2284
+Ba,Mariama,Pediatrie,2285
+Sy,Mariama,Gynecologie,2286
+Fall,Mariama,Pediatrie,2287
+Sy,Mariama,Pediatrie,2288
+Ba,Cheikh,Chirurgie,2289
+Fall,Mariama,Gynecologie,2290
+Kane,Aminata,Gynecologie,2291
+Fall,Khady,Gynecologie,2292
+Ndiaye,Abdoulaye,Medecine generale,2293
+Faye,Mamadou,Cardiologie,2294
+Sow,Oumar,Cardiologie,2295
+Diop,Mariama,Chirurgie,2296
+Faye,Khady,Gynecologie,2297
+Kane,Ibrahima,Medecine generale,2298
+Faye,Ousmane,Cardiologie,2299
+Faye,Awa,Chirurgie,2300
+Ndiaye,Abdoulaye,Chirurgie,2301
+Sy,Khady,Cardiologie,2302
+Ndiaye,Mariama,Dermatologie,2303
+Fall,Mariama,Pediatrie,2304
+Sy,Aminata,Cardiologie,2305
+Sy,Ibrahima,Gynecologie,2306
+Sow,Ibrahima,Gynecologie,2307
+Ba,Mamadou,Pediatrie,2308
+Diop,Moussa,Dermatologie,2309
+Ba,Cheikh,Pediatrie,2310
+Sy,Fatou,Medecine generale,2311
+Sarr,Mariama,Chirurgie,2312
+Kane,Awa,Pediatrie,2313
+Diop,Awa,Cardiologie,2314
+Kane,Ibrahima,Medecine generale,2315
+Sow,Oumar,Cardiologie,2316
+Sy,Khady,Pediatrie,2317
+Gueye,Oumar,Dermatologie,2318
+Ndiaye,Awa,Chirurgie,2319
+Ndiaye,Mamadou,Cardiologie,2320
+Diallo,Fatou,Dermatologie,2321
+Diop,Khady,Dermatologie,2322
+Gueye,Fatou,Pediatrie,2323
+Diop,Mariama,Gynecologie,2324
+Fall,Moussa,Cardiologie,2325
+Fall,Abdoulaye,Gynecologie,2326
+Kane,Ibrahima,Medecine generale,2327
+Ndiaye,Aminata,Gynecologie,2328
+Diallo,Awa,Gynecologie,2329
+Ba,Oumar,Cardiologie,2330
+Ndiaye,Aminata,Dermatologie,2331
+Fall,Fatou,Gynecologie,2332
+Faye,Mamadou,Pediatrie,2333
+Ba,Mamadou,Cardiologie,2334
+Sy,Mamadou,Pediatrie,2335
+Ndiaye,Awa,Chirurgie,2336
+Diallo,Abdoulaye,Dermatologie,2337
+Sy,Aminata,Chirurgie,2338
+Gueye,Fatou,Gynecologie,2339
+Fall,Ibrahima,Gynecologie,2340
+Sy,Awa,Dermatologie,2341
+Sow,Cheikh,Medecine generale,2342
+Diop,Mamadou,Cardiologie,2343
+Kane,Ousmane,Cardiologie,2344
+Ba,Mamadou,Gynecologie,2345
+Sow,Ousmane,Medecine generale,2346
+Ba,Oumar,Pediatrie,2347
+Diallo,Abdoulaye,Cardiologie,2348
+Fall,Cheikh,Pediatrie,2349
+Sow,Cheikh,Chirurgie,2350
+Sarr,Mariama,Dermatologie,2351
+Sarr,Ibrahima,Chirurgie,2352
+Sy,Fatou,Gynecologie,2353
+Sarr,Moussa,Gynecologie,2354
+Diallo,Aminata,Gynecologie,2355
+Sarr,Abdoulaye,Medecine generale,2356
+Sy,Fatou,Dermatologie,2357
+Fall,Mariama,Medecine generale,2358
+Diop,Oumar,Chirurgie,2359
+Kane,Mariama,Chirurgie,2360
+Diop,Ousmane,Dermatologie,2361
+Sy,Fatou,Pediatrie,2362
+Ba,Khady,Cardiologie,2363
+Diallo,Fatou,Medecine generale,2364
+Diallo,Cheikh,Medecine generale,2365
+Faye,Cheikh,Gynecologie,2366
+Fall,Ibrahima,Cardiologie,2367
+Ndiaye,Fatou,Medecine generale,2368
+Faye,Mariama,Dermatologie,2369
+Faye,Abdoulaye,Cardiologie,2370
+Ndiaye,Oumar,Dermatologie,2371
+Faye,Abdoulaye,Cardiologie,2372
+Ba,Ibrahima,Pediatrie,2373
+Sy,Cheikh,Gynecologie,2374
+Sow,Ousmane,Dermatologie,2375
+Faye,Cheikh,Medecine generale,2376
+Sy,Moussa,Gynecologie,2377
+Ndiaye,Mamadou,Medecine generale,2378
+Diop,Mamadou,Chirurgie,2379
+Sy,Oumar,Medecine generale,2380
+Ba,Ibrahima,Dermatologie,2381
+Diop,Fatou,Medecine generale,2382
+Ba,Abdoulaye,Medecine generale,2383
+Faye,Ousmane,Cardiologie,2384
+Sow,Oumar,Chirurgie,2385
+Ndiaye,Ousmane,Gynecologie,2386
+Gueye,Awa,Gynecologie,2387
+Kane,Mariama,Chirurgie,2388
+Ndiaye,Mariama,Cardiologie,2389
+Diop,Ousmane,Dermatologie,2390
+Ndiaye,Khady,Cardiologie,2391
+Ba,Khady,Pediatrie,2392
+Ndiaye,Khady,Gynecologie,2393
+Kane,Awa,Gynecologie,2394
+Sarr,Ousmane,Gynecologie,2395
+Faye,Abdoulaye,Cardiologie,2396
+Ndiaye,Abdoulaye,Cardiologie,2397
+Sarr,Abdoulaye,Medecine generale,2398
+Sow,Cheikh,Chirurgie,2399
+Faye,Fatou,Medecine generale,2400
+Kane,Mariama,Pediatrie,2401
+Ndiaye,Oumar,Cardiologie,2402
+Diop,Abdoulaye,Medecine generale,2403
+Sow,Oumar,Cardiologie,2404
+Diop,Mamadou,Pediatrie,2405
+Faye,Mariama,Chirurgie,2406
+Sow,Khady,Cardiologie,2407
+Kane,Moussa,Dermatologie,2408
+Ndiaye,Oumar,Dermatologie,2409
+Sy,Ibrahima,Gynecologie,2410
+Ndiaye,Ibrahima,Cardiologie,2411
+Ndiaye,Khady,Pediatrie,2412
+Fall,Khady,Dermatologie,2413
+Diop,Oumar,Dermatologie,2414
+Sy,Oumar,Medecine generale,2415
+Gueye,Awa,Chirurgie,2416
+Fall,Mamadou,Pediatrie,2417
+Sow,Khady,Medecine generale,2418
+Sow,Mariama,Cardiologie,2419
+Gueye,Moussa,Gynecologie,2420
+Diop,Oumar,Pediatrie,2421
+Kane,Oumar,Dermatologie,2422
+Ndiaye,Fatou,Medecine generale,2423
+Ba,Moussa,Chirurgie,2424
+Ndiaye,Ousmane,Pediatrie,2425
+Ba,Ousmane,Medecine generale,2426
+Ba,Ibrahima,Pediatrie,2427
+Sow,Moussa,Pediatrie,2428
+Ndiaye,Cheikh,Dermatologie,2429
+Faye,Moussa,Cardiologie,2430
+Sow,Khady,Medecine generale,2431
+Sy,Aminata,Gynecologie,2432
+Kane,Awa,Gynecologie,2433
+Fall,Moussa,Gynecologie,2434
+Diallo,Mariama,Dermatologie,2435
+Ba,Aminata,Cardiologie,2436
+Sow,Mamadou,Pediatrie,2437
+Diop,Fatou,Cardiologie,2438
+Kane,Abdoulaye,Medecine generale,2439
+Ndiaye,Mamadou,Medecine generale,2440
+Kane,Moussa,Chirurgie,2441
+Sow,Ibrahima,Chirurgie,2442
+Sow,Fatou,Dermatologie,2443
+Kane,Moussa,Chirurgie,2444
+Diallo,Awa,Pediatrie,2445
+Ba,Ibrahima,Chirurgie,2446
+Gueye,Ousmane,Cardiologie,2447
+Fall,Abdoulaye,Chirurgie,2448
+Sarr,Ousmane,Medecine generale,2449
+Diop,Cheikh,Gynecologie,2450
+Ba,Oumar,Medecine generale,2451
+Diallo,Cheikh,Chirurgie,2452
+Gueye,Fatou,Pediatrie,2453
+Faye,Aminata,Gynecologie,2454
+Sow,Mariama,Medecine generale,2455
+Sarr,Ousmane,Chirurgie,2456
+Sarr,Mamadou,Cardiologie,2457
+Gueye,Abdoulaye,Chirurgie,2458
+Fall,Mamadou,Gynecologie,2459
+Fall,Ousmane,Gynecologie,2460
+Diallo,Moussa,Chirurgie,2461
+Sow,Moussa,Chirurgie,2462
+Kane,Khady,Medecine generale,2463
+Gueye,Cheikh,Medecine generale,2464
+Gueye,Mariama,Chirurgie,2465
+Sow,Moussa,Pediatrie,2466
+Faye,Cheikh,Chirurgie,2467
+Diallo,Awa,Pediatrie,2468
+Gueye,Mariama,Dermatologie,2469
+Sy,Mamadou,Cardiologie,2470
+Sow,Aminata,Cardiologie,2471
+Ndiaye,Awa,Gynecologie,2472
+Sarr,Aminata,Dermatologie,2473
+Sy,Ousmane,Dermatologie,2474
+Diop,Mamadou,Medecine generale,2475
+Diallo,Moussa,Gynecologie,2476
+Ba,Oumar,Cardiologie,2477
+Sarr,Awa,Medecine generale,2478
+Diop,Mamadou,Dermatologie,2479
+Ndiaye,Awa,Dermatologie,2480
+Ndiaye,Oumar,Medecine generale,2481
+Sow,Awa,Dermatologie,2482
+Ba,Abdoulaye,Cardiologie,2483
+Ndiaye,Aminata,Chirurgie,2484
+Ndiaye,Moussa,Dermatologie,2485
+Ba,Mariama,Dermatologie,2486
+Kane,Cheikh,Dermatologie,2487
+Ba,Ousmane,Cardiologie,2488
+Sy,Fatou,Cardiologie,2489
+Ndiaye,Mamadou,Gynecologie,2490
+Diop,Awa,Chirurgie,2491
+Diallo,Fatou,Chirurgie,2492
+Faye,Aminata,Pediatrie,2493
+Sy,Awa,Cardiologie,2494
+Sarr,Ibrahima,Pediatrie,2495
+Sy,Abdoulaye,Chirurgie,2496
+Ndiaye,Mamadou,Dermatologie,2497
+Diallo,Ousmane,Cardiologie,2498
+Kane,Moussa,Gynecologie,2499
+Sow,Moussa,Medecine generale,2500
+Gueye,Fatou,Chirurgie,2501
+Ndiaye,Awa,Medecine generale,2502
+Diallo,Khady,Cardiologie,2503
+Gueye,Cheikh,Medecine generale,2504
+Ndiaye,Ibrahima,Dermatologie,2505
+Faye,Moussa,Pediatrie,2506
+Gueye,Awa,Pediatrie,2507
+Fall,Ousmane,Dermatologie,2508
+Ndiaye,Ousmane,Gynecologie,2509
+Diallo,Awa,Gynecologie,2510
+Faye,Mariama,Cardiologie,2511
+Sy,Ousmane,Dermatologie,2512
+Fall,Mariama,Chirurgie,2513
+Kane,Abdoulaye,Cardiologie,2514
+Gueye,Awa,Dermatologie,2515
+Diallo,Aminata,Cardiologie,2516
+Sow,Ibrahima,Pediatrie,2517
+Kane,Fatou,Chirurgie,2518
+Sarr,Mariama,Gynecologie,2519
+Sy,Ibrahima,Cardiologie,2520
+Ba,Mamadou,Dermatologie,2521
+Sow,Oumar,Gynecologie,2522
+Kane,Khady,Pediatrie,2523
+Sow,Awa,Pediatrie,2524
+Faye,Mariama,Cardiologie,2525
+Ba,Ibrahima,Dermatologie,2526
+Diop,Ousmane,Pediatrie,2527
+Faye,Mamadou,Medecine generale,2528
+Sy,Oumar,Chirurgie,2529
+Kane,Oumar,Dermatologie,2530
+Sow,Khady,Cardiologie,2531
+Sarr,Mariama,Chirurgie,2532
+Sy,Mariama,Chirurgie,2533
+Kane,Cheikh,Gynecologie,2534
+Sy,Khady,Dermatologie,2535
+Sarr,Fatou,Pediatrie,2536
+Kane,Abdoulaye,Chirurgie,2537
+Sy,Ibrahima,Dermatologie,2538
+Gueye,Fatou,Gynecologie,2539
+Sy,Mamadou,Chirurgie,2540
+Diop,Abdoulaye,Medecine generale,2541
+Faye,Aminata,Dermatologie,2542
+Sow,Ousmane,Dermatologie,2543
+Diop,Ousmane,Cardiologie,2544
+Kane,Aminata,Medecine generale,2545
+Faye,Mamadou,Gynecologie,2546
+Fall,Awa,Dermatologie,2547
+Kane,Moussa,Medecine generale,2548
+Fall,Mamadou,Chirurgie,2549
+Gueye,Mariama,Chirurgie,2550
+Fall,Oumar,Chirurgie,2551
+Diallo,Moussa,Pediatrie,2552
+Sow,Fatou,Medecine generale,2553
+Ndiaye,Khady,Gynecologie,2554
+Ba,Abdoulaye,Gynecologie,2555
+Diallo,Cheikh,Dermatologie,2556
+Fall,Mariama,Pediatrie,2557
+Faye,Cheikh,Pediatrie,2558
+Ndiaye,Cheikh,Medecine generale,2559
+Sy,Moussa,Pediatrie,2560
+Faye,Mamadou,Gynecologie,2561
+Sy,Fatou,Dermatologie,2562
+Sy,Cheikh,Cardiologie,2563
+Sarr,Mariama,Medecine generale,2564
+Sow,Ibrahima,Pediatrie,2565
+Gueye,Khady,Gynecologie,2566
+Ndiaye,Mamadou,Cardiologie,2567
+Sy,Mariama,Cardiologie,2568
+Gueye,Aminata,Pediatrie,2569
+Kane,Awa,Pediatrie,2570
+Fall,Moussa,Medecine generale,2571
+Diallo,Mariama,Gynecologie,2572
+Sy,Mariama,Gynecologie,2573
+Diop,Oumar,Cardiologie,2574
+Faye,Mariama,Medecine generale,2575
+Sarr,Mariama,Medecine generale,2576
+Ndiaye,Mariama,Cardiologie,2577
+Fall,Abdoulaye,Dermatologie,2578
+Faye,Khady,Pediatrie,2579
+Kane,Ibrahima,Chirurgie,2580
+Diallo,Khady,Medecine generale,2581
+Diallo,Ibrahima,Cardiologie,2582
+Fall,Oumar,Medecine generale,2583
+Faye,Mariama,Cardiologie,2584
+Gueye,Cheikh,Gynecologie,2585
+Sarr,Mariama,Medecine generale,2586
+Sow,Khady,Cardiologie,2587
+Faye,Ibrahima,Gynecologie,2588
+Kane,Awa,Pediatrie,2589
+Ba,Mamadou,Pediatrie,2590
+Diallo,Abdoulaye,Pediatrie,2591
+Sarr,Fatou,Chirurgie,2592
+Kane,Mamadou,Dermatologie,2593
+Diallo,Moussa,Dermatologie,2594
+Ndiaye,Mariama,Cardiologie,2595
+Kane,Mariama,Gynecologie,2596
+Kane,Aminata,Gynecologie,2597
+Diop,Mariama,Cardiologie,2598
+Diallo,Fatou,Chirurgie,2599
+Ndiaye,Abdoulaye,Cardiologie,2600
+Fall,Khady,Chirurgie,2601
+Ba,Cheikh,Dermatologie,2602
+Ndiaye,Awa,Chirurgie,2603
+Ba,Ousmane,Cardiologie,2604
+Kane,Oumar,Medecine generale,2605
+Sarr,Awa,Pediatrie,2606
+Sy,Oumar,Gynecologie,2607
+Sarr,Ibrahima,Chirurgie,2608
+Faye,Mamadou,Chirurgie,2609
+Faye,Cheikh,Medecine generale,2610
+Fall,Fatou,Chirurgie,2611
+Kane,Ibrahima,Gynecologie,2612
+Sarr,Khady,Dermatologie,2613
+Ba,Aminata,Chirurgie,2614
+Gueye,Mariama,Medecine generale,2615
+Faye,Mamadou,Cardiologie,2616
+Sy,Moussa,Gynecologie,2617
+Fall,Ousmane,Pediatrie,2618
+Diallo,Moussa,Gynecologie,2619
+Kane,Oumar,Chirurgie,2620
+Faye,Aminata,Gynecologie,2621
+Sarr,Fatou,Medecine generale,2622
+Sarr,Moussa,Gynecologie,2623
+Sy,Moussa,Pediatrie,2624
+Kane,Ousmane,Pediatrie,2625
+Gueye,Mariama,Cardiologie,2626
+Diop,Cheikh,Pediatrie,2627
+Sarr,Oumar,Dermatologie,2628
+Gueye,Khady,Chirurgie,2629
+Fall,Awa,Cardiologie,2630
+Diop,Abdoulaye,Medecine generale,2631
+Sarr,Cheikh,Cardiologie,2632
+Ndiaye,Moussa,Chirurgie,2633
+Sarr,Khady,Pediatrie,2634
+Ba,Awa,Gynecologie,2635
+Faye,Ibrahima,Chirurgie,2636
+Diallo,Oumar,Gynecologie,2637
+Ba,Ibrahima,Dermatologie,2638
+Sow,Aminata,Medecine generale,2639
+Fall,Aminata,Gynecologie,2640
+Sy,Abdoulaye,Gynecologie,2641
+Gueye,Khady,Dermatologie,2642
+Ba,Khady,Dermatologie,2643
+Kane,Oumar,Gynecologie,2644
+Sarr,Awa,Medecine generale,2645
+Sarr,Ousmane,Dermatologie,2646
+Kane,Khady,Dermatologie,2647
+Kane,Ibrahima,Medecine generale,2648
+Faye,Oumar,Dermatologie,2649
+Ba,Mariama,Chirurgie,2650
+Kane,Ibrahima,Gynecologie,2651
+Diop,Abdoulaye,Pediatrie,2652
+Kane,Ousmane,Cardiologie,2653
+Ba,Oumar,Gynecologie,2654
+Gueye,Khady,Medecine generale,2655
+Sy,Ibrahima,Medecine generale,2656
+Sy,Aminata,Medecine generale,2657
+Ba,Ousmane,Medecine generale,2658
+Fall,Awa,Dermatologie,2659
+Gueye,Fatou,Gynecologie,2660
+Ndiaye,Ibrahima,Chirurgie,2661
+Ba,Ibrahima,Pediatrie,2662
+Kane,Ibrahima,Pediatrie,2663
+Fall,Cheikh,Dermatologie,2664
+Ndiaye,Mariama,Medecine generale,2665
+Diallo,Fatou,Cardiologie,2666
+Diallo,Oumar,Cardiologie,2667
+Gueye,Oumar,Cardiologie,2668
+Diop,Mamadou,Dermatologie,2669
+Diop,Cheikh,Dermatologie,2670
+Diop,Mariama,Pediatrie,2671
+Sow,Mamadou,Cardiologie,2672
+Sow,Abdoulaye,Pediatrie,2673
+Fall,Aminata,Medecine generale,2674
+Gueye,Khady,Chirurgie,2675
+Gueye,Mamadou,Medecine generale,2676
+Sow,Ousmane,Medecine generale,2677
+Diallo,Mamadou,Chirurgie,2678
+Diallo,Mamadou,Cardiologie,2679
+Sarr,Mariama,Medecine generale,2680
+Faye,Moussa,Chirurgie,2681
+Gueye,Moussa,Pediatrie,2682
+Diallo,Mamadou,Chirurgie,2683
+Gueye,Cheikh,Pediatrie,2684
+Kane,Moussa,Chirurgie,2685
+Sarr,Oumar,Chirurgie,2686
+Ndiaye,Fatou,Cardiologie,2687
+Ndiaye,Khady,Dermatologie,2688
+Gueye,Abdoulaye,Cardiologie,2689
+Kane,Ibrahima,Pediatrie,2690
+Diop,Awa,Pediatrie,2691
+Diallo,Aminata,Cardiologie,2692
+Kane,Awa,Medecine generale,2693
+Ndiaye,Moussa,Cardiologie,2694
+Sy,Cheikh,Chirurgie,2695
+Gueye,Ibrahima,Dermatologie,2696
+Kane,Fatou,Medecine generale,2697
+Ndiaye,Mariama,Chirurgie,2698
+Sow,Moussa,Medecine generale,2699
+Diallo,Oumar,Medecine generale,2700
+Sow,Mamadou,Chirurgie,2701
+Sow,Aminata,Chirurgie,2702
+Sow,Moussa,Chirurgie,2703
+Sarr,Ousmane,Pediatrie,2704
+Sy,Fatou,Gynecologie,2705
+Faye,Cheikh,Medecine generale,2706
+Gueye,Mariama,Gynecologie,2707
+Sy,Abdoulaye,Cardiologie,2708
+Gueye,Fatou,Gynecologie,2709
+Diop,Abdoulaye,Pediatrie,2710
+Ndiaye,Ibrahima,Chirurgie,2711
+Faye,Mamadou,Cardiologie,2712
+Sarr,Mamadou,Dermatologie,2713
+Ba,Mariama,Cardiologie,2714
+Fall,Mariama,Gynecologie,2715
+Ba,Cheikh,Gynecologie,2716
+Gueye,Mariama,Gynecologie,2717
+Gueye,Abdoulaye,Cardiologie,2718
+Sarr,Cheikh,Gynecologie,2719
+Ba,Ousmane,Cardiologie,2720
+Diallo,Fatou,Medecine generale,2721
+Ndiaye,Ibrahima,Dermatologie,2722
+Diop,Fatou,Dermatologie,2723
+Diop,Khady,Medecine generale,2724
+Sow,Mariama,Gynecologie,2725
+Diop,Ibrahima,Cardiologie,2726
+Kane,Cheikh,Medecine generale,2727
+Sy,Aminata,Cardiologie,2728
+Ndiaye,Mamadou,Pediatrie,2729
+Sy,Ibrahima,Dermatologie,2730
+Diallo,Ousmane,Chirurgie,2731
+Sy,Khady,Cardiologie,2732
+Diallo,Ibrahima,Cardiologie,2733
+Fall,Ibrahima,Cardiologie,2734
+Faye,Ousmane,Gynecologie,2735
+Fall,Aminata,Gynecologie,2736
+Diallo,Mariama,Dermatologie,2737
+Sy,Mamadou,Dermatologie,2738
+Gueye,Ibrahima,Medecine generale,2739
+Ndiaye,Aminata,Gynecologie,2740
+Faye,Abdoulaye,Cardiologie,2741
+Sy,Ibrahima,Pediatrie,2742
+Faye,Oumar,Cardiologie,2743
+Sarr,Oumar,Pediatrie,2744
+Diallo,Oumar,Pediatrie,2745
+Fall,Mariama,Dermatologie,2746
+Sy,Oumar,Gynecologie,2747
+Gueye,Ousmane,Cardiologie,2748
+Gueye,Ibrahima,Medecine generale,2749
+Sow,Fatou,Cardiologie,2750
+Kane,Fatou,Cardiologie,2751
+Kane,Cheikh,Medecine generale,2752
+Ba,Mamadou,Dermatologie,2753
+Diallo,Abdoulaye,Chirurgie,2754
+Gueye,Fatou,Cardiologie,2755
+Kane,Moussa,Pediatrie,2756
+Faye,Mamadou,Pediatrie,2757
+Diop,Ibrahima,Dermatologie,2758
+Sy,Fatou,Chirurgie,2759
+Sow,Ousmane,Dermatologie,2760
+Ba,Cheikh,Medecine generale,2761
+Fall,Ousmane,Gynecologie,2762
+Sow,Mariama,Pediatrie,2763
+Diop,Mamadou,Cardiologie,2764
+Sow,Oumar,Gynecologie,2765
+Sy,Ibrahima,Medecine generale,2766
+Sarr,Ibrahima,Chirurgie,2767
+Ndiaye,Mariama,Pediatrie,2768
+Ndiaye,Fatou,Pediatrie,2769
+Fall,Ousmane,Chirurgie,2770
+Ba,Abdoulaye,Gynecologie,2771
+Diallo,Oumar,Medecine generale,2772
+Diallo,Mariama,Dermatologie,2773
+Sarr,Mamadou,Dermatologie,2774
+Ba,Awa,Cardiologie,2775
+Faye,Ousmane,Cardiologie,2776
+Diallo,Khady,Chirurgie,2777
+Diop,Abdoulaye,Cardiologie,2778
+Fall,Ibrahima,Cardiologie,2779
+Sy,Khady,Chirurgie,2780
+Sow,Mamadou,Dermatologie,2781
+Kane,Ibrahima,Chirurgie,2782
+Diop,Oumar,Dermatologie,2783
+Ba,Abdoulaye,Chirurgie,2784
+Diallo,Oumar,Medecine generale,2785
+Sy,Fatou,Cardiologie,2786
+Ndiaye,Moussa,Dermatologie,2787
+Sow,Ousmane,Medecine generale,2788
+Ndiaye,Awa,Cardiologie,2789
+Faye,Oumar,Gynecologie,2790
+Faye,Mariama,Chirurgie,2791
+Sy,Ousmane,Medecine generale,2792
+Gueye,Ousmane,Medecine generale,2793
+Sow,Khady,Chirurgie,2794
+Sy,Cheikh,Chirurgie,2795
+Fall,Cheikh,Cardiologie,2796
+Sarr,Mariama,Dermatologie,2797
+Sow,Mamadou,Dermatologie,2798
+Sow,Ousmane,Dermatologie,2799
+Sy,Abdoulaye,Cardiologie,2800
+Fall,Mamadou,Pediatrie,2801
+Kane,Oumar,Dermatologie,2802
+Faye,Khady,Chirurgie,2803
+Sarr,Oumar,Gynecologie,2804
+Ndiaye,Fatou,Medecine generale,2805
+Ndiaye,Ousmane,Medecine generale,2806
+Ba,Ousmane,Dermatologie,2807
+Gueye,Fatou,Medecine generale,2808
+Ba,Abdoulaye,Pediatrie,2809
+Sarr,Ibrahima,Gynecologie,2810
+Ba,Aminata,Cardiologie,2811
+Kane,Ousmane,Chirurgie,2812
+Gueye,Awa,Medecine generale,2813
+Sarr,Ousmane,Medecine generale,2814
+Ndiaye,Abdoulaye,Medecine generale,2815
+Ndiaye,Abdoulaye,Medecine generale,2816
+Faye,Mariama,Cardiologie,2817
+Sarr,Mamadou,Chirurgie,2818
+Diop,Aminata,Gynecologie,2819
+Fall,Mamadou,Pediatrie,2820
+Diallo,Oumar,Chirurgie,2821
+Kane,Mariama,Cardiologie,2822
+Ba,Ibrahima,Dermatologie,2823
+Diallo,Ousmane,Chirurgie,2824
+Kane,Cheikh,Cardiologie,2825
+Fall,Abdoulaye,Pediatrie,2826
+Diop,Fatou,Cardiologie,2827
+Faye,Mariama,Gynecologie,2828
+Gueye,Moussa,Cardiologie,2829
+Ba,Aminata,Medecine generale,2830
+Faye,Khady,Cardiologie,2831
+Ndiaye,Ousmane,Pediatrie,2832
+Ndiaye,Ousmane,Gynecologie,2833
+Ba,Fatou,Chirurgie,2834
+Sarr,Moussa,Medecine generale,2835
+Sy,Cheikh,Medecine generale,2836
+Faye,Moussa,Medecine generale,2837
+Diop,Oumar,Pediatrie,2838
+Sarr,Ibrahima,Cardiologie,2839
+Kane,Aminata,Medecine generale,2840
+Ba,Mariama,Cardiologie,2841
+Diop,Moussa,Chirurgie,2842
+Diallo,Ibrahima,Medecine generale,2843
+Faye,Cheikh,Chirurgie,2844
+Kane,Moussa,Gynecologie,2845
+Faye,Ousmane,Pediatrie,2846
+Diop,Fatou,Medecine generale,2847
+Diallo,Ousmane,Medecine generale,2848
+Ba,Awa,Medecine generale,2849
+Sow,Mariama,Medecine generale,2850
+Ndiaye,Mariama,Chirurgie,2851
+Ba,Cheikh,Gynecologie,2852
+Kane,Ousmane,Gynecologie,2853
+Ndiaye,Mariama,Gynecologie,2854
+Faye,Aminata,Cardiologie,2855
+Ndiaye,Cheikh,Gynecologie,2856
+Diallo,Mariama,Pediatrie,2857
+Sy,Mariama,Cardiologie,2858
+Faye,Ousmane,Dermatologie,2859
+Gueye,Ibrahima,Medecine generale,2860
+Ba,Khady,Dermatologie,2861
+Faye,Mamadou,Cardiologie,2862
+Gueye,Fatou,Dermatologie,2863
+Sy,Aminata,Medecine generale,2864
+Ndiaye,Mariama,Chirurgie,2865
+Fall,Khady,Gynecologie,2866
+Sow,Awa,Pediatrie,2867
+Diallo,Cheikh,Pediatrie,2868
+Gueye,Ibrahima,Medecine generale,2869
+Ndiaye,Moussa,Chirurgie,2870
+Ndiaye,Fatou,Gynecologie,2871
+Kane,Aminata,Medecine generale,2872
+Sarr,Mamadou,Gynecologie,2873
+Gueye,Oumar,Gynecologie,2874
+Ndiaye,Aminata,Gynecologie,2875
+Sy,Aminata,Pediatrie,2876
+Gueye,Mariama,Chirurgie,2877
+Diop,Aminata,Chirurgie,2878
+Kane,Fatou,Cardiologie,2879
+Ndiaye,Ibrahima,Medecine generale,2880
+Sow,Mamadou,Dermatologie,2881
+Gueye,Cheikh,Medecine generale,2882
+Kane,Ousmane,Pediatrie,2883
+Gueye,Moussa,Chirurgie,2884
+Ndiaye,Aminata,Medecine generale,2885
+Ba,Mariama,Cardiologie,2886
+Ndiaye,Moussa,Gynecologie,2887
+Faye,Khady,Gynecologie,2888
+Kane,Ibrahima,Dermatologie,2889
+Kane,Cheikh,Pediatrie,2890
+Diop,Aminata,Medecine generale,2891
+Ndiaye,Cheikh,Gynecologie,2892
+Ba,Awa,Chirurgie,2893
+Diallo,Abdoulaye,Cardiologie,2894
+Diallo,Moussa,Cardiologie,2895
+Diop,Ibrahima,Chirurgie,2896
+Fall,Mariama,Pediatrie,2897
+Fall,Ousmane,Gynecologie,2898
+Sarr,Mariama,Dermatologie,2899
+Sy,Ousmane,Chirurgie,2900
+Fall,Abdoulaye,Cardiologie,2901
+Gueye,Awa,Cardiologie,2902
+Faye,Khady,Pediatrie,2903
+Sarr,Moussa,Dermatologie,2904
+Ndiaye,Khady,Gynecologie,2905
+Kane,Abdoulaye,Pediatrie,2906
+Sy,Aminata,Dermatologie,2907
+Sy,Abdoulaye,Pediatrie,2908
+Gueye,Mariama,Chirurgie,2909
+Ndiaye,Fatou,Dermatologie,2910
+Ba,Mamadou,Chirurgie,2911
+Fall,Cheikh,Chirurgie,2912
+Kane,Abdoulaye,Gynecologie,2913
+Gueye,Mamadou,Dermatologie,2914
+Faye,Ousmane,Gynecologie,2915
+Diallo,Moussa,Gynecologie,2916
+Sy,Abdoulaye,Medecine generale,2917
+Ndiaye,Fatou,Dermatologie,2918
+Faye,Ousmane,Medecine generale,2919
+Diop,Awa,Dermatologie,2920
+Ba,Ousmane,Cardiologie,2921
+Ndiaye,Ousmane,Dermatologie,2922
+Kane,Fatou,Chirurgie,2923
+Sy,Ibrahima,Medecine generale,2924
+Kane,Oumar,Pediatrie,2925
+Kane,Abdoulaye,Gynecologie,2926
+Gueye,Mamadou,Dermatologie,2927
+Sow,Oumar,Cardiologie,2928
+Faye,Abdoulaye,Cardiologie,2929
+Fall,Ousmane,Dermatologie,2930
+Ndiaye,Mamadou,Pediatrie,2931
+Ba,Abdoulaye,Dermatologie,2932
+Diop,Oumar,Cardiologie,2933
+Ndiaye,Ibrahima,Cardiologie,2934
+Ba,Abdoulaye,Gynecologie,2935
+Ba,Ibrahima,Gynecologie,2936
+Sy,Mariama,Chirurgie,2937
+Diallo,Mamadou,Gynecologie,2938
+Ba,Mamadou,Pediatrie,2939
+Faye,Awa,Dermatologie,2940
+Sy,Abdoulaye,Pediatrie,2941
+Sow,Abdoulaye,Chirurgie,2942
+Faye,Cheikh,Gynecologie,2943
+Gueye,Khady,Chirurgie,2944
+Ndiaye,Ousmane,Medecine generale,2945
+Faye,Fatou,Medecine generale,2946
+Sy,Cheikh,Medecine generale,2947
+Diop,Oumar,Chirurgie,2948
+Ba,Ousmane,Chirurgie,2949
+Faye,Awa,Gynecologie,2950
+Ndiaye,Ousmane,Gynecologie,2951
+Sy,Ibrahima,Dermatologie,2952
+Diallo,Mamadou,Chirurgie,2953
+Faye,Moussa,Cardiologie,2954
+Faye,Ousmane,Medecine generale,2955
+Ba,Awa,Cardiologie,2956
+Sarr,Khady,Medecine generale,2957
+Gueye,Ousmane,Cardiologie,2958
+Sy,Oumar,Dermatologie,2959
+Faye,Mariama,Medecine generale,2960
+Sarr,Khady,Dermatologie,2961
+Gueye,Moussa,Medecine generale,2962
+Diop,Ibrahima,Gynecologie,2963
+Sow,Abdoulaye,Pediatrie,2964
+Sow,Moussa,Gynecologie,2965
+Sy,Ibrahima,Dermatologie,2966
+Diop,Cheikh,Cardiologie,2967
+Ndiaye,Cheikh,Pediatrie,2968
+Faye,Fatou,Cardiologie,2969
+Diop,Ibrahima,Gynecologie,2970
+Ba,Aminata,Gynecologie,2971
+Kane,Cheikh,Medecine generale,2972
+Fall,Cheikh,Medecine generale,2973
+Sow,Moussa,Gynecologie,2974
+Ndiaye,Awa,Chirurgie,2975
+Kane,Cheikh,Chirurgie,2976
+Ndiaye,Awa,Gynecologie,2977
+Sow,Ousmane,Cardiologie,2978
+Kane,Mariama,Cardiologie,2979
+Sarr,Moussa,Chirurgie,2980
+Sow,Mamadou,Dermatologie,2981
+Ba,Fatou,Cardiologie,2982
+Fall,Cheikh,Chirurgie,2983
+Sow,Abdoulaye,Chirurgie,2984
+Faye,Fatou,Dermatologie,2985
+Faye,Fatou,Dermatologie,2986
+Sow,Ibrahima,Medecine generale,2987
+Fall,Mamadou,Medecine generale,2988
+Diop,Fatou,Cardiologie,2989
+Ndiaye,Cheikh,Dermatologie,2990
+Gueye,Oumar,Chirurgie,2991
+Sow,Ousmane,Dermatologie,2992
+Diallo,Oumar,Chirurgie,2993
+Sow,Fatou,Dermatologie,2994
+Faye,Mamadou,Pediatrie,2995
+Ndiaye,Mariama,Cardiologie,2996
+Diop,Moussa,Chirurgie,2997
+Gueye,Moussa,Dermatologie,2998
+Ba,Khady,Pediatrie,2999
+Diop,Ibrahima,Chirurgie,3000

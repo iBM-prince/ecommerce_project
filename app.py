@@ -24,7 +24,7 @@ def get_connection():
 # ======================
 menu = st.sidebar.selectbox(
     "Menu",
-    ["Patients", "Médecins", "Rendez-vous", "Tests de performances"]
+    ["Patients", "Médecins", "Rendez-vous", "Hospitalisations", "Traitements", "Tests de performances"]
 )
 
 # ======================
@@ -34,6 +34,7 @@ if menu == "Patients":
     st.header("👤 Liste des patients")
 
     query = "SELECT * FROM patients"
+    st.code(query, language="sql")
     df, t = execute_query(query)
 
     st.dataframe(df)
@@ -46,6 +47,7 @@ elif menu == "Médecins":
     st.header("👨‍⚕️ Liste des médecins")
 
     query = "SELECT id_med, nom_med, prenom_med, specialite FROM medecins"
+    st.code(query, language="sql")
     df, t = execute_query(query)
 
     st.dataframe(df)
@@ -64,6 +66,7 @@ elif menu == "Rendez-vous":
     JOIN patients p ON r.id_pat = p.id_pat
     JOIN medecins m ON r.id_med = m.id_med
     """
+    st.code(query, language="sql")
 
     df, t = execute_query(query)
 
@@ -71,6 +74,31 @@ elif menu == "Rendez-vous":
     st.success(f"Temps d'exécution : {t:.6f} secondes")
 
 # ======================
+# HOSPITALISATIONS
+# ======================
+elif menu == "Hospitalisations":
+    st.header("🏥 Hospitalisations")
+    query = "SELECT * FROM hospitalisations"
+    st.code(query, language="sql")
+    df, t = execute_query(query)
+    st.dataframe(df)
+    st.success(f"Temps d'exécution : {t:.6f} secondes")
+
+
+
+# ======================
+# TRAITEMENTS
+# ====================    
+
+elif menu == "Traitements":
+    st.header("💊 Traitements")
+    query = "SELECT * FROM traitements"
+    st.code(query, language="sql")
+    df, t = execute_query(query)
+    st.dataframe(df)
+    st.success(f"Temps d'exécution : {t:.6f} secondes")
+
+
 # PERFORMANCE
 # ======================
 elif menu == "Tests de performances":
@@ -87,6 +115,7 @@ elif menu == "Tests de performances":
             JOIN medecins m ON r.id_med = m.id_med
         """
     }
+    
 
     results = []
 

@@ -115,7 +115,9 @@ print("Fichier patients.csv genere avec succes.")
 
 #FICHIER CSV MEDECINS
 
-medecin_ids = random.sample(range(1, NB_LIGNES + 1), 3000)
+# Les médecins sont des utilisateurs avec role='medecin'
+# On prend les 3000 premiers utilisateurs (qui vont être les médecins)
+medecin_ids = list(range(1, 3001))
 
 with open('medecins.csv', 'w', newline='', encoding='utf-8') as f:
     writer = csv.writer(f)
@@ -142,7 +144,7 @@ with open('rendez_vous.csv', 'w', newline='', encoding='utf-8') as f:
         writer.writerow([
             random_date(2024, 2026).strftime('%Y-%m-%d'),
             random.randint(1, NB_LIGNES),
-            random.randint(1, 3000)
+            random.randint(1, 3000)  # Les IDs des médecins vont de 1 à 3000
         ])
 
 print("Fichier rendez_vous.csv genere avec succes.")

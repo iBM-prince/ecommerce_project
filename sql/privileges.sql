@@ -1,21 +1,15 @@
--- GESTIONS DES DROITS POUR LES DIFFERENTS UTILISATEURS --
-
+-- GESTION DES DROITS POUR LES DIFFERENTS UTILISATEURS --
 
 -- DROITS POUR L'ADMINISTRATEUR --
-grant all privileges on hopital_db.* to 'admin_hopital'@'localhost';
-
-show grants for 'admin_hopital'@'localhost';
+GRANT ALL PRIVILEGES ON hopital_db.* TO 'admin_hopital'@'localhost';
+SHOW GRANTS FOR 'admin_hopital'@'localhost';
 
 -- DROITS POUR LE MEDECIN --
-grant select,insert on hopital_db.* to 'medecin_user'@'localhost';
-
-revoke update,delete,create,drop on hopital_db.* from 'medecin_user'@'localhost';
-
-show grants for 'medecin_user'@'localhost';
+GRANT SELECT, INSERT ON hopital_db.* TO 'medecin_user'@'localhost';
+REVOKE UPDATE, DELETE, CREATE, DROP ON hopital_db.* FROM 'medecin_user'@'localhost';
+SHOW GRANTS FOR 'medecin_user'@'localhost';
 
 -- DROITS POUR L'AGENT --
-grant select on hopital_db.* to 'agent_user'@'localhost';
-
-revoke insert,update,delete,create,drop on hopital_db.* from 'agent_user'@'localhost';
-
-show grants for 'agent_user'@'localhost';
+GRANT SELECT ON hopital_db.* TO 'agent_user'@'localhost';
+REVOKE INSERT, UPDATE, DELETE, CREATE, DROP ON hopital_db.* FROM 'agent_user'@'localhost';
+SHOW GRANTS FOR 'agent_user'@'localhost';

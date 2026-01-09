@@ -1,11 +1,4 @@
--- CREATION DE LA BASE DE DONNEES HOPITAL_DB --
 
-CREATE DATABASE hopital_db;
-
--- UTILISATION DE LA BASE DE DONNEES HOPITAL_DB --
-
-USE hopital_db;
--- CREATION DE LA TABLE UTILISATEURS --
 
 create table utilisateurs(id_user int auto_increment primary key,
             nom varchar(100) not null, prenom varchar(100) not null, 
