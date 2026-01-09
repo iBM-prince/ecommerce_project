@@ -2,25 +2,33 @@ import time
 import mysql.connector
 import pandas as pd
 
-def get_connection():
+# Connexion à la base
+def get_connection(user="root", password="", database="hopital_db"):
     return mysql.connector.connect(
         host="localhost",
-        user="root",
-        password="",      # ⚠️ mets ton mot de passe MySQL si besoin
-        database="hopital_db"
+        user=user,
+        password=password,
+        database=database
     )
 
-def execute_query(query):
-    conn = get_connection()
+# Exécution d'une requête SQL avec mesure du temps
+def execute_query(query, user="root", password=""):
+    conn = get_connection(user=user, password=password)
     cursor = conn.cursor(dictionary=True)
 
     start = time.time()
     cursor.execute(query)
-    result = cursor.fetchall()
+    # Si SELECT, récupérer le résultat
+    if query.strip().upper().startswith("SELECT"):
+        result = cursor.fetchall()
+        df = pd.DataFrame(result)
+    else:
+        conn.commit()  # INSERT, UPDATE, DELETE
+        df = pd.DataFrame()
     end = time.time()
 
     cursor.close()
     conn.close()
 
     execution_time = end - start
-    return pd.DataFrame(result), execution_time
+    return df, execution_time
