@@ -23,7 +23,7 @@ def execute_query(query, user="root", password=""):
         result = cursor.fetchall()
         df = pd.DataFrame(result)
     else:
-        conn.commit()  # INSERT, UPDATE, DELETE
+        conn.commit()  
         df = pd.DataFrame()
     end = time.time()
 
